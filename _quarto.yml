@@ -1,0 +1,93 @@
+lang: en
+engine: knitr
+project:
+  type: book
+  output-dir: docs
+  resources: resources
+
+execute:
+  freeze: auto
+
+book:
+  title: 'Recognising and rewarding open research in research assessment'
+  subtitle: "Demo"
+  author: "UKRN"
+  cover-image: images/logos/logo.png
+  image: images/logos/logo.png
+  favicon: images/logos/favicon.ico
+  #cookie-consent: true
+  #google-analytics: "G-6NP3MF25W3"
+  page-navigation: true
+  search: true
+  # comments:
+  #   hypothesis:
+  #     theme: clean
+  #     openSidebar: false
+  #repo-url: https://github.com/psyteachr/ads-v3/
+  #repo-branch: master
+  #repo-actions: [edit, issue, source]
+#  downloads: [pdf, epub]
+  sharing:
+  - twitter
+  - facebook
+  - linkedin
+  # sidebar:
+  #   style: docked
+  #   background: light
+#  margin-header: "<a href='https://doi.org/10.5281/zenodo.6365077'><img src='https://zenodo.org/badge/DOI/10.5281/zenodo.6365077.svg' alt='DOI'></a>"
+  page-footer:
+    left: "CC-BY 2024, UKRN"
+    right:
+    - icon: github
+      href: https://github.com/UKRN/OR4-demo
+   #   - icon: twitter
+    #    href: https://twitter.com/ukrn
+     # - icon: https://zenodo.org/badge/DOI/10.5281/zenodo.6365077.svg
+      #  href: https://doi.org/10.5281/zenodo.6365077
+  chapters:
+  - index.qmd
+  - maturity-framework.qmd
+  - self-assessment.qmd
+  - part: "Guide"
+    chapters:
+    - guide-contents.qmd
+    - guide-intro.qmd
+    - guide-01.qmd
+    - guide-02.qmd
+    - guide-03.qmd
+    - guide-04.qmd
+    - guide-05.qmd
+    - guide-06.qmd
+    - guide-07.qmd
+    - guide-08.qmd
+    - guide-09.qmd
+  appendices:
+  - glossary.qmd
+
+
+bibliography:
+  - include/book.bib
+csl: include/apa.csl
+
+format:
+  html:
+    theme:
+      light:
+      - flatly
+      - include/light.scss
+      dark:
+      - darkly
+      - include/dark.scss
+    css:
+    - include/style.css
+    df-print: kable
+    code-link: true
+    code-fold: false
+    code-line-numbers: true
+    code-overflow: wrap
+    code-copy: hover
+    highlight-style: a11y
+    mainfont: ''
+    monofont: ''
+    include-after-body:
+    - include/script.js

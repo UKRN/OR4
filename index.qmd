@@ -1,0 +1,12 @@
+# Toolkit Overview {.unnumbered}
+
+```{r, include = FALSE}
+# adds glossary capacity
+#devtools::install_github("debruine/glossary")
+library(glossary)
+glossary_path("glossary.yml")
+```
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in `r glossary("open research")` voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, `r glossary("DORA")` sunt in culpa qui officia deserunt mollit anim id est laborum.
+

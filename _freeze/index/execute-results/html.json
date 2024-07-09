@@ -1,0 +1,16 @@
+{
+  "hash": "5d96f39d885a55eb31f8461e4692729a",
+  "result": {
+    "markdown": "# Toolkit Overview {.unnumbered}\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in <a class='glossary'>open research<span class='def'>Research and research outputs that are accessible, transparent, reproducible (where relevant) and re-usable. Open research practices include open access publication of research, and sharing other research and research-related outputs as openly as possible using standard licences that facilitate re-use. Relevant outputs may include research data, code, software, digital resources, preregistered study designs, methods and protocols, preprints, peer reviews and hardware designs. Open research may also include citizen science that involves members of the public in the design and execution of research. The principles of open research are affirmed in the UNESCO Recommendation on Open Science adopted by its 193 member states (see entry below), and are widely recognised by funders  and research-performing organisations.  Definitions of all major open science terms and initiatives, alongside further supporting resources, can be found in the Framework for Open and Reproducible Research Training Glossary.</span></a> voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, <a class='glossary'>DORA<span class='def'>Published in 2013, the San Francisco Declaration on Research Assessment was the first substantial initiative to articulate the case for research assessment reform.  Many institutions and individuals have signed up to the Declaration and initiated reform activities based on its recommendations. It has become a worldwide initiative covering all scholarly disciplines and all key stakeholders including funders, publishers, professional societies, institutions, and researchers.</span></a> sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

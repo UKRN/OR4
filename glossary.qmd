@@ -1,0 +1,11 @@
+# Glossary
+
+
+```{r, include = FALSE}
+# adds glossary capacity
+library(glossary)
+glossary_path("glossary.yml")
+glossary_load_all()
+```
+
+`r glossary_table()`
