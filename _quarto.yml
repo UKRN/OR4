@@ -1,12 +1,40 @@
 lang: en
 engine: knitr
 project:
-  type: book
+  type: website
   output-dir: docs
   resources: resources
 
 execute:
   freeze: auto
+
+website:
+  title: "Recognising and rewarding open research in research assessment"
+  site-url: https://UKRN.github.io/OR4-demo
+  repo-url: https://github.com/UKRN/OR4-demo
+  image: images/logo.png
+  favicon: images/favicon.ico
+  navbar:
+    logo: /images/logos/logo.png
+    logo-alt: "Globe with UKRN and big pink UK"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Guide"
+        contents:
+          - guide-contents.qmd
+          - guide-01.qmd
+          - guide-02.qmd
+          - guide-03.qmd
+      - glossary.qmd
+  page-footer:
+    background: primary
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/UKRN/OR4-demo
+
 
 book:
   title: 'Recognising and rewarding open research in research assessment'
