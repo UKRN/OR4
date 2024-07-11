@@ -120,3 +120,9 @@ a.glossary:active .def::after {
   border-style: solid;
   border-color: #333 transparent transparent transparent;
 }
+
+.image-links a {
+  max-width: 100px;
+  float: left;
+  padding: 0.5em;
+}

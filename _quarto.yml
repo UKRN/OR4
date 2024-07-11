@@ -17,17 +17,40 @@ website:
   navbar:
     logo: /images/logos/logo.png
     logo-alt: "Globe with UKRN and big pink UK"
+    right:
+      - text: "Framework"
+        href: maturity-framework.qmd
+      - text: "Guide"
+        href: guide-intro.qmd
+      - text: "Glossary"
+        href: glossary.qmd
   sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "Guide"
-        contents:
-          - guide-contents.qmd
+    - title: "Guide"
+      style: "docked"
+      contents:
+        - section: Guide
+          contents:
+          - guide-intro.qmd
           - guide-01.qmd
           - guide-02.qmd
           - guide-03.qmd
-      - glossary.qmd
+          - guide-04.qmd
+          - guide-05.qmd
+          - guide-06.qmd
+          - guide-07.qmd
+          - guide-08.qmd
+          - guide-09.qmd
+        - section: Resources
+          contents:
+          - text: "Maturity Framework PDF"
+            href: resources/04_0r4-resourcepack-maturityframework-v1.pdf
+    - title: "Framework"
+      style: "docked"
+      contents:
+        - maturity-framework.qmd
+        - self-assessment.qmd
+        - text: "Maturity Framework PDF"
+          href: resources/04_0r4-resourcepack-maturityframework-v1.pdf
   page-footer:
     background: primary
     right:
