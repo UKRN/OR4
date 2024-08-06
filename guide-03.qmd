@@ -1,6 +1,6 @@
 # 3. Strategy and planning 
 
-Do you have a strategic plan owned by a stakeholder group for developing open research culture and practice, and is recognition and reward for open research addressed in this plan and any related policies/plans concerning the assessment of researchers? 
+> Do you have a strategic plan owned by a stakeholder group for developing open research culture and practice, and is recognition and reward for open research addressed in this plan and any related policies/plans concerning the assessment of researchers? 
 
 ## Why is this important? 
 
