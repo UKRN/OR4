@@ -1,3 +1,68 @@
-# Guide 09
+# 9. Research planning  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Are institutional research planning policies and procedures effectively aligned with open research criteria in research assessment? 
+
+## Why is this important? 
+
+- Institutional and individual-level research planning should be consistent with criteria and requirements for the assessment of researchers, including those related to open research, in order to ensure that research activity is optimised to deliver against assessment criteria and that drivers of research activity are not misaligned. 
+
+- Institutional-level research planning is strongly influenced by systemic factors such as the REF that reinforce a tendency to exclusive focus on the research publication. It will take political will to ensure that meaningful representation of open research activities and outputs in research planning and ultimately in research practice actually increases. 
+
+- Including open research objectives in research planning policies and processes will encourage researchers to integrate open research practices in their research planning and to plan for the production of open research outputs.  
+
+## Maturity scale 
+
+[Add row of maturity framework as table] 
+
+## Progress actions 
+
+Here are suggestions for key actions that can be taken to progress from one level of the maturity framework to the next. These can be considered when you develop an institutional action plan.  
+
+### No Action to Emerging 
+
+- Identify open research as an area of strategic focus in research planning activities at institutional, group and individual level. 
+
+- Develop some open research objectives for use in research planning activities, e.g. relating to open access and data sharing. 
+
+### Emerging to Evolving 
+
+- Develop more systematic open research objectives in research planning, aligned to institutional open research strategy and criteria of recognition and reward for open research. 
+
+- Identify relevant measures to be collected and reported, and implement reporting against specified open research objectives in relevant research planning and management activities. 
+
+### Evolving to Sustained 
+
+- Demonstrate systematic integration of open research objectives in research planning at institutional, intra-institutional and individual level. 
+
+- Demonstrate substantive progress in implementation and reporting of open research objectives in relevant planning and research management activities. 
+
+## Main areas of activity 
+
+### Including open research objectives in research planning  
+
+Given the dominance of the research publication as the global currency of research, institutional planning objectives will remain largely focused on publications and will only practically engage with a greater diversity of outputs as the result of a sustained effort. The same planning framework will influence the definition of objectives for institutional research units (Schools, Departments, research divisions, research groups) and for individuals. 
+
+Research planning at institutional, unit and individual level has the power to define what is important to the institution, and to influence research practice. It can drive adoption and use of open research practices, and ensure that open research outputs have greater visibility within institutional systems that support the planning, management and ultimately the assessment of research. But planning strategy will need to be aligned and supported at all levels of the institution. There are likely to be challenges here in ensuring consistency where planning activities are organised and managed at different levels by different stakeholders. 
+
+Research planning will be informed by research assessment expectations. Institutional-level research planning will be influenced by the eligibility and assessment criteria of the REF and the requirements of funders among other factors. These expectations will in turn inform planning and objectives for intra-institutional research units and for individual researchers. There will be policies and processes associated with these activities, which must be updated to take account of expectations/requirements related to recognition and reward for open research. Changes will need to be supported by communications with research leaders and managers, provision of guidance, and professional services support. Training may also need to be provided. Further information is provided in the Guidance and training section. 
+
+As it becomes easier to cite and provide access to a wider range of open research outputs by means of trustworthy research infrastructure and persistent identifiers, and to quantify aspects of their use by means of reliable indicators, they will acquire greater visibility within institutional systems. This will make it easier to specify measurable objectives related to them and to build institutional activities and services around them. In this way, open research objectives could be cascaded through the institution. For example:  
+
+- at an institutional level, research planning could set open research KPIs/objectives, e.g. to increase numbers of datasets deposited in repositories and cited from research publications. Information could be extracted from data availability statements associated with publications, although systems and workflows will be required to capture and analyse this information.  
+
+- Support for open research is an aspect of the 'People, Culture and Environment' element of the REF, and the 'Contribution to Knowledge and Understanding' element will enable institutions to evidence a greater diversity of research activities and outputs.10 REF planning can anticipate these requirements and work with the institution's open research leadership and support to begin developing its strategy for addressing them. 
+
+- research units could be asked to define open research objectives appropriate to the disciplines and types of research it covers, to work with its researchers to increase relevant activities and outputs, and to report progress upwards. Dedicated professional services support could be provided to boost capacity, for example through tailored training sessions or workshops, and one-to-one expert support for specific practices, such as pre-registration, data sharing and software publishing. Objectives could also be set to build open research capacity in strategic areas through recruitment and promotion; 
+
+- within the wider frame of institutional and local open research objectives, individual research planning objectives can be tailored to the researcher's specific context and aligned to open research criteria for promotion. This might involve development of individual research plans focusing on the acquisition of open research skills or the production and communication of open research outputs in addition to publications. 
+
+These requirements may inform design and use of systems for collecting and managing open research information, as discussed in the Support, systems and processes guide. 
+
+## Case studies 
+
+Coming soon!
+ 
+
+## Useful resources 
+
+Coming soon!
