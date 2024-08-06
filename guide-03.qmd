@@ -1,3 +1,69 @@
-# Guide 03
+# 3. Strategy and planning 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Do you have a strategic plan owned by a stakeholder group for developing open research culture and practice, and is recognition and reward for open research addressed in this plan and any related policies/plans concerning the assessment of researchers? 
+
+## Why is this important? 
+
+- Recognition and reward for open research practice must be situated within wider strategic activity to develop open research culture and practice in the institution. Researchers could lack awareness of open research or the motivations, skills and resources to effectively adopt open research practices. 
+
+- Implementing recognition and reward for open research should be a key element of research assessment reform.  
+
+- Implementing expectations related to open research in research assessment will not be effective if the institution does not also develop policy and infrastructure, and provide information, training and support to create an environment in which open research practice is enabled and incentivised. 
+
+## Maturity scale 
+
+[Add row of maturity framework as table] 
+
+## Progress actions 
+
+Here are suggestions for key actions that can be taken to progress from one level of the maturity framework to the next. These can be considered when you develop an institutional action plan.  
+
+### No Action to Emerging 
+
+- Create and secure approval for a strategic action plan to develop open research culture and practice which identifies recognition and reward for open research as an area for action. 
+
+- Where research assessment reform work is undertaken by an existing group, ensure that there is representation for open research in this group. 
+
+- Establish recognition and reward for open research as an objective, and discuss the infrastructure, training, and support that may be required. 
+
+### Emerging to Evolving 
+
+- Demonstrate progress against an open research action plan. 
+
+- Ensure there is a group, sub-group and/or detailed plan for implementing research assessment reform, including recognition and reward for open research, which is agreed and owned by the relevant stakeholder group. 
+
+- Demonstrate progress against the research assessment reform implementation plan, with members of the stakeholder group working to deliver primary objectives.  
+
+### Evolving to Sustained 
+
+- Demonstrate that substantive progress has been made against the action plan to develop open research culture and practice. 
+
+- Demonstrate that primary objectives of the research assessment reform implementation plan have been delivered, with recognition and reward for open research integrated into all relevant research assessment policies and procedures. 
+
+- Move from implementation to a consolidation and embedding of operational activity, with monitoring and reporting to the relevant oversight committee/group. 
+
+## Main areas of activity 
+
+### Open research action plan 
+
+A strategic action plan to develop open research culture and practice may be created and implemented. The plan is likely to identify objectives, deliverables, dates, responsibilities and measures of attainment, and needs to be supported by a commitment of staff time and other resources required for effective implementation. The plan needs to be managed on an ongoing basis, and to demonstrate and report progress against specified milestones to a relevant committee with oversight.3 It should include as one of its objectives to implement recognition and reward for open research in institutional assessment systems. 
+
+Implementation of recognition and reward for open research may not be directly owned by an open research stakeholder group, as it is likely to sit within wider activity on assessment or similar. An open research lead should ensure that relevant research assessment reform objectives are within the scope of the activity and are appropriately defined and owned by this group. In practice this should entail someone on groups responsible for assessment having a specific brief to represent the open research interest. 
+
+Recognition and reward for open research will be one primary objective of the open research strategic plan, which will be enabled by more general progress in developing the culture and practice of open research in the institution. As open research is progressively established in the mainstream of institutional research activities, and as open research practice increases, it will become more usual for researchers to evidence the use of open research practices when presenting their work, and for this to be expected and recognised by those involved in the assessment of researchers.  
+
+### Implementing recognition and reward for open research in research assessment reform 
+
+Within plans for research assessment reform, recognition and reward for open research should be included. This is likely to affect many areas of assessment activity, including the development of policy and procedures, and any guidance, training and support. Open research expertise will be necessary to ensure open research is fully integrated into all aspects of the implementation plan and that these elements are delivered as work progresses. 
+
+Recognition and reward for open research can be addressed as part of planning to meet the first Core Commitment, to 'Recognise the diversity of contributions to, and careers, in research in accordance with the needs and nature of the research'. The purpose of this Commitment is to broaden the range of research activities and outputs recognised, to include inter alia 'diverse outputs beyond journal publications' and 'practices that contribute to robustness, openness, transparency and the inclusiveness of research'. This Commitment can be linked to the 'Diversity, inclusiveness and collaboration' Principle, which discusses a wide range of research outputs and explicitly mentions open science practices. 
+
+## Case studies 
+
+Coming soon!
+
+ 
+
+## Useful resources 
+
+Coming soon!
