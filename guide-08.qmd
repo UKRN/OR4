@@ -1,3 +1,78 @@
-# Guide 08
+# 8. Monitoring and evaluation 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you established priorities in implementing responsible research assessment, including recognition and reward for open research, and have processes to monitor and report on compliance with implemented processes been established? 
+
+## Why is this important? 
+
+- Measures of progress in meeting the implementation objectives related to recognition and reward for open research will need to be established and reported on.  
+
+- Formal reporting of established measures to an institutional sponsor group can demonstrate progress and empower the group to make informed interventions, e.g. to refine or further develop policies and procedures, and to enforce policy compliance. 
+
+- Monitoring can measure compliance with policy expectations and support interventions aimed at improving practice, for example by referring staff for training. 
+
+## Maturity scale 
+
+[Add row of maturity framework as table] 
+
+## Progress actions 
+
+Here are suggestions for key actions that can be taken to progress from one level of the maturity framework to the next. These can be considered when you develop an institutional action plan.  
+
+### No Action to Emerging 
+
+- Undertake some baseline observation and analysis of current practice in relation to recognition of open research in research assessment. 
+
+### Emerging to Evolving 
+
+- Establish measures and processes for reporting on use of open research criteria in research assessment during and after implementation of changes, and ensure processes and support are in place. 
+
+- Demonstrate increases in use of open research evidence within research assessments and researcher engagement in some areas of the institution. 
+
+- Establish processes for intervention where areas for improvement are identified. 
+
+### Evolving to Sustained 
+
+- Take repeat measures following implementation and report on progress, using analysis to inform further development in policy and procedure. 
+
+- Establish business-as-usual monitoring measures, processes and responsibilities, with institutional oversight and reporting.  
+
+- Demonstrate sustained increases in use of open research evidence within research assessments and researcher engagement across several areas in the institution.  
+
+- Demonstrate effective responsive action where areas for improvement have been identified, e.g. through targeted communications, performance and development review, and training. 
+
+## Main areas of activity 
+
+### Measuring progress  
+
+Monitoring and reporting on activities can formalise expectations and support effective implementation of research assessment reform, including recognition and reward for open research. This will require establishment of the baseline from which change starts, and monitoring over time to take measures of progress towards the identified goals. Repeated assessments using the OR4 maturity framework may enable an institution to gain an overview of progress over time. Institutions are also likely to have their own priority areas and initiatives to evaluate which may consider more specific outcomes. Implementation progress can be reported to the institutional sponsor group. This may also be the group to which ongoing progress post-implementation will be reported. 
+
+Given the number and variety of researcher assessment activities that an institution undertakes, a representative sampling approach may be necessary. For example, relevant activities in a small number of Schools or Departments might be observed during a defined time period. The same activities in the same areas could then be observed during similar time periods at later dates. These may be the areas in which changes to procedures are piloted before being rolled out more widely. The selection should ensure that a suitable variety of disciplinary cultures is represented, for example by including sciences, social sciences and arts and humanities disciplines. On a longer-term basis a random sampling approach across all areas of institutional activity might be used. 
+
+It will be necessary to define the information of relevance and the methods of data collection by which current practice can be characterised and progress measured. There are a wide range of open research indicators which could be considered (ukrn.org/open-research-indicators). In respect of recognition and reward for open research, examples of methods by which data might be obtained include:   
+
+- analysis of a sample of job advertisements for open research criteria/keywords; 
+
+- analysis of a sample of applications e.g. presence of open research keywords, citation of outputs other than peer-reviewed publications;  
+
+- documentation of review processes, for example by the chair of a panel. This might be a checklist-based exercise to capture evidence about use of metrics and open research criteria in assessment;  
+
+- collection of feedback from candidates and committees/panels, which could ask about the role of open research considerations in assessment; 
+
+- collection of data on completion of training in responsible research assessment which addresses recognition and reward for open research.  
+
+This information can provide indicative data about compliance with policy across the institution and support evaluation of the impact and effectiveness of policy. 
+
+### Interventions 
+
+Given that the changes being introduced are not just procedural but cultural, it can be expected that they will take a considerable time to become embedded in business as usual. For a researcher to be able to evidence open research practices, they must have used those practices, and given the current low levels of adoption, many researchers may have little evidence to offer. But the progressive evolution of open research culture and practice will in due course increase the volume of evidence available, and the knowledge that open research is recognised and rewarded by an institution will be one important factor among others driving that increase in volume. 
+
+It will be important to be able to identify non-compliance and sub-optimal practice, so that remedial action can be put in place, for example by means of changes to procedures, targeted communications, conversations as part of performance and development review, and support or training.  
+
+## Case studies 
+
+Coming soon!
+
+ 
+## Useful resources 
+
+Coming soon!
