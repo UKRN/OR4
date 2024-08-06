@@ -1,3 +1,80 @@
-# Guide 04
+# 4. Communication and engagement 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Are you undertaking strategic communication activity to engage key stakeholders required to implement recognition and reward for open research, to inform members of the research community of changes to policies and procedures, and to ensure researchers' perspectives and experiences are voiced and heard? 
+
+## Why is this important? 
+
+- A programme of communication and engagement will be integral to any strategic action to develop open research culture and practice in the institution. 
+
+- Stakeholders are critical to the approval, promotion and implementation of recognition of open research in research assessment and therefore must be engaged and have the opportunity to contribute where appropriate. 
+
+- Employees and recruitment candidates may be unfamiliar with the idea that open research practice can and should be recognised in research assessment, and may not necessarily agree. It takes sustained effort to develop awareness, understanding and active engagement with policy and practice related to recognition and reward for open research.   
+
+## Maturity scale 
+
+[Add row of maturity framework as table] 
+
+## Progress actions 
+
+Here are suggestions for key actions that can be taken to progress from one level of the maturity framework to the next. These can be considered when you develop an institutional action plan.  
+
+### No Action to Emerging 
+
+- Disseminate a range of communications that indicate recognition and reward for open research as an upcoming strategic ambition or aim. 
+
+- Facilitate conversations with key stakeholders surrounding an established need for greater consideration of open research in recognition and reward practices. 
+
+### Emerging to Evolving 
+
+- Develop an open research communication and engagement plan, which includes communications around recognition and reward for open research, associated with published institutional commitments and strategic plans. 
+
+- Ensure regular communications relating to recognition and reward for open research are included as a key theme in research assessment reform communication plan, where this is separately managed. 
+
+- Undertake consultation on proposals for inclusion of open research recognition and reward in research assessment reform, engaging key stakeholders to develop buy-in and obtain input.  
+
+- Ensure there are established mechanisms and channels for feedback and that there is effective representation of researchers' interests on strategic oversight groups. 
+
+### Evolving to Sustained 
+
+- Ensure information about recognition and reward for open research is integrated into relevant procedures, e.g. recruitment, probation, promotion, etc., and references relevant guidance and training, and that those supporting implementation understand and apply the policy.  
+
+- Include communications relating to recognition and reward for open research as part of open research communications, using research leaders and managers and open research advocates to amplify and target messages. 
+
+## Main areas of activity 
+
+### Open research communication and engagement plan 
+
+It is imperative that any actions, policies or support specifically relating to reward and recognition of open practices are widely communicated to all relevant stakeholders. Many institutions have already developed communication and engagement activities to support strategic activity related to open research more broadly. Examples of such activities include: the publication of open research statements, with supporting web pages providing information, guidance and case studies of open research practice; the organisation of conference and workshop events themed around open research topics; open research award competitions; the appointment of open research champions; and communications related to significant open research developments, such as the adoption of a rights retention policy for publications by the institution. Such activities may not always sit within a single strategic communications plan; they may be undertaken by different stakeholders within the organisation and may not be explicitly organised around an open research theme. However, to progress through to maturity, institutions would be expected to have a structured plan for disseminating plans on reward and recognition for open research specifically. Not everyone will agree that open research should be recognised and rewarded in research assessment activities, and communications planning will need to take account of likely resistances. 
+
+By developing an open research communication and engagement plan, the open research stakeholder group can facilitate a strategic and co-ordinated approach to communications, in order to target these effectively and communicate key messages. A stakeholder analysis can help with this. It will largely overlap with the stakeholder analysis for research assessment reform, although there may be stakeholders with specific interests and expertise in open research who will need to be engaged, including:  
+
+- members of any stakeholder group overseeing strategic action related to open research; 
+
+- members of professional services who support open research, such as colleagues supporting open access and research data management and research software engineers, as well as those who may support procedures that will be affected, such as colleagues in HR;  
+
+- open research advocates, such as UKRN Local Network Leads or those in other institutionally appointed champion roles, and individuals who have a profile as open research advocates. 
+
+### Open research recognition and reward communications 
+
+Communications related to implementation of recognition and reward for open research are likely to be developed and managed as part of the communications plan for research assessment reform.  
+
+Key phases of communication might be:  
+
+- signalling intent and engaging key stakeholders: this phase might accompany the making of any institutional commitments, such as signing the Agreement on Reforming Research Assessment; 
+
+- consultation with key stakeholders over proposals: for example, a draft research assessment policy, or proposed changes to academic promotion criteria; 
+
+- publication and promotion of a research assessment web page, containing information about institutional commitments and policy, guidance and training; 
+
+- ongoing communications to consolidate and embed changes, increase awareness, and ensure those affected are informed about expectations, requirements and support, using research leaders and managers, relevant research support functions, such as HR and open research support teams, and open research champions to target and amplify key messages; 
+
+- ensuring there is some representation of researchers' interests on strategic oversight groups, so that there is a formal channel for feedback about policy and procedures. 
+
+## Case studies 
+
+Coming soon!
+ 
+
+## Useful resources 
+
+Coming soon!
