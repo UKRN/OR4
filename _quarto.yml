@@ -122,13 +122,13 @@ csl: include/apa.csl
 
 format:
   html:
-    theme:
-      light:
-      - flatly
-      - include/light.scss
-      dark:
-      - darkly
-      - include/dark.scss
+    theme: cosmo
+      # light:
+      # - flatly
+      # - include/light.scss
+      # dark:
+      # - darkly
+      # - include/dark.scss
     css:
     - include/style.css
     df-print: kable
