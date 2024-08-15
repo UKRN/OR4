@@ -25,7 +25,7 @@ Each section of the nine main sections of the guide follows a standard format:
 Explore the guide using the Contents sidebar to the left or the buttons below. 
 
 :::{.image-links}
-[![](images/logos/logo.png)Guide 01](guide-01.html)
+[![](images/logos/logo.png)Guide 001](guide-01.html)
 [![](images/logos/logo.png)Guide 02](guide-02.html)
 [![](images/logos/logo.png)Guide 03](guide-03.html)
 [![](images/logos/logo.png)Guide 04](guide-04.html)
