@@ -43,14 +43,14 @@ website:
         - section: Resources
           contents:
           - text: "Maturity Framework PDF"
-            href: resources/04_0r4-resourcepack-maturityframework-v1.pdf
+            href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
     - title: "Framework"
       style: "docked"
       contents:
         - maturity-framework.qmd
         - self-assessment.qmd
         - text: "Maturity Framework PDF"
-          href: resources/04_0r4-resourcepack-maturityframework-v1.pdf
+          href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
   page-footer:
     background: primary
     right:
