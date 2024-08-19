@@ -1,9 +1,62 @@
-# Maturity Framework
+<!-- decide what to do with MF link. add MF table? add link to download self-assessment tool -->
+
+# The OR4 maturity framework
+
+The maturity framework and self-assessment tool can be used by a group of stakeholders in an institution to assess maturity in the implementation of recognition and reward for open research, to support internal discussion and planning, and to measure ongoing progress. 
+
+The maturity framework describes four levels of maturity across nine action areas:
+
+- **No Action**: There is currently no action in this area
+- **Emerging**: There is some developing activity in this area, but it is relatively unsystematic and lacking in strong strategic direction
+- **Evolving**: Activity is developing in a systematic and strategic fashion in this area and is demonstrating progress against defined objectives 
+- **Sustained**: Activity has implemented its main strategic objectives and is consolidating and embedding on a business-as-usual basis.
+
+[Maturity framework table]
+
+## The OR4 self-assessment tool
+
+An assessment undertaken using the maturity framework and the self-assessment tool will generate an overall picture of institutional maturity across all nine action areas at a given point in time. It can enable a group of stakeholders to establish a baseline, identify and focus on the target level of maturity in each action area, plan the means by which this target can be attained, and in due course to measure progress.
+
+How you use the materials is entirely up to you, but we recommend a self-assessment exercise be built around a workshop for a group of stakeholders. The workshop will be most effective if it is established on the basis of a shared understanding of the open research and research assessment reform agendas and the rationale for implementing recognition and reward for open research. The introduction to the implementation guide, [Why recognise and reward open research practice?](guide-intro.qmd), could be read by participants in preparation for the workshop. The [nine sections of the guide](guide-contents.qmd) mapped to the maturity framework can be used to develop a more in-depth understanding of the action areas and to identify key progress actions that can inform the action plan developed in the workshop.
+
+## Template for a self-assessment exercise
+
+###Before the workshop
+
+Identify the group of stakeholders who will participate in the exercise, and the person who will facilitate the session. It may help all members of the group participate on an equal footing if the facilitator is someone independent from the group.
+
+Ask each member of the stakeholder group to:
+
+1. Read the introductory section,  [Why recognise and reward open research practice?](guide-intro.qmd) and spend some time browsing the [guide](guide-contents.qmd). This is to ensure all members of the group have a shared understanding and sense of purpose around recognition and reward for open research
+2. Undertake an independent assessment of institutional maturity using the maturity framework as a reference. The related sections of the guide can be used to explore each action area in greater depth and identify relevant progress actions. The self-assessment tool can be used to document maturity assessments for each of the nine action areas, along with comments and notes on the progress actions the institution should take.
+
+### The workshop
+
+We recommend the workshop is no longer than 2 hours. The workshop can be used to:
+
+-	agree on the current level of maturity in each of the action areas
+-	identify the level of maturity you would like to reach over a given timescale (e.g. 2-3 years later)
+-	identify progress actions necessary to attain the target maturity level, and organise these into the framework for a strategic plan.
+
+The workshop could follow a four-stage format:
+
+1. Introduction.  A set of slides is provided which can be used to set the scene and explain to the group why incorporating recognition and reward for open research into researcher assessment is important. The slides can be freely adapted. 
+2. Breakout groups/discussion 1: 
+  1. discuss individual institutional assessments for each of the nine areas
+  2. compare notes
+  3. agree current and target maturity levels for each of the nine areas
+3.	Breakout groups/discussion 2:
+  1. identify priorities and areas for change
+  2. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections
+4.	Wrap-up: 
+  1. summarise the discussions
+  2. set next steps and allocate actions 
+
+### After the workshop
+
+1. Write up the summary of the exercise
+2. Develop a draft action plan 
+3. Schedule a date to re-run the assessment, e.g. at project conclusion or a milestone stage identified in the plan), in order that progress can be measured and celebrated, and a plan for further action agreed if required.
 
 [Download PDF](resources/04_0r4-resourcepack-maturityframework-v2.pdf)
 
-## Strategy and Leadership
-
-## Implementation
-
-## Managing Progress
