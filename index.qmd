@@ -1,5 +1,3 @@
-# Toolkit Overview {.unnumbered}
-
 ```{r, include = FALSE}
 # adds glossary capacity
 #devtools::install_github("debruine/glossary")
@@ -11,7 +9,7 @@ glossary_path("glossary.yml")
 # Introducing the OR4 toolkit 
 The OR4 toolkit Recognising and rewarding open research in researcher assessment is designed to help universities and other research-performing organisations implement effective recognition and reward for open research through researcher assessment practices. The toolkit will support institutions to use researcher assessments to incentivise, enable and increase the use of open research practices by their researchers. 
 
-The toolkit has been produced by the Open and Responsible Researcher Reward and Recognition Project (OR4).  OR4 is part of the UK Reproducibility Network’s [Open Research Programme](https://www.ukrn.org/open-research-programme/), which aims to accelerate the uptake of open research practices across the UK Higher Education sector.  
+The toolkit has been produced by the [Open and Responsible Researcher Reward and Recognition Project](about.qmd) (OR4).  OR4 is part of the UK Reproducibility Network’s [Open Research Programme](https://www.ukrn.org/open-research-programme/), which aims to accelerate the uptake of open research practices across the UK Higher Education sector.  
 
 ## Who is this for? 
 
@@ -31,11 +29,11 @@ This toolkit sits at the intersection of these two areas. The framework for acti
 
 The main components of the toolkit are: 
 
-* a maturity framework and self-assessment tool that institutions can use to assess their maturity in the implementation of relevant policies and procedures, to support internal discussion and planning, and to measure ongoing progress 
+* a [maturity framework and self-assessment tool[(maturity-framework.qmd) that institutions can use to assess their maturity in the implementation of relevant policies and procedures, to support internal discussion and planning, and to measure ongoing progress 
 
-* an implementation guide consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment, planning and progress. The guide is illustrated with case studies from universities that have participated in the OR4 project and includes resources developed by participating institutions to support implementation of open research reward and recognition. 
+* an [implementation guide](guide-contents.qmd) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment, planning and progress. The guide is illustrated with case studies from universities that have participated in the OR4 project and includes resources developed by participating institutions to support implementation of open research reward and recognition. 
 
 The toolkit will continue to evolve throughout the OR4 project (until 2027), as guidance is updated and new case studies are published. 
 
-Visit the Toolkit overview to find out more. 
+Visit the [Toolkit overview](overview.qmd) to find out more. 
 
