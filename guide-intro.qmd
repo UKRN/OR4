@@ -89,16 +89,51 @@ The greater emphasis on open research in the research assessment reform agenda i
 
 The almost exclusive focus on the assessment of research publications is understandable, given their prominence in the systems of academic recognition and reward. In REF 2021, of 185,353 outputs submitted, 180,509 or 97.4% fell into the main academic publications categories A-E (including authored and edited books, book chapters, journal articles and conference contributions). 154,826 outputs or 83.5% of the total were journal articles. The number of research data sets and databases submitted was 31; the number of software outputs was 11 (Figure 2).^[REF 2021 Submitted outputs' details. <https://results2021.ref.ac.uk/outputs>.]  
 
+![Figure 2. REF 2021 submitted outputs by output type](images/figures/ref-outputs.png)
 
+This heavily skewed distribution is the focus of the [Hidden REF](https://hidden-ref.org/) initiative, which emerged in the runup to the 2021 REF. This campaign highlighted the lack of representation in submissions for non-academic research contributors (such as data scientists, technicians and research software engineers) and for ‘non-traditional’ outputs (i.e. other than publications). Now that the UK is on track for REF 2029, the Hidden REF is campaigning on a [5% manifesto](https://hidden-ref.org/the-5-percent-manifesto/): a target for HEIs to submit at least 5% of non-traditional research outputs. This will be a challenging target to meet, given that in REF 2021 only 2.4% of non-traditional outputs were submitted.
 
+But the landscape is beginning to change, and institutions will need to develop policies that better align to the principles of responsible research assessment.
 
+## The changing national and international research assessment environment 
 
+In comparison to previous national assessment exercises, REF 2029 places greater emphasis on institutional research culture, including use of open research practices. Institutions can provide evidence of this in the 'People, Culture and Environment' element, while the element 'Contribution to Knowledge and Understanding' enables a greater diversity of research activities and outputs to be evidenced.^[Research England (2023), 'Research Excellence Framework 2028: Initial decisions and issues for further consultation'. <https://www.ukri.org/publications/ref2028-initial-decisions-and-issues-for-further-consultation/>.]   
 
+As the national research assessment framework progressively assimilates open research objectives and assessment criteria, institutions will be obliged to conform, and to integrate open research into their own policies, systems and processes. The greater emphasis on open research in the 2029 REF is consistent with international developments, where other national research environments are also beginning to demonstrate greater alignment to the principles embodied in the Agreement on Reforming Research Assessment, and to identify open research as an important element of incentive and reward systems. 
 
+::: {.callout-note collapse="true"}
+## Open research in other national research assessment frameworks
 
+- In the Netherlands, a 2020 report by the National Programme on Open Science argued that reform was needed on three levels: at the level of national assessment, at the institutional level, and at the level of funding agencies. The roadmap for the Dutch Recognition and Rewards Programme identifies open science as a priority, and aims to 'clarify how activities relating to open science and open education will be considered and/or prioritised as a topic of discussion in the development, assessment, appointment and promotion of staff'.^[Hans de Jonge (2023), 'Open science and recognition & rewards: what’s the link between them?' Recognition & Rewards: Embrace the Impact. <https://recognitionrewardsmagazine.nl/2023/open-science/>.] [Funding](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund) has since been ringfenced by the Dutch Research Council (NWO) to support implementation and stimulation of open science culture and practices.
 
+- In 2021 Universities Norway published [NOR-CAM](https://www.uhr.no/en/news-from-uhr/nor-cam-a-toolbox-for-recognition-and-rewards-in-academic-careers.5780.aspx), a national research assessment framework that integrates open science principles in the assessment of academic results, activities and competencies. NOR-CAM was developed from the Open Science Career Assessment Matrix (OS-CAM).^[Working Group on Rewards under Open Science (2017), 'Evaluation of research careers fully acknowledging Open Science practices'. <https://data.europa.eu/doi/10.2777/75255>.]  
 
+- The Irish National Action Plan for Open Research published in 2022 calls for an alignment of research assessment with the principles of open research at both national and institutional level as part of action to establish a culture of open research, and proposes among other actions Adoption of a modified OS-CAM model to the national context.^[NORF (2022). National Action Plan for Open Research. <https://doi.org/10.7486/DRI.ff36jz222>.]   
+:::
 
+## Challenges of including open research in institutional research(er) assessment 
+
+Ensuring the meaningful inclusion of open research objectives in institutional researcher assessment and aligned research planning activities at all levels in an institution is a long-term challenge requiring a sustained effort of leadership and co-ordinated activity. Challenges can be summarised as political,  cultural, practical and operational.
+
+### Political
+
+There is substantial institutional investment in the prevailing publication-based model of research assessment Institutional research KPIs and research elements of league table rankings are largely defined by publication metrics.  Not all research leaders, managers, and researchers will agree that openness is a relevant criterion of research assessment, and securing buy-in to support policy adoption and implementation across relevant procedures may not be straightforward.
+
+### Cultural
+
+There will be similar challenges securing engagement and bringing about changes in practice among the research community at large, in their capacity as both assessors and subjects of research assessment. Many will not have fully integrated open research practices into their working methods and may have concerns they would be disadvantaged. Care will need to be taken that where open research criteria are introduced in researcher assessment practices their use is fair and equitable. Ability to evidence open research practice will depend on the discipline and type of research, and the background and career stage of a researcher. Researchers may have lacked the training, means or opportunity to use open research practices. All of these factors will necessitate the provision of guidance, training and support in the context of sustained activity to develop and support a culture of open research practice.
+
+### Practical
+
+The institution will need an effective operating definition of open research. Researchers and those involved in the assessment of researchers will need to be equipped to identify activities and outputs that fall under that definition, to make an assessment of the degree to which an activity or output fulfils qualifying criteria, and to make an assessment of the value of the activity or output within the context of the assessment as a whole. Each of these requirements presents its own challenges. Many academics may struggle to identify open outputs, or fail to appreciate the difference between, say, a dataset that is published on a project website without a licence and one that has been deposited in a data repository under an open licence and assigned a DOI. 
+
+For many open research outputs there is no pre-publication peer review, and standards of assessment may be difficult to define and apply across a variety of outputs, even of the same type, meaning that outputs often lack markers of certification. It is also often difficult to obtain reliable, comparable quantitative information about the citation and use of many open research outputs.
+
+### Operational
+
+There will be the complex work of implementing the changes to policies and procedures, and underpinning systems, processes and support, creating and delivering guidance and training, monitoring compliance with implemented policies and taking follow-up action as required. This may entail development or addition to existing systems and processes. Systems for management and assessment of research are based in large part on research publications, which are well-defined entities that support citation, quantification and comparison. Mature infrastructure, systems and processes facilitate their dissemination, and the collection and processing of information about them. Models for the integration of open research into institutional research assessment and research planning are yet to be established; but if research assessment is to accommodate a wider range of activities and outputs, this will introduce complexity and additional operational demand. 
+
+The OR4 implementation guide addresses these aspects of implementation, with an emphasis on the political and cultural aspects in the earlier sections moving into the practical and operational aspects in the later sections.
 
 
 
