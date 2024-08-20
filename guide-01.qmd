@@ -18,6 +18,10 @@
 
 [Add row of maturity framework as table] 
 
+| No Action | Emerging | Evolving | Sustained |
+|------|------|------|------|
+| There are no public institutional commitments to open research and responsible research assessment. | There are public institutional commitments to open research and responsible research assessment but little or no recognition of open research in research assessment practice. | There are public institutional commitments to open research and responsible research assessment. There is an explicit commitment to recognise and reward open research in research assessment practice. | Public open research and responsible research assessment commitments are well-integrated into recognition and reward policies and procedures. There is a strong shared understanding of how open research and responsible research assessment contribute to institutional research strategy and overall mission. | 
+
 ## Progress actions 
 
 Here are suggestions for key actions that can be taken to progress from one level of the maturity framework to the next. These can be considered when you develop an institutional action plan.  
