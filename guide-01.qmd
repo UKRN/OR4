@@ -1,3 +1,5 @@
+<!-- last pare of research assessment reform section, link to guide intro should go to subsection Open research and research assessment reform -->
+
 # 1. Institutional Commitment 
 
 > Does your institution make public commitments to the principles and aims of open research and responsible research assessment, which are aligned to the direction of travel in the sector and supported by effective action? 
@@ -48,7 +50,7 @@ Here are suggestions for key actions that can be taken to progress from one leve
 
 ### Open research statement 
 
-Increasing numbers of UK universities, and indeed institutions globally, are adopting public institutional statements of commitment to the principles and aims of open research.1 Their function is to provide the strategic commitment to develop a culture of open research and the high-level framework under which activity and policies (such as those on open access and data sharing) can sit. The statement should be in alignment with (and may reference) the University’s research strategy.  
+Increasing numbers of UK universities, and indeed institutions globally, are adopting public institutional statements of commitment to the principles and aims of open research.^[Sheppard, N. (2020, since updated), 'Open access is not enough: reproducible science, research and scholarship'. UKCORR. Blogpost. <https://www.ukcorr.org/2020/12/02/open-access-is-not-enough-reproducible-science-research-and-scholarship/>.]  Their function is to provide the strategic commitment to develop a culture of open research and the high-level framework under which activity and policies (such as those on open access and data sharing) can sit. The statement should be in alignment with (and may reference) the University’s research strategy.  
 
 It is preferable for the statement to include a commitment to recognise and reward open research practice within institutional assessment. It should reference an institutional statement or policy on responsible research assessment this exists. Reference to statements such as the [UKRI position on open research](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/) and the [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about?hub=686) can serve to emphasise alignment to the sector. 
 
@@ -58,13 +60,13 @@ Members of the institution formulating this commitment will need to reflect on h
 
 With momentum for research assessment reform building globally, many institutions are reviewing or planning to review their research assessment policies and procedures. This may entail publishing or refreshing a statement of commitment to the agenda of research assessment reform.  
 
-Many institutions have already signed the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) (DORA) and will have made a commitment to improve research and researcher assessment within their institutions. As of 7th November 2022, DORA asked signatory institutions to ‘share a public statement detailing their commitment to DORA and responsible research assessment to their communities’.2   
+Many institutions have already signed the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) (DORA) and will have made a commitment to improve research and researcher assessment within their institutions. As of 7th November 2022, DORA asked signatory institutions to ‘share a public statement detailing their commitment to DORA and responsible research assessment to their communities’.^[DORA (2022), 'Engagement and outreach policy'. <https://sfdora.org/sign/>.]   
 
 Whether or not institutions are DORA signatories, there is a case for signing the Agreement on Reforming Assessment to begin the process of establishing specific commitments and a timetable of reform. Signatories commit to develop and share with CoARA within one year of signing the Agreement an [action plan](https://coara.eu/agreement/action-plan/) for reviewing or developing criteria, tools and processes in line with the core Commitments. They also agree to regularly demonstrate progress against this action plan, with a touch point within five years of signing the Agreement.  
 
 Institutions that receive funding from the [Wellcome Trust](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research) are also required to publish on their website a commitment to the use of responsible research assessment aligned with the DORA and CoARA principles. They are expected to have a plan in place for implementing the principles, and for monitoring and reporting on implementation. 
 
-A statement of institutional commitment to research assessment reform should include an undertaking to integrate open research criteria into systems of reward and recognition, in line with the emphasis placed on open research/open science in the Agreement and more recent discussions of responsible research assessment. It should also reference the statement of institutional commitment to open research, where this exists. 
+A statement of institutional commitment to research assessment reform should include an undertaking to integrate open research criteria into systems of reward and recognition, in line with the emphasis placed on open research/open science in the Agreement and [more recent discussions of responsible research assessment](guide-intro.qmd). It should also reference the statement of institutional commitment to open research, where this exists. 
 
 ### Supporting commitments 
 
