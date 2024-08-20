@@ -23,5 +23,45 @@ Institutions therefore need to start developing researcher assessment policies t
 
 The OR4 implementation guide addresses these aspects of implementation, with an emphasis on the political and cultural aspects in the earlier sections moving into the practical and operational aspects in the later sections. 
 
+::: {.callout-note collapse="true"}
 ## Open research and its benefits 
+
+UKRI [describes open research](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/) in the following terms:
+
+> Open research, also widely referred to as open science, relates to how research is performed and how knowledge is shared based on the principle that research should be as open as possible. It also enables research to take advantage of digital technology.
+>
+> Transparency, openness, verification and reproducibility are important features of research and innovation. Open research helps to support and uphold these features across the whole lifecycle of research – improving public value, research integrity, reuse and innovation.
+>
+> Open research also helps to support collaboration within and across disciplines. It is integral to a healthy research culture and environment. 
+
+Open research can be situated in the context of a global discourse about open knowledge and openness in academic practice that often uses the term open science. In the open knowledge paradigm, ‘openness’ is integral to the practices by which research is conducted, communicated, evaluated, validated and instrumentalised. Open research practice is held to have a direct relationship to research integrity (through transparency of methods and outputs), research quality (through the use of evidentiary and reproducible practices), sustainability (through use of appropriate standards and formats, preservation infrastructure, and persistent identifiers), and reach and impact (through the accessibility and re-usability of outputs). 
+:::
+
+## Why shuold open research be part of research assessment?
+
+There are key reasons why open research practices are important in the context of research assessment:
+
+- Open practices support and demonstrate research integrity and quality, by providing transparency about research methods and evidence, and enabling independent verification or reproduction of findings
+
+- Open practices generate a variety of outputs in addition to research publications, such as datasets, software and digital resources, and facilitate their re-use, so maximising opportunities to generate further value
+
+- The broader range of activities and outputs associated with open research practices facilitates a more rounded assessment of a researcher's activities and outputs than is possible where publications are the primary or exclusive focus of assessment.
+
+A researcher who uses open research practices better demonstrates and enables verification of the quality of their research, maximises the potential of their research to generate value, and is able to provide a more representative picture of their research activities. 
+
+Operationalisation of open research incentives and expectations will signal that open practices are considered to be an essential part of how research is carried out. It will power the adoption of open research practices by researchers and lead to improvements in research integrity, quality and impact.
+
+## Open research principles are widely accepted but not fully integrated into research practice
+
+The importance of openness in research is acknowledged by governments, funders, and research-performing institutions. The principles of open research have gained widespread acceptance in recent years. The 2021 adoption by the UNESCO member states of its [Recommendation on Open Science](https://doi.org/10.54677/MNMH8546) marks a significant milestone in this respect. Many public research funders and most research institutions in the UK have established policies on open access to research publications and the management and sharing of research data, which are fundamental open research practices. More recently, some institutions have adopted [statements in support of open research](https://www.ukcorr.org/2020/12/02/open-access-is-not-enough-reproducible-science-research-and-scholarship/), endorsing the principles and aims of open research and encouraging use of relevant open research practices. 
+
+But open research policies and statements are as yet relatively unintegrated into institutional research strategy and planning and actual research practice. Beyond high levels of compliance with open access mandates, driven in large part by the requirements of the UK’s Research Excellence Framework (REF), there is little evidence of widespread open research practice. Rates of effective data sharing are still low.^[See e.g.: Gabelica, M., Bojčić, R. and Puljak, L. (2022), ‘Many researchers were not compliant with their published data sharing statement: a mixed-methods study’. Journal of Clinical Epidemiology, 150: 33-41. <https://doi.org/10.1016/j.jclinepi.2022.05.019>; Lucas-Dominguez, R. et al (2021), ‘The sharing of research data facing the COVID-19 pandemic’. Scientometrics (2021). <https://doi.org/10.1007/s11192-021-03971-6>.] Open research practices are for the most part not incentivised and rewarded; nor, with the exception of open access publication, are they systematically monitored or enforced, either by institutions or by the funders of research. 
+
+## Systems of reward and recognition can drive changes in researcher behaviour and academic cultures
+
+At present, very few institutional recruitment, promotion, probation and appraisal frameworks include reference to open research criteria or outputs other than research publications; standards and practices for evidencing a track record in open research are not well-established; and there is a lack of guidance, training and support related to open research for researchers and staff involved in assessment. In consequence, use of open research practices is rarely evidenced or considered in the formal assessment activities, and is not monitored by institutions.^[See: Pontika, N. et al. (2021), ‘ON-MERRIT D6.1 Investigating institutional structures of reward & recognition in Open Science & RRI (1.0)’. Zenodo. <https://doi.org/10.5281/zenodo.5552197>; Khan, H. et al. (2022), ‘Open science failed to penetrate academic hiring practices: a cross-sectional study’. Journal of Clinical Epidemiology, 144: 136-143. <https://doi.org/10.1016/j.jclinepi.2021.12.003>.]  
+
+With momentum for research assessment reform building globally, there is an opportunity to integrate open research into revised researcher assessment frameworks and practices. Universities play a critical role in the system of academic reward and recognition. It is in their power to include open research criteria in their recruitment specifications, probation objectives and promotion frameworks, performance and development review processes, and research planning activities. By this means researchers can be incentivised and supported to build a track record in open research and to present that track record in an assessment activity, while assessment practices can recognise and give credit for a record of open research practice. This will drive increased adoption of open research practices, and, in time, bear fruit in the recruitment and promotion of staff who are recognised for working in ways that increase the integrity, quality and impact of the institution’s research output.
+
+## The history of research assessment reform can be characterised in terms of an evolution from an agenda focused almost exclusively on the use of publication-based metrics towards a broader framework of responsible research assessment (Figure 1). This broader, more instrumental agenda considers research assessment as a means of enabling the best researchers to flourish, promoting diversity and inclusion, and supporting the production of high-quality research – in short, as a means to engineer research culture. Within this agenda, there has been growing attention to the role of open research practices in relation to research assessment. 
 
