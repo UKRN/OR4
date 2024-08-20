@@ -77,6 +77,25 @@ More recently a broader framework of responsible research assessment has emerged
 
 > Today, research assessment and reward systems generally do not reflect important Open Science contributions, such as curating and sharing datasets and collections, documenting and sharing software (source code), or devoting time and energy to high-quality peer review. New approaches to research assessment that take into account Open Science contributions need to be identified and thoroughly discussed by academic communities.^[European Universities Association (2018), 'EUA Roadmap on Research Assessment in the Transition to Open Science'. <https://eua.eu/resources/publications/316:eua-roadmap-on-research-assessment-in-the-transition-to-open-science.html>.]   
 
+The 'Hong Kong Principles for assessing researchers' (2020) call for assessment to develop a much broader picture of a researcher’s contributions to research and society. It identifies as one of its five principles to ‘Reward the practice of open science (open research)’, and it makes a strong connection between research transparency and research integrity.^[Moher, D. et al. (2020). 'The Hong Kong Principles for assessing researchers: Fostering research integrity'. PLoS Biol 18(7): e3000737. <https://doi.org/10.1371/journal.pbio.3000737>.] The [UNESCO Recommendation on Open Science](https://doi.org/10.54677/MNMH8546) (2021) enjoined member states to remove barriers to open science relating to research and career evaluation and awards systems, stating: 'Assessment of scientific contribution and career progression rewarding good open science practices is needed for operationalization of open science'.
+
+In the [Agreement on Reforming Research Assessment](https://coara.eu/agreement/the-agreement-full-text/), published in 2022 by the Coalition for Advancing Research Assessment (CoARA), ‘openness’ is recognised as being integral to the practices by which research is conducted, communicated and validated, and is identified as a key dimension of research assessment. Under the ‘Quality and impact’ principle of research assessment it states: ‘Openness of research, and results that are verifiable and reproducible where applicable, strongly contribute to quality’. Under the principle ‘Diversity, inclusiveness and collaboration’, signatories agree to: 
+
+> Consider… the full range of research outputs, such as scientific publications, data, software, models, methods, theories, algorithms, protocols, workflows, exhibitions, strategies, policy contributions, etc., and reward research behaviour underpinning open science practices such as early knowledge and data sharing as well as open collaboration within science and collaboration with societal actors where appropriate.
+
+## National and institutional assessment practices need to develop
+
+The greater emphasis on open research in the research assessment reform agenda is relatively recent, and national and institutional research assessment policies have so far reflected a prevailing focus on publications and the responsible use of publication metrics. In a survey undertaken by the OR4 project in 2023, 44 or 73% of 70 institutions stated that they had a responsible research assessment statement or policy. The majority of these were focused on the responsible use of publication metrics.^[Barnett, J. at al. (2024). 'OR4 Research Assessment Survey Report'. Working Paper No 5. <https://doi.org/10.31219/osf.io/z52cn>.] In scope and terminology many of these statements follow and reference DORA and the Leiden Manifesto. 
+
+The almost exclusive focus on the assessment of research publications is understandable, given their prominence in the systems of academic recognition and reward. In REF 2021, of 185,353 outputs submitted, 180,509 or 97.4% fell into the main academic publications categories A-E (including authored and edited books, book chapters, journal articles and conference contributions). 154,826 outputs or 83.5% of the total were journal articles. The number of research data sets and databases submitted was 31; the number of software outputs was 11 (Figure 2).^[REF 2021 Submitted outputs' details. <https://results2021.ref.ac.uk/outputs>.]  
+
+
+
+
+
+
+
+
 
 
 
