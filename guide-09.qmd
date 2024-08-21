@@ -61,8 +61,3 @@ These requirements may inform design and use of systems for collecting and manag
 ## Case studies 
 
 Coming soon!
- 
-
-## Useful resources 
-
-Coming soon!
