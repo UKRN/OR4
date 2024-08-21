@@ -48,7 +48,7 @@ Transparency about assessment criteria and methods is essential. Candidates for 
 
 This guidance will need to include appropriate discussion of the recognition of open research in assessment, and to link to any open research statement, supporting information, and sources of support. Given that awareness and understanding of open research and appropriate practices for presenting, identifying and assessing evidence of open research practice are likely to be relatively undeveloped, guidance will need to be supportive in these respects, and to provide relevant illustrations. This might cover, for example: 
 
-- the definition and scope of open research, and types of practices and outputs that could be cited as evidence 
+- the definition and scope of open research, and types of practices and outputs that could be cited as evidence; 
 
 - defining characteristics of open research and best practice, e.g. sharing of outputs using of open licences, use of sustainable infrastructure such as repositories and persistent identifiers, conformity to FAIR Principles; 
 
