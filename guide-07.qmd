@@ -28,7 +28,7 @@ Here are suggestions for key actions that can be taken to progress from one leve
 
 - Provide research assessment training including consideration of recognition and reward for open research that is available to all members of staff. 
 
-- Encourage completion of research assessment training for key categories of staff, e.g. researchers’ line managers, members of recruitment and promotion panels.  
+- Encourage completion of research assessment training for key categories of staff, e.g. researchers' line managers, members of recruitment and promotion panels.  
 
 ### Evolving to Sustained 
 
@@ -52,7 +52,7 @@ This guidance will need to include appropriate discussion of the recognition of 
 
 - defining characteristics of open research and best practice, e.g. sharing of outputs using of open licences, use of sustainable infrastructure such as repositories and persistent identifiers, conformity to FAIR Principles; 
 
-- the criteria by which evidence of open research will be assessed, and its role within the overall assessment, in alignment with the institution’s research assessment policy; 
+- the criteria by which evidence of open research will be assessed, and its role within the overall assessment, in alignment with the institution's research assessment policy; 
 
 - how to cite a variety of open research outputs across a range of disciplines and types of research, with examples of good citation practice; 
 
