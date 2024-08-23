@@ -1,8 +1,22 @@
+---
+page-navigation: true
+format:
+  html:
+    number-sections: true
+    number-offset: 4
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+---
+
+# Policy and procedure
+
 <!-- In Formulating expectations relating to open research section, link to guide intro should go to subsection Open research and research assessment reform -->
 
-# 5. Policy and procedure 
-
-> Is recognition and reward for open research adopted as institutional policy, and included in all relevant policies and procedures, e.g. those related to recruitment, promotion and other research appraisal activities? 
+::: {.callout .feature}
+Is recognition and reward for open research adopted as institutional policy, and included in all relevant policies and procedures, e.g. those related to recruitment, promotion and other research appraisal activities? 
+:::
 
 ## Why is this important? 
 

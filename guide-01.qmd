@@ -1,8 +1,27 @@
+---
+page-navigation: true
+format:
+  html:
+    number-sections: true
+    number-offset: 0
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+    # other-links:
+    #   - text: UKRN
+    #     href: https://ukrn.org
+    #     target: _blank # opens in a new tab
+    #     icon: github # https://icons.getbootstrap.com/
+---
+
+# Institutional Commitment
+
 <!-- last pare of research assessment reform section, link to guide intro should go to subsection Open research and research assessment reform -->
 
-# 1. Institutional Commitment 
-
-> Does your institution make public commitments to the principles and aims of open research and responsible research assessment, which are aligned to the direction of travel in the sector and supported by effective action? 
+::: {.callout .feature}
+Does your institution make public commitments to the principles and aims of open research and responsible research assessment, which are aligned to the direction of travel in the sector and supported by effective action? 
+:::
 
 ## Why is this important? 
 

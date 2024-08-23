@@ -1,6 +1,20 @@
-# 6. Support, systems and processes 
+---
+page-navigation: true
+format:
+  html:
+    number-sections: true
+    number-offset: 5
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+---
 
-> Has support for open research recognition and reward been effectively operationalised in responsibilities of support staff, and administrative systems and processes? 
+# Support, systems and processes 
+
+::: {.callout .feature}
+Has support for open research recognition and reward been effectively operationalised in responsibilities of support staff, and administrative systems and processes?
+:::
 
 ## Why is this important? 
 
