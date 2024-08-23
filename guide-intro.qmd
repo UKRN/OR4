@@ -32,7 +32,7 @@ Institutions therefore need to start developing researcher assessment policies t
 
 The OR4 implementation guide addresses these aspects of implementation, with an emphasis on the political and cultural aspects in the earlier sections moving into the practical and operational aspects in the later sections. 
 
-::: {.callout-note collapse="true"}
+::: {.callout-note .feature collapse="true"}
 ## Open research and its benefits 
 
 UKRI [describes open research](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/) in the following terms:
@@ -112,7 +112,7 @@ In comparison to previous national assessment exercises, REF 2029 places greater
 
 As the national research assessment framework progressively assimilates open research objectives and assessment criteria, institutions will be obliged to conform, and to integrate open research into their own policies, systems and processes. The greater emphasis on open research in the 2029 REF is consistent with international developments, where other national research environments are also beginning to demonstrate greater alignment to the principles embodied in the Agreement on Reforming Research Assessment, and to identify open research as an important element of incentive and reward systems. 
 
-::: {.callout-note collapse="true"}
+::: {.callout-note .feature collapse="true"}
 ## Open research in other national research assessment frameworks
 
 - In the Netherlands, a 2020 report by the National Programme on Open Science argued that reform was needed on three levels: at the level of national assessment, at the institutional level, and at the level of funding agencies. The roadmap for the Dutch Recognition and Rewards Programme identifies open science as a priority, and aims to 'clarify how activities relating to open science and open education will be considered and/or prioritised as a topic of discussion in the development, assessment, appointment and promotion of staff'.^[Hans de Jonge (2023), 'Open science and recognition & rewards: what's the link between them?' Recognition & Rewards: Embrace the Impact. <https://recognitionrewardsmagazine.nl/2023/open-science/>.] [Funding](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund) has since been ringfenced by the Dutch Research Council (NWO) to support implementation and stimulation of open science culture and practices.

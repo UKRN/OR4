@@ -9,10 +9,10 @@ format:
     toc-expand: 3
     toc-title: Page Contents
     # other-links:
-    #   - text: UKRN
-    #     href: https://ukrn.org
+    #   - text: Maturity Framework
+    #     href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
     #     target: _blank # opens in a new tab
-    #     icon: github # https://icons.getbootstrap.com/
+    #     icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
 
 # Institutional Commitment
@@ -35,11 +35,13 @@ Does your institution make public commitments to the principles and aims of open
 
 ## Maturity scale 
 
-[Add row of maturity framework as table] 
+<!--Add row of maturity framework as table-->
 
 | No Action | Emerging | Evolving | Sustained |
-|------|------|------|------|
-| There are no public institutional commitments to open research and responsible research assessment. | There are public institutional commitments to open research and responsible research assessment but little or no recognition of open research in research assessment practice. | There are public institutional commitments to open research and responsible research assessment. There is an explicit commitment to recognise and reward open research in research assessment practice. | Public open research and responsible research assessment commitments are well-integrated into recognition and reward policies and procedures. There is a strong shared understanding of how open research and responsible research assessment contribute to institutional research strategy and overall mission. | 
+|--------|---------|---------|---------|
+| <span>There are no public institutional commitments to open research and responsible research assessment.</span> | <span>There are public institutional commitments to open research and responsible research assessment but little or no recognition of open research in research assessment practice.</span> | <span>There are public institutional commitments to open research and responsible research assessment. There is an explicit commitment to recognise and reward open research in research assessment practice.</span> | <span>Public open research and responsible research assessment commitments are well-integrated into recognition and reward policies and procedures. There is a strong shared understanding of how open research and responsible research assessment contribute to institutional research strategy and overall mission.</span> |
+
+: {.sm .responsive .framework-table .framework-item}
 
 ## Progress actions 
 

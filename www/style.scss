@@ -21,7 +21,7 @@ $navbar-hl: $green; // highlight color when hovering over navbar links
 $body-bg: $bg; // page background
 $body-color: $text; // page text
 $footer-bg: $lightpurple; // footer
-$link-color: $green; // hyperlinks
+$link-color: mix(black, $green, 25%); // hyperlinks
 
 /*-- scss:rules --*/
 
@@ -152,3 +152,67 @@ a.glossary:active .def::after {
   float: left;
   padding: 0.5em;
 }
+
+figcaption {
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+}
+
+.navbar-title {
+  color: $bg;
+  max-width: 18em;
+  height: 2em;
+  display: inline-block;
+  text-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar-logo {
+    display: none;
+  }
+}
+
+.navbar-nav-scroll {
+  text-align: right;
+}
+
+
+.framework-table thead th {
+  background-color: $darkpurple;
+  color: $bg;
+}
+
+.framework-table tbody tr {
+  border-bottom: 1px solid $darkpurple;
+}
+
+.framework-table tbody td+td {
+  line-height: 1.2em;
+  font-size: smaller;
+  min-width: 12em;
+}
+
+.framework-table tbody td+td span {
+  display: inline-block;
+  max-height: 15em;
+  overflow: scroll;
+}
+
+.framework-item tbody tr td:nth-child(1),
+.framework-table tbody tr td:nth-child(2) {
+  background-color: #F8CCCC;
+}
+.framework-item tbody tr td:nth-child(2),
+.framework-table tbody tr td:nth-child(3) {
+  background-color: #FBE4D5;
+}
+.framework-item tbody tr td:nth-child(3),
+.framework-table tbody tr td:nth-child(4) {
+  background-color: #FEF2CC;
+}
+.framework-item tbody tr td:nth-child(4),
+.framework-table tbody tr td:nth-child(5) {
+  background-color: #E2EFD9;
+}
+

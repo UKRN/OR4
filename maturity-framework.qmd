@@ -1,3 +1,17 @@
+---
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+    other-links:
+      - text: Maturity Framework
+        href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
+        target: _blank # opens in a new tab
+        icon: file-earmark-pdf # https://icons.getbootstrap.com/
+---
+
 <!-- decide what to do with MF link. add MF table? add link to download self-assessment tool -->
 
 # The OR4 maturity framework
@@ -11,7 +25,20 @@ The maturity framework describes four levels of maturity across nine action area
 - **Evolving**: Activity is developing in a systematic and strategic fashion in this area and is demonstrating progress against defined objectives 
 - **Sustained**: Activity has implemented its main strategic objectives and is consolidating and embedding on a business-as-usual basis.
 
-[Maturity framework table]
+| Action Area | No Action | Emerging | Evolving | Sustained |
+|--|---|---|---|---|
+| [Institutional Commitment](guide-01.qmd) | <span>There are no public institutional commitments to open research and responsible research assessment.</span> | <span>There are public institutional commitments to open research and responsible research assessment but little or no recognition of open research in research assessment practice.</span> | <span>There are public institutional commitments to open research and responsible research assessment. There is an explicit commitment to recognise and reward open research in research assessment practice.</span> | <span>Public open research and responsible research assessment commitments are well-integrated into recognition and reward policies and procedures. There is a strong shared understanding of how open research and responsible research assessment contribute to institutional research strategy and overall mission.</span> |
+| [Leadership](guide-02.qmd) | <span>There is no senior strategic leadership for open research or responsible research assessment.</span> | <span>There are identified senior strategic leads for open research and responsible research assessment. Recognition and reward for open research in research assessment is an identified priority for strategic action.</span> | <span>Senior leadership develops actions on open research and responsible research assessment in collaboration with key stakeholders. Actions to recognise open research in research assessment are agreed and supported by relevant leads and promoted by open research advocates across the institution.</span> | <span>Recognition and reward for open research in research assessment is progressed as a strategic priority by members of senior management. External engagement ensures alignment to sector. Leadership in open research is seen and valued across the organisation, and includes researchers, research enablers and open research advocates.</span> |
+| [Strategy & Planning](guide-03.qmd) | | | | |
+| Communication & Engagement | | | | |
+| Policy & Procedure | | | | |
+| Support, Systems & Processes | | | | |
+| Guidance & Training | | | | |
+| Monitoring & Evaluation | | | | |
+| Research Planning | | | | |
+
+: Maturity Framework (under construction) {.sm .responsive .framework-table}
+
 
 ## The OR4 self-assessment tool
 
@@ -21,7 +48,7 @@ How you use the materials is entirely up to you, but we recommend a self-assessm
 
 ## Template for a self-assessment exercise
 
-###Before the workshop
+### Before the workshop
 
 Identify the group of stakeholders who will participate in the exercise, and the person who will facilitate the session. It may help all members of the group participate on an equal footing if the facilitator is someone independent from the group.
 
@@ -42,15 +69,15 @@ The workshop could follow a four-stage format:
 
 1. Introduction.  A set of slides is provided which can be used to set the scene and explain to the group why incorporating recognition and reward for open research into researcher assessment is important. The slides can be freely adapted. 
 2. Breakout groups/discussion 1: 
-  a. discuss individual institutional assessments for each of the nine areas
-  b. compare notes
-  c. agree current and target maturity levels for each of the nine areas
+    a. discuss individual institutional assessments for each of the nine areas
+    b. compare notes
+    c. agree current and target maturity levels for each of the nine areas
 3.	Breakout groups/discussion 2:
-  a. identify priorities and areas for change
-  b. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections
+    a. identify priorities and areas for change
+    b. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections
 4.	Wrap-up: 
-  a. summarise the discussions
-  b. set next steps and allocate actions 
+    a. summarise the discussions
+    b. set next steps and allocate actions 
 
 ### After the workshop
 
