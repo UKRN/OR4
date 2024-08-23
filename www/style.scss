@@ -187,13 +187,14 @@ figcaption {
   border-bottom: 1px solid $darkpurple;
 }
 
+.framework-item tbody td,
 .framework-table tbody td+td {
   line-height: 1.2em;
   font-size: smaller;
   min-width: 12em;
 }
 
-.framework-table tbody td+td span {
+.framework-table tbody td span {
   display: inline-block;
   max-height: 15em;
   overflow: scroll;
