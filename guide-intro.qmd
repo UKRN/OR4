@@ -1,5 +1,4 @@
 ---
-title: Why recognise and reward open research practice?
 page-navigation: true
 format:
   html:
@@ -8,6 +7,8 @@ format:
     toc-expand: 3
     toc-title: Page Contents
 ---
+
+# Why recognise and reward open research practice?
 
 ## Introduction
 
