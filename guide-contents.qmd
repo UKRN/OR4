@@ -1,6 +1,12 @@
 ---
 title: The OR4 implementation guide
 page-navigation: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
 ---
 
 The OR4 implementation guide provides detailed guidance for institutions on implementing effective recognition and reward for open research in researcher assessment. The guide is illustrated with case studies from institutions that have participated in the OR4 project and includes resources developed by participating institutions to support implementation of open research reward and recognition. It can be used by a group of stakeholders to develop a shared understanding of the rationale for recognising and rewarding open research practice and to explore different aspects of implementation in greater depth, in order so support informed planning and implementation. It can be used in conjunction with the [maturity framework](maturity-framework.qmd) and as part of an institutional self-assessment exercise.
