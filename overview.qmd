@@ -1,5 +1,6 @@
 <!-- add graphic links to MF and guide contents page -->
 
+:::{.column-body-outset}
 # OR4 toolkit overview
 
 The OR4 toolkit consists of two main components:
@@ -41,4 +42,5 @@ The toolkit is organised broadly according to the logic of implementation, which
 [![Maturity Framework](images/logos/logo.png){width="75%"}](maturity-framework.qmd)
 
 [![Guide](images/logos/logo.png){width="75%"}](guide-contents.qmd)
+:::
 :::
