@@ -5,7 +5,7 @@ library(glossary)
 glossary_path("glossary.yml")
 ```
 
-
+:::{.column-body-outset}
 # Introducing the OR4 toolkit 
 The OR4 toolkit Recognising and rewarding open research in researcher assessment is designed to help universities and other research-performing organisations implement effective recognition and reward for open research through researcher assessment practices. It can support institutions to develop researcher assessment policies and practices that incentivise, enable and increase the use of open research practices by their researchers. 
 
@@ -34,6 +34,7 @@ The main components of the toolkit are:
 * an [implementation guide](guide-contents.qmd) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment of institutional maturity, planning and progress. The guide is illustrated with case studies from institutions that have participated in the OR4 project and includes resources developed by participating institutions to support implementation of open research reward and recognition. 
 
 The toolkit will continue to evolve throughout the OR4 project (until 2027), as guidance is updated and new case studies are published. 
+:::
 
 Visit the [Toolkit overview](overview.qmd) to find out more. 
 
