@@ -10,7 +10,7 @@ execute:
 
 # "R&R ORiRA"
 website:
-  title: "Recognising and rewarding open research in research assessment"
+  title: "Recognising and rewarding open research"
   site-url: https://UKRN.github.io/OR4-demo
   repo-url: https://github.com/UKRN/OR4-demo
   image: images/logo.png
@@ -25,10 +25,10 @@ website:
         href: about.qmd
       - text: "Overview"
         href: overview.qmd
-      - text: "Framework"
+      - text: "Maturity framework"
         href: maturity-framework.qmd
-      - text: "Guide"
-        href: guide-intro.qmd
+      - text: "Implementation guide"
+        href: guide-contents.qmd
       - text: "Glossary"
         href: glossary.qmd
   sidebar:
@@ -37,6 +37,7 @@ website:
       contents:
         - section: Guide
           contents:
+          - guide-contents.qmd
           - guide-intro.qmd
           - guide-01.qmd
           - guide-02.qmd
