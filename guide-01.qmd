@@ -15,7 +15,7 @@ format:
     #     icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
 
-# Institutional Commitment
+# Institutional commitment
 
 <!-- last pare of research assessment reform section, link to guide intro should go to subsection Open research and research assessment reform -->
 
