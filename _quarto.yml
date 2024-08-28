@@ -59,7 +59,7 @@ website:
                
   page-footer:
     background: primary
-    left: "![](images/cc-by.svg) ©2024 University of Bristol "
+    left: "© 2024 University of Bristol [![](images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/legalcode.en)"
     right:
       - icon: github
         aria-label: GitHub
