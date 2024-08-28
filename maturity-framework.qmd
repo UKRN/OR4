@@ -6,8 +6,8 @@ format:
     toc-expand: 3
     toc-title: Page Contents
     other-links:
-      - text: Maturity Framework
-        href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
+      - text: Maturity framework
+        href: resources/or4-maturityframework.pdf
         target: _blank # opens in a new tab
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
@@ -85,5 +85,5 @@ The workshop could follow a four-stage format:
 2. Develop a draft action plan 
 3. Schedule a date to re-run the assessment, e.g. at project conclusion or a milestone stage identified in the plan), in order that progress can be measured and celebrated, and a plan for further action agreed if required.
 
-[Download maturity framework PDF](resources/04_0r4-resourcepack-maturityframework-v2.pdf)
+[Download maturity framework PDF](resources/or4-maturityframework.pdf)
 
