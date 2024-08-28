@@ -32,10 +32,10 @@ website:
       - text: "Glossary"
         href: glossary.qmd
   sidebar:
-    - title: "Guide"
+    - title: "Implementation guide"
       style: "docked"
       contents:
-        - section: Guide
+        - section: Implementation guide
           contents:
           - guide-contents.qmd
           - guide-intro.qmd
