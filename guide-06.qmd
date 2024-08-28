@@ -24,7 +24,9 @@ Has support for open research recognition and reward been effectively operationa
 
 ## Maturity scale 
 
-[Add row of maturity framework as table] 
+| No Action | Emerging | Evolving | Sustained |
+|---------|---------|---------|---------|
+| <span>There is no operational implementation of recognition and reward for open research in research assessment.</span> | <span>Colleagues enabling open research provide some support for open research recognition and reward, without dedicated responsibilities, systems or processes.</span> | <span>In some research assessment activities, colleagues have defined responsibilities to support recognition and reward for open research, and there has been some development of supporting resources, systems and processes.</span> | <span>Colleagues have defined responsibilities to support recognition and reward for open research in relevant research assessment activities. Resources are allocated and supporting resources, systems and processes are well-developed and operating effectively.</span> |
 
 ## Progress actions 
 
