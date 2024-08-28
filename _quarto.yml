@@ -50,8 +50,8 @@ website:
           - guide-09.qmd
         - section: Resources
           contents:
-          - text: "Maturity Framework PDF"
-            href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
+          - text: "Maturity framework PDF"
+            href: resources/or4-maturityframework.pdf
   page-footer:
     background: primary
     left: "![](images/cc-by.svg) ©2024 University of Bristol "
