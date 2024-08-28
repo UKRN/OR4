@@ -10,9 +10,11 @@ format:
         href: resources/or4-maturityframework.pdf
         target: _blank # opens in a new tab
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
+      - text: Self-assessment tool
+        href: resources/or4-selfassessment.docx
+        target: _blank # opens in a new tab
+        icon: file-earmark-word # https://icons.getbootstrap.com/
 ---
-
-<!-- decide what to do with MF link. add MF table? add link to download self-assessment tool -->
 
 # The OR4 maturity framework
 
