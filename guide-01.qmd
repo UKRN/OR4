@@ -9,8 +9,8 @@ format:
     toc-expand: 3
     toc-title: Page Contents
     # other-links:
-    #   - text: Maturity Framework
-    #     href: resources/04_0r4-resourcepack-maturityframework-v2.pdf
+    #   - text: Maturity framework
+    #     href: resources/or4-maturityframework.pdf
     #     target: _blank # opens in a new tab
     #     icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
