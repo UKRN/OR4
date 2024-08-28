@@ -26,7 +26,9 @@ Are institutional research planning policies and procedures effectively aligned 
 
 ## Maturity scale 
 
-[Add row of maturity framework as table] 
+| No Action | Emerging | Evolving | Sustained |
+|---------|---------|---------|---------|
+| <span>Open research is not considered in institutional and individual research planning activities.</span> | <span>There is some use of open research criteria in institutional and individual research planning activities, but these are not fully aligned with institutional research and assessment strategies.</span> | <span>Open research criteria are defined and reported in institutional and individual research planning activities. Planning identifies open research objectives and links these to institutional strategy related to open research and recognition and reward.</span> | <span>Open research criteria are systematically used and reported in institutional and individual research planning activities. There is evidence of a sustained increase in setting and reporting against open research objectives. Strategic priorities related to open research inform institutional planning.</span> |
 
 ## Progress actions 
 
