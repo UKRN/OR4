@@ -26,7 +26,9 @@ Do you provide guidance and training on recognition and reward for open research
 
 ## Maturity scale 
 
-[Add row of maturity framework as table] 
+| No Action | Emerging | Evolving | Sustained |
+|---------|---------|---------|---------|
+| <span>There is no guidance or training on recognition and reward for open research in research assessment.</span> | <span>Some guidance on recognition and reward for open research is provided for those involved in research assessment.</span> | <span>Guidance and training on recognition and reward for open research is well-developed and made available to researchers, assessors and external candidates, as relevant. Resources are integrated into some processes and are promoted to staff. Training is encouraged for key staff members.</span> | <span>Guidance and training on recognition and reward for open research is available for all relevant groups. It is systematically targeted at staff involved in research assessment, and integrated into auditable training and development frameworks and processes. There is widespread use of training.</span> |
 
 ## Progress actions 
 
