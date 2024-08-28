@@ -26,7 +26,9 @@ Have you established priorities in implementing responsible research assessment,
 
 ## Maturity scale 
 
-[Add row of maturity framework as table] 
+| No Action | Emerging | Evolving | Sustained |
+|---------|---------|---------|---------|
+| <span>There is no monitoring or evaluation of recognition and reward for open research in research assessment.</span> | <span>There has been some observation of practice with respect to recognition and reward for open research in research assessment.</span> | <span>Measures are defined and reported to monitor use of open research criteria in research assessment, with some operational support. Data capture developments in some practices and/or identifies areas for targeting.</span> | <span>There is systematic collection and reporting of data on use of open research criteria in research assessment,  with allocated operational support. Progress is monitored and evaluated across the institution, identifying and targeting areas for improvement.</span> |
 
 ## Progress actions 
 
