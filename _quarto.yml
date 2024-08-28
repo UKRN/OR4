@@ -52,6 +52,11 @@ website:
           contents:
           - text: "Maturity framework PDF"
             href: resources/or4-maturityframework.pdf
+    - title: "Maturity framework"
+      contents: 
+      - maturity-framework.qmd
+      - self-assessment.qmd
+               
   page-footer:
     background: primary
     left: "![](images/cc-by.svg) ©2024 University of Bristol "
