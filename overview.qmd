@@ -39,8 +39,8 @@ The toolkit is organised broadly according to the logic of implementation, which
 
 ::: {layout-ncol=2}
 
-[![Maturity Framework](images/logos/logo.png){width="75%"}](maturity-framework.qmd)
+[![Maturity framework](images/logos/logo.png){width="75%"}](maturity-framework.qmd)
 
-[![Guide](images/logos/logo.png){width="75%"}](guide-contents.qmd)
+[![Implementation guide](images/logos/logo.png){width="75%"}](guide-contents.qmd)
 :::
 :::
