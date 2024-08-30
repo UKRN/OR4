@@ -8,9 +8,8 @@ project:
 execute:
   freeze: auto
 
-# "R&R ORiRA"
 website:
-  title: "Recognising and rewarding open research"
+  title: "Recognising and Rewarding Open Research"
   site-url: https://UKRN.github.io/OR4-demo
   repo-url: https://github.com/UKRN/OR4-demo
   image: images/logo.png
@@ -18,7 +17,7 @@ website:
   bread-crumbs: false
   navbar:
     logo: /images/logos/logo.png
-    logo-alt: "Globe with UKRN and big pink UK"
+    logo-alt: "Globe with UKRN and big green UK"
     toggle-position: "right"
     right:
       - text: "About"
@@ -53,10 +52,10 @@ website:
           - text: "Maturity framework PDF"
             href: resources/or4-maturityframework.pdf
     - title: "Maturity framework"
-      contents: 
+      contents:
       - maturity-framework.qmd
       - self-assessment.qmd
-               
+
   page-footer:
     background: primary
     left: "© 2024 University of Bristol [![](images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/legalcode.en)"

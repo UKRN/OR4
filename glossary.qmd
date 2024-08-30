@@ -1,11 +1,59 @@
-# Glossary
+---
+title: Glossary
+page-navigation: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Terms
+    toc-location: left
+---
 
+## Agreement on Reforming Research Assessment
 
-```{r, include = FALSE}
-# adds glossary capacity
-library(glossary)
-glossary_path("glossary.yml")
-glossary_load_all()
-```
+Published in 2022 by the Coalition for Advancing Research Assessment, the [Agreement](https://coara.eu/agreement/the-agreement-full-text/) is based on ten Commitments, and establishes a common direction for research assessment reform to which organisations can subscribe. Signatory institutions agree to undertake a reform of their research assessment criteria, tools and processes in line with the Agreement's Principles and Core Commitments. They commit to develop and share with the CoARA within one year of signing the Agreement an action plan for 'reviewing or developing criteria, tools and processes in line with the core Commitments'. They also agree to regularly demonstrate progress against this action plan, with a touch point within five years of signing the Agreement.
 
-`r glossary_table()`
+## Coalition for Advancing Research Assessment (CoARA)
+
+Signatories to the Agreement on Reforming Research Assessment can apply to become members of the [CoARA](https://coara.eu/coalition/membership/). Membership of the international Coalition provides access to tools, networks and working groups to facilitate sharing of good practice and rapid capability-building. Members may also join a [National Chapter](https://coara.eu/coalition/national-chapters/) where this has been established.
+
+## Open research
+
+Research and research outputs that are accessible, transparent, reproducible (where relevant) and re-usable. Open research practices include open access publication of research, and sharing other research and research-related outputs as openly as possible using standard licences that facilitate re-use. Relevant outputs may include research data, code, software, digital resources, preregistered study designs, methods and protocols, preprints, peer reviews and hardware designs. Open research may also include citizen science that involves members of the public in the design and execution of research. The principles of open research are affirmed in the UNESCO Recommendation on Open Science adopted by member states (see entry below), and are widely recognised by funders^[For example: UKRI, 'Open research'. <https://www.ukri.org/what-we-do/good-research-resource-hub/open-research/>; European Commission, 'Open Science'. <https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en>.] and research-performing organisations^[Sheppard, N. (2020, since updated), 'Open access is not enough: reproducible science, research and scholarship'. UKCORR. <https://www.ukcorr.org/2020/12/02/open-access-is-not-enough-reproducible-science-research-and-scholarship/>].  Definitions of all major open science terms and initiatives, alongside further supporting resources, can be found in the [Framework for Open and Reproducible Research Training Glossary](https://forrt.org/glossary).
+
+## Open science 
+
+In the global discourse about openness in academic knowledge and practice, the term open science is often used (as in the UNESCO Recommendation on Open Science, see below). 'Science' in this use derives from Latin *scientia* and denotes knowledge in general, not the knowledge produced exclusively by scientific disciplines. While open science includes open research, it is a more capacious concept that embraces a broader range of open practices, including engagement of non-academic actors, e.g. through impact development and public engagement. The OR4 toolkit is primarily concerned with open research, but it necessarily refers to and situates itself within the global discourse about open science and open knowledge practice in general. |
+
+## Research leaders and managers 
+
+Those with senior level responsibility for research strategy and performance, such as PVCs for Research or Deans, and those with management responsibility for researchers and research activity within organisational units of the institution, such as heads of faculties, schools, departments or research divisions.
+
+## Researcher assessment
+
+Practices used by institutions for the assessment of individual researchers, in their bearing on the granting of recognition and rewards, for example by appointment to a role, completion of probation, promotion, and the allocation of funding. Research assessment used for other purposes, such as selection of outputs for submission to the REF, and the assessment of those outputs by REF panels, is not the focus of this toolkit. But discussion of researcher assessment often takes place in the context of and with reference to the wider framework of research assessment and the research agenda for research assessment reform.
+
+## Researchers
+
+Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of researchers employed by research-performing organisations, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including research professionals, such as data scientists and research software engineers, and research students.
+
+## Responsible research assessment
+
+Research assessment that is aligned to the principles of the San Francisco Declaration on Research Assessment (DORA, see below), the Leiden Manifesto for Research Metrics,^[Hicks, D. et al. (2015), 'Bibliometrics: The Leiden Manifesto for research metrics'. Nature 520, 429–43. <https://doi.org/10.1038/520429a>.] the Metric Tide report,^[Wilsdon, J. et al. (2015), 'The metric tide: report of the Independent Review of the Role of Metrics in Research Assessment and Management'. <https://www.ukri.org/publications/review-of-metrics-in-research-assessment-and-management/>.] and the Agreement on Reforming Research Assessment (see above). Responsible research assessment is an essentially qualitative exercise, in which quantitative indicators are used appropriately in support of expert peer review. It is transparent in its criteria and methods, recognises the full range of activities and outputs that contribute to the quality and impact of research in addition to the production of peer-reviewed publications, and it values integrity, rigour and openness in the conduct and communication of research. It recognises the variety of roles and career pathways in research, and acknowledges and promotes diversity, equality and inclusiveness.
+
+## Recognition and reward
+
+HR frameworks frequently discuss 'reward and recognition' together, as a unitary concept.^[See, for example, Chalmers, D. (2011), 'Progress and challenges to the recognition and reward of the scholarship of teaching in higher education'. Higher Education Research & Development, 30(1), 25-38. <https://doi.org/10.1080/07294360.2011.536970>.] Here we understand reward as 'a mostly *monetary* or *tangible* acknowledgment of someone's efforts or success'.^[Definition taken from: Cotton, C., Gifford, J. and Young, J. (2022), *Incentives and recognition: an evidence review. Practice summary and recommendations.* London: Chartered Institute of Personnel and Development, p. 3. <https://www.cipd.org/uk/knowledge/evidence-reviews/evidence-financial-incentives/>.] By contrast, recognition is largely *relational*, as captured in the acknowledgment of someone’s success through verbal or written feedback as well as via representational mechanisms, such as awards or prizes.^[Akafo, V., and Boateng, P. A. (2015), 'Impact of reward and recognition on job satisfaction and motivation'. European Journal of Business and Management, 7(24), 112-124. <https://www.iiste.org/Journals/index.php/EJBM/article/view/25095>.] As a project, our focus is mainly on reward, with particular emphasis on career advancement through recruitment or promotion.
+
+## San Francisco Declaration on Research Assessment (DORA)
+
+Published in 2013, the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) was the first substantial initiative to articulate the case for research assessment reform. Many institutions and individuals have signed up to the Declaration and initiated reform activities based on its recommendations. It has become a worldwide initiative covering all scholarly disciplines and all key stakeholders including funders, publishers, professional societies, institutions, and researchers.
+
+## Stakeholders
+
+A group of stakeholders representing relevant areas of interest and knowledge within the institution convened to undertake action related to a defined strategic objective, such as development of open research culture and practice, or the implementation of responsible research assessment policy and practice.
+
+## UNESCO Recommendation on Open Science
+
+Adopted in November 2021 by the 193 UNESCO member states, the [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about?hub=686) provides an international framework for open science policy and practice. It 'outlines a common definition and shared values, principles and standards for open science at the international level, and it proposes actions to support fair and equitable open science for all, at individual, institutional, national, regional and international levels'.
