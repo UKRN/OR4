@@ -47,10 +47,6 @@ website:
           - guide-07.qmd
           - guide-08.qmd
           - guide-09.qmd
-        - section: Resources
-          contents:
-          - text: "Maturity framework PDF"
-            href: resources/or4-maturityframework.pdf
     - title: "Maturity framework"
       contents:
       - maturity-framework.qmd
