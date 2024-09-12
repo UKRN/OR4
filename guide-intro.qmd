@@ -12,20 +12,6 @@ format:
 
 This introduction explains the rationale for recognising and rewarding open research in the assessment of researchers, with reference to the open research and responsible research assessment agendas that have evolved in recent years. It can be used as a reference text for a group of stakeholders undertaking a self-assessment exercise using the OR4 [maturity framework](maturity-framework.qmd), and to inform engagement in support of planned action, such as the development of business cases, consultation with key stakeholders, and communications with the wider research community. It can serve to establish a shared understanding of open research and responsible research assessment, and an awareness of the drivers for strategic action in these areas in the higher education and research sector.
 
-::: {.callout-note .feature collapse="true"}
-## Open research and its benefits 
-
-UKRI [describes open research](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/) in the following terms:
-
-> Open research, also widely referred to as open science, relates to how research is performed and how knowledge is shared based on the principle that research should be as open as possible. It also enables research to take advantage of digital technology.
->
-> Transparency, openness, verification and reproducibility are important features of research and innovation. Open research helps to support and uphold these features across the whole lifecycle of research – improving public value, research integrity, reuse and innovation.
->
-> Open research also helps to support collaboration within and across disciplines. It is integral to a healthy research culture and environment. 
-
-Open research can be situated in the context of a global discourse about open knowledge and openness in academic practice that often uses the term open science. In the open knowledge paradigm, 'openness' is integral to the practices by which research is conducted, communicated, evaluated, validated and instrumentalised. Open research practice is held to have a direct relationship to research integrity (through transparency of methods and outputs), research quality (through the use of evidentiary and reproducible practices), sustainability (through use of appropriate standards and formats, preservation infrastructure, and persistent identifiers), and reach and impact (through the accessibility and re-usability of outputs). 
-:::
-
 ## Why should open research be part of research assessment?
 
 There are key reasons why open research practices are important in the context of research assessment:
@@ -39,6 +25,20 @@ There are key reasons why open research practices are important in the context o
 A researcher who uses open research practices better demonstrates and enables verification of the quality of their research, maximises the potential of their research to generate value, and is able to provide a more representative picture of the totality of their research and related activities. 
 
 Operationalisation of open research incentives and expectations will signal that open practices are considered by an institution to be an essential part of how research is carried out. It will power the adoption of open research practices by researchers and lead to improvements in research integrity, quality and impact.
+
+::: {.callout-note .feature collapse="true"}
+## Open research and its benefits 
+
+UKRI [describes open research](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/) in the following terms:
+
+> Open research, also widely referred to as open science, relates to how research is performed and how knowledge is shared based on the principle that research should be as open as possible. It also enables research to take advantage of digital technology.
+>
+> Transparency, openness, verification and reproducibility are important features of research and innovation. Open research helps to support and uphold these features across the whole lifecycle of research – improving public value, research integrity, reuse and innovation.
+>
+> Open research also helps to support collaboration within and across disciplines. It is integral to a healthy research culture and environment. 
+
+Open research can be situated in the context of a global discourse about open knowledge and openness in academic practice that often uses the term open science. In the open knowledge paradigm, 'openness' is integral to the practices by which research is conducted, communicated, evaluated, validated and instrumentalised. Open research practice is held to have a direct relationship to research integrity (through transparency of methods and outputs), research quality (through the use of evidentiary and reproducible practices), sustainability (through use of appropriate standards and formats, preservation infrastructure, and persistent identifiers), and reach and impact (through the accessibility and re-usability of outputs). 
+:::
 
 ## Open research principles are widely accepted but not fully integrated into research practice
 
