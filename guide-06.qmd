@@ -94,6 +94,3 @@ One important aspect to be considered is that of the openness of research inform
 
 Some institutions are also developing their own services to collect and manage open research information. For example, the University of Manchester Library has developed an [Open Research Tracker](https://www.openresearch.manchester.ac.uk/support/tracker/), which leverages integrations with its CRIS, CrossRef, and the Scholarcy AI platform to collate and integrate information about publications and data. Its development roadmap anticipates further integrations, including with its data repository, ORCiD, the Open Science Framework, and protocols.io, and the capability to collect data relating to a wider range of output types, including pre-registrations, methodologies, and research software. The University is planning to release its software under an Open Source licence, so that other institutions can make use of it. 
 
-## Case studies 
-
-Coming soon!
