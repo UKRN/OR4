@@ -1,10 +1,20 @@
+---
+page-navigation: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+---
+
 # Including open research in the University of Bristol's Academic Promotions Framework
 
 ## About the University of Bristol
 
 The University of Bristol is a research-intensive University, with over 29,000 students and employing approximately 9,000 staff. The University has a reputation for academic excellence and delivering world-leading research.
 
-## What has changed/what changes have been implemented? 
+## What has changed? 
 
 A review of promotion and progression in 2017 included recommendations to review the promotion criteria for Associate Professor and Professor, which resulted in a new [Academic Promotions Framework](https://www.bristol.ac.uk/hr/policies/promotion/) (APF) that launched in the 2020-2021 academic year. The APF looks to nurture individual and team excellence through clear descriptions of the full range of contributions and achievements that are valued by our institution. This exercise resulted in the specific inclusion of open research practices as an example of the contributions recognised by the APF.
 
