@@ -74,6 +74,3 @@ As it becomes easier to cite and provide access to a wider range of open researc
 
 These requirements may inform design and use of systems for collecting and managing open research information, as discussed in the [Support, systems and processes](guide-06.qmd) guide. 
 
-## Case studies 
-
-Coming soon!
