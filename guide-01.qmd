@@ -8,11 +8,6 @@ format:
     toc-depth: 3
     toc-expand: 3
     toc-title: Page Contents
-    # other-links:
-    #   - text: Maturity framework
-    #     href: resources/or4-maturityframework.pdf
-    #     target: _blank # opens in a new tab
-    #     icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
 
 # Institutional commitment
