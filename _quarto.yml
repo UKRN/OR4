@@ -37,12 +37,16 @@ website:
         - section: Implementation guide
           contents:
           - guide-contents.qmd
+          - guide-summary.qmd
           - guide-intro.qmd
           - guide-01.qmd
           - guide-02.qmd
           - guide-03.qmd
           - guide-04.qmd
           - guide-05.qmd
+          - section: "Case study"
+            contents:
+            - case-study-bristol.qmd
           - guide-06.qmd
           - guide-07.qmd
           - guide-08.qmd
