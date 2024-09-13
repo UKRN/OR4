@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Recognising and Rewarding Open Research"
+  title: "Recognising and Rewarding Open Research Toolkit"
   site-url: https://UKRN.github.io/OR4-demo
   repo-url: https://github.com/UKRN/OR4-demo
   image: images/logo.png
@@ -20,7 +20,7 @@ website:
     logo-alt: "Globe with UKRN and big green UK"
     toggle-position: "right"
     right:
-      - text: "About"
+      - text: "About OR4"
         href: about.qmd
       - text: "Overview"
         href: overview.qmd
