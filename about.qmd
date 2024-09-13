@@ -1,3 +1,5 @@
+<!-- add URL in ORP domain for citation -->
+
 :::{.column-body-outset}
 # About OR4
 
@@ -8,6 +10,14 @@ The **Recognising and rewarding open research toolkit** is produced by the [Open
 We gratefully acknowledge the contributions of members of the OR4 community of practice, who have participated in the development of this toolkit by commenting on draft materials, undertaking and reporting on institutional self-assessment exercises using the maturity framework, contributing case studies, and taking part in stimulating exchanges of experience and knowledge through the OR4 community of practice. Members of the community of practice are listed on the [OR4 project web page](https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/).
 
 We thank colleagues in the OR4 team and the wider Open Resarch Programme for their invaluable contributions and support in developing the toolkit and this website.
+
+##Licensing and citation
+
+Unless otherwise specified, material contained in the OR4 toolkit is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) licence and may be freely re-used.
+
+Please cite this resource as:
+
+UK Reproducibility Network. 2024. Recognising and rewarding open research toolkit. URL
 
 ## Contact us
 
