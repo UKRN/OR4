@@ -11,7 +11,7 @@ We gratefully acknowledge the contributions of members of the OR4 community of p
 
 We thank colleagues in the OR4 team and the wider Open Resarch Programme for their invaluable contributions and support in developing the toolkit and this website.
 
-##Licensing and citation
+## Licensing and citation
 
 Unless otherwise specified, material contained in the OR4 toolkit is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) licence and may be freely re-used.
 
