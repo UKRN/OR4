@@ -1,71 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://UKRN.github.io/OR4-demo/guide-01.html</loc>
-    <lastmod>2024-08-30T08:18:00.945Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/guide-02.html</loc>
-    <lastmod>2024-08-30T08:18:00.946Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/guide-07.html</loc>
-    <lastmod>2024-08-30T08:18:00.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/guide-04.html</loc>
-    <lastmod>2024-08-30T08:18:00.948Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/about.html</loc>
-    <lastmod>2024-08-23T10:30:31.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/index.html</loc>
-    <lastmod>2024-08-30T08:18:00.959Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/guide-contents.html</loc>
-    <lastmod>2024-08-30T08:18:00.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UKRN.github.io/OR4-demo/guide-09.html</loc>
-    <lastmod>2024-08-30T08:18:00.956Z</lastmod>
-  </url>
-  <url>
     <loc>https://UKRN.github.io/OR4-demo/guide-intro.html</loc>
-    <lastmod>2024-08-30T08:43:32.528Z</lastmod>
+    <lastmod>2024-09-13T10:54:38.468Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/overview.html</loc>
-    <lastmod>2024-08-30T08:43:22.662Z</lastmod>
+    <lastmod>2024-09-13T10:54:39.146Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-09.html</loc>
+    <lastmod>2024-09-13T10:54:39.986Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/guide-08.html</loc>
-    <lastmod>2024-08-30T08:18:00.955Z</lastmod>
+    <lastmod>2024-09-13T10:54:40.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-contents.html</loc>
+    <lastmod>2024-09-13T10:54:41.171Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/self-assessment.html</loc>
-    <lastmod>2024-08-30T08:19:04.446Z</lastmod>
+    <lastmod>2024-09-13T10:54:41.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/index.html</loc>
+    <lastmod>2024-09-13T10:54:43.740Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-summary.html</loc>
+    <lastmod>2024-09-13T10:54:44.337Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/glossary.html</loc>
-    <lastmod>2024-08-30T09:05:54.434Z</lastmod>
+    <lastmod>2024-09-13T10:54:44.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/about.html</loc>
+    <lastmod>2024-09-13T10:54:45.379Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/case-study-bristol.html</loc>
+    <lastmod>2024-09-13T10:54:46.105Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/guide-05.html</loc>
-    <lastmod>2024-08-30T08:18:00.949Z</lastmod>
+    <lastmod>2024-09-13T10:54:46.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-04.html</loc>
+    <lastmod>2024-09-13T10:54:47.581Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/guide-06.html</loc>
-    <lastmod>2024-08-30T08:18:00.951Z</lastmod>
+    <lastmod>2024-09-13T10:54:48.329Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-07.html</loc>
+    <lastmod>2024-09-13T10:54:48.926Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/guide-03.html</loc>
-    <lastmod>2024-08-30T08:18:00.947Z</lastmod>
+    <lastmod>2024-09-13T10:54:49.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-02.html</loc>
+    <lastmod>2024-09-13T10:54:50.329Z</lastmod>
   </url>
   <url>
     <loc>https://UKRN.github.io/OR4-demo/maturity-framework.html</loc>
-    <lastmod>2024-08-30T08:18:00.961Z</lastmod>
+    <lastmod>2024-09-13T10:54:51.042Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UKRN.github.io/OR4-demo/guide-01.html</loc>
+    <lastmod>2024-09-13T10:54:51.814Z</lastmod>
   </url>
 </urlset>
