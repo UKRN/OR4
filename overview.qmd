@@ -1,4 +1,3 @@
-<!-- add graphic links to MF and guide contents page -->
 
 :::{.column-body-outset}
 # OR4 toolkit overview
@@ -36,11 +35,4 @@ The implementation guide can be used to develop a shared understanding of the ra
 
 The toolkit is organised broadly according to the logic of implementation, which might begin with institutional commitments to open research and research assessment reform and conclude with effective integration of recognition and reward for open research as part of researcher assessment practice. The logic is not necessarily linear: in practice, actions in different areas may be more or less co-ordinated, and may be concurrent or undertaken at different times and in different sequences. Institutions will have different starting points and different objectives. The framework is not meant to prescribe a single route to a fixed destination, but to facilitate planning and implementation adapted to the needs of the institution. 
 
-
-::: {.overview layout-ncol=2}
-
-[![Maturity framework](images/logos/logo.png){width="75%"}](maturity-framework.qmd)
-
-[![Implementation guide](images/logos/logo.png){width="75%"}](guide-contents.qmd)
-:::
 :::
