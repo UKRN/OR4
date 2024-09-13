@@ -1,15 +1,17 @@
 :::{.column-body-outset}
 # About OR4
 
-The [Open and Responsible Researcher Reward and Recognition project](https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/) (OR4) is a project of the [Open Research Programme](https://www.ukrn.org/open-research-programme/), a national initiative to accelerate the uptake of open research practices, supported by Research England and led by the UK Reproducibility Network. The aim of OR4 is to support the implementation of recognition and reward for open research through institutional researcher assessment practices. The project runs from 2021 to 2027. 
+The **Recognising and rewarding open research toolkit** is produced by the [Open and Responsible Researcher Reward and Recognition project](https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/) (OR4). OR4 is a project of the [Open Research Programme](https://www.ukrn.org/open-research-programme/), a national initiative to accelerate the uptake of open research practices, supported by Research England and led by the UK Reproducibility Network. The aim of OR4 is to support the implementation of recognition and reward for open research through institutional researcher assessment practices. The project runs from 2021 to 2027. 
 
 ## Acknowledgements
 
 We gratefully acknowledge the contributions of members of the OR4 community of practice, who have participated in the development of this toolkit by commenting on draft materials, undertaking and reporting on institutional self-assessment exercises using the maturity framework, contributing case studies, and taking part in stimulating exchanges of experience and knowledge through the OR4 community of practice. Members of the community of practice are listed on the [OR4 project web page](https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/).
 
+We thank colleagues in the OR4 team and the wider Open Resarch Programme for their invaluable contributions and support in developing the toolkit and this website.
+
 ## Contact us
 
-The toolkit will continue to evolve during the lifetime of the OR4 project. Please get in touch if you have made use of the toolkit, if you have feedback, or if you have any questions. 
+The toolkit will continue to evolve during the lifetime of the OR4 project. We would love to hear from you if you have made use of the toolkit, if you have feedback that will help us improve the toolkit, or if you have any questions. 
 
-Contact [Dr Robert Darby](mailto:r.m.darby@reading.ac.uk) at the University of Reading or [Dr Anna Korzeniowska](mailto:anna.korzeniowska@surrey.ac.uk) at the University of Surrey. 
+Contact [Dr Robert Darby](mailto:r.m.darby@reading.ac.uk) at the University of Reading. 
 :::
