@@ -13,9 +13,7 @@ We thank colleagues in the OR4 team and the wider Open Resarch Programme for the
 
 ## Licensing and citation
 
-Unless otherwise specified, material contained in the OR4 toolkit is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) licence and may be freely re-used.
-
-Please cite this resource as:
+Unless otherwise specified, material contained in the OR4 toolkit is published under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) licence and may be freely re-used with attribution. Please cite this resource as:
 
 UK Reproducibility Network. 2024. Recognising and rewarding open research toolkit. URL
 
