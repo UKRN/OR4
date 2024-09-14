@@ -23,7 +23,7 @@ website:
     logo-alt: "Globe with UKRN and big green UK"
     toggle-position: "right"
     right:
-      - text: "About OR4"
+      - text: "About"
         href: about.qmd
       - text: "Overview"
         href: overview.qmd
