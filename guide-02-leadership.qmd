@@ -26,15 +26,12 @@ Does your institution provide leadership at a senior level for strategic action 
 
 ## Maturity scale 
 
-:::{.column-page}
-
 | No Action | Emerging | Evolving | Sustained |
 |---------|---------|---------|---------|
 | There is no senior strategic leadership for open research or responsible research assessment. | There are identified senior strategic leads for open research and responsible research assessment. Recognition and reward for open research in research assessment is an identified priority for strategic action. | Senior leadership develops actions on open research and responsible research assessment in collaboration with key stakeholders. Actions to recognise open research in research assessment are agreed and supported by relevant leads and promoted by open research advocates across the institution. | Recognition and reward for open research in research assessment is progressed as a strategic priority by members of senior management. External engagement ensures alignment to sector. Leadership in open research is seen and valued across the organisation, and includes researchers, research enablers and open research advocates. |
 
 : {.sm .responsive .framework-table .framework-item}
 
-:::
 
 ## Progress actions 
 

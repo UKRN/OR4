@@ -26,7 +26,6 @@ Have you established priorities in implementing responsible research assessment,
 
 ## Maturity scale 
 
-:::{.column-page}
 
 | No Action | Emerging | Evolving | Sustained |
 |---------|---------|---------|---------|
@@ -34,7 +33,6 @@ Have you established priorities in implementing responsible research assessment,
 
 : {.sm .responsive .framework-table .framework-item}
 
-:::
 
 ## Progress actions 
 

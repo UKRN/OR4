@@ -31,9 +31,17 @@ website:
         href: maturity-framework.qmd
       - text: "Implementation guide"
         href: guide-contents.qmd
+      - text: "Case studies"
+        href: case-studies.qmd
       - text: "Glossary"
         href: glossary.qmd
   sidebar:
+    - title: "Case studies"
+      style: "docked"
+      contents:
+      - case-studies.qmd
+      - text: "University of Bristol"
+        href: case-study-bristol.qmd
     - title: "Implementation guide"
       style: "docked"
       contents:
