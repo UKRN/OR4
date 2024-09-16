@@ -2,4 +2,8 @@
 title: Case Studies
 ---
 
-Intro to case studies...
+# Case studies
+
+The case studies published here illustrate different aspects of implementing change to enable recognition and reward for open research within research-performing organisations. They have been provided by institutions that have participated in the OR4 project, and are designed to complement the [implementation guide](guide-contents.qmd). Each case study is linked to the section of the implementation guide which it mainly illustrates.
+
+
