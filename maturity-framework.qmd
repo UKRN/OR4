@@ -1,5 +1,5 @@
 ---
-title: The maturity framework
+title: Maturity framework
 format:
   html:
     toc: true
