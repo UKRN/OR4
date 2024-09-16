@@ -104,47 +104,10 @@ a[target="_blank"]::after {
   content:"\f1c5";
 }
 
-a.glossary::after, code a::after {
-  content: none !important;
-  margin: 0 !important;
-}
-
-a.glossary {
-  color: $pink;
-  text-decoration: underline;
-  cursor: help;
-  position: relative;
-}
-
-/* only needed for popup = "click" */
-/* popup-definition */
-a.glossary .def {
-  display: none;
-  position: absolute;
-  z-index: 1;
-  width: 500px;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -100px;
-  background-color: $text;
-  color: $bg;
-  padding: 5px;
-  border-radius: 6px;
-}
-/* show on click */
-a.glossary:active .def {
-  display: inline-block;
-}
-/* triangle arrow */
-a.glossary:active .def::after {
-  content: ' ';
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: $text transparent transparent transparent;
+#TOC li,
+.sidebar-item-text > span {
+  display: list-item;
+  list-style-type: circle;
 }
 
 .image-links a {
@@ -159,9 +122,13 @@ a.glossary:active .def::after {
   font-size: 2em;
 }
 
+.navbar-brand-logo {
+  background-color: transparent;
+  overflow: visible;
+}
+
 .navbar-title {
   color: $bg;
-  max-width: 14em;
   height: 2em;
   display: inline-block;
   text-wrap: wrap;
@@ -187,11 +154,15 @@ a.glossary:active .def::after {
   border-bottom: 1px solid $darkpurple;
 }
 
+.framework-table tbody td:first-child {
+  min-width: 8em;
+}
+
 .framework-item tbody td,
 .framework-table tbody td+td {
   line-height: 1.2em;
   font-size: smaller;
-  min-width: 15em;
+  min-width: 12em;
 }
 
 /*

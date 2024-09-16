@@ -26,11 +26,15 @@ Do you have a strategic plan owned by a stakeholder group for developing open re
 
 ## Maturity scale 
 
+:::{.column-page}
+
 | No Action | Emerging | Evolving | Sustained |
 |---------|---------|---------|---------|
 | There is no open research strategy or plans to implement change. | A strategic plan for open research has identified recognition and reward for open research in research assessment as an area for action. This objective is recognised in strategic action on research assessment reform. | Strategic action on open research has progressed. Recognition and reward for open research across all key areas of research assessment is actioned by a stakeholder group against a strategic plan. Progress has been made against objectives. | Strategic action on open research is well-developed and sustained. Recognition and reward for open research has been implemented in relevant policies and procedures. The implementation plan has been delivered and action is focused on monitoring, consolidating and embedding practice. |
 
 : {.sm .responsive .framework-table .framework-item}
+
+:::
 
 ## Progress actions 
 

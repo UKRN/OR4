@@ -1,4 +1,5 @@
 ---
+title: The Maturity Framework
 format:
   html:
     toc: true
@@ -11,8 +12,6 @@ format:
         target: _blank # opens in a new tab
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
-
-# The OR4 maturity framework
 
 The maturity framework and self-assessment tool can be used by a group of stakeholders in an institution to assess maturity in the implementation of recognition and reward for open research, to support internal discussion and planning, and to measure ongoing progress. 
 
