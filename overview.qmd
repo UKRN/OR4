@@ -2,7 +2,7 @@
 :::{.column-body-outset}
 # OR4 toolkit overview
 
-The OR4 toolkit consists of two main components:
+The Recognising and rewarding open research toolkit consists of two main components:
 
 - a [maturity framework and self-assessment tool](maturity-framework.qmd) that institutions can use to assess their maturity in the implementation of relevant policies and procedures, to support internal discussion and planning, and to measure ongoing progress 
 
