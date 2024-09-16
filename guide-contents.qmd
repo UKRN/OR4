@@ -25,7 +25,6 @@ Each of the nine main sections of the guide follows a standard format:
 - **Maturity scale**: the maturity scale for this action area
 - **Progress actions**: suggested key actions to move from one level of maturity (as defined by the maturity framework) to the next
 - **Main areas of activity**: in-depth guidance
-- **Case studies**: illustrating different aspects of implementation at UK institutions
+- **Case studies**: links to case studies illustrating different aspects of implementation at UK institutions
 
-Explore the guide using the Contents sidebar to the left.
 
