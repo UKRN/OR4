@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Recognising and Rewarding Open Research Toolkit"
+  title: "Recognising and rewarding open research toolkit"
   site-url: https://UKRN.github.io/OR4-demo
   repo-url: https://github.com/UKRN/OR4-demo
   image: images/logo.png
