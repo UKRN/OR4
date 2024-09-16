@@ -15,7 +15,7 @@ An [executive summary](guide-summary.qmd) provides a high-level overview of the 
 
 The introductory section, [Why recognise and reward open research practice?](guide-intro.qmd) explains the rationale for strategic action with reference to the wider sector context in more detail. This is a more developed treatment of the subject and can be used by members of a stakeholder group to establish a shared understanding and sense of purpose.
 
-The nine sections mapped to the action areas of the maturity framework are designed to enable members of the stakeholder group to develop a more in-depth understanding of the key areas in which action may be required, and to create a practical plan of action to develop institutional maturity. 
+The nine sections mapped to the action areas of the maturity framework are designed to enable members of the stakeholder group to develop a more in-depth understanding of the key areas in which action may be required, and to create a practical plan of action to develop institutional maturity. Links to [case studies](case-studies.qmd) illustrating different aspects of implementation are provided. 
 
 A [Glossary of key terms](glossary.qmd) is also included.
 
