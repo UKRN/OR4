@@ -26,9 +26,15 @@ Is recognition and reward for open research adopted as institutional policy, and
 
 ## Maturity scale 
 
+:::{.column-page}
+
 | No Action | Emerging | Evolving | Sustained |
 |---------|---------|---------|---------|
-| <span>Recognition and reward for open research is not referenced in policies or procedures related to or involving the use of research assessment.</span> | <span>Recognition and reward for open research is mentioned in some relevant policies and procedures, but on a limited basis and with little evidence of integration or effective use.</span> | <span>Recognition and reward for open research is included in most relevant policies, with evidence of effective integration into practice. </span> | <span>Recognition and reward for open research is included in all relevant policies and procedures. There is evidence of increasing effective use of open research criteria by candidates and assessors in research assessment activities. Policies are reviewed regularly.</span> |
+| Recognition and reward for open research is not referenced in policies or procedures related to or involving the use of research assessment. | Recognition and reward for open research is mentioned in some relevant policies and procedures, but on a limited basis and with little evidence of integration or effective use. | Recognition and reward for open research is included in most relevant policies, with evidence of effective integration into practice.  | Recognition and reward for open research is included in all relevant policies and procedures. There is evidence of increasing effective use of open research criteria by candidates and assessors in research assessment activities. Policies are reviewed regularly. |
+
+: {.sm .responsive .framework-table .framework-item}
+
+:::
 
 ## Progress actions 
 

@@ -26,9 +26,15 @@ Are you undertaking strategic communication activity to engage key stakeholders 
 
 ## Maturity scale 
 
+:::{.column-page}
+
 | No Action | Emerging | Evolving | Sustained |
 |---------|---------|---------|---------|
-| <span>There is no communication about the recognition of open research in research assessment.</span> | <span>Some information about recognition and reward for open research in research assessment has been communicated, but with little or no guidance, or active engagement.</span> | <span>Strategic communications about recognition and reward for open research are part of an open research communication plan. Key stakeholders have been identified and engaged. Stakeholders have been able to learn about and contribute to changes in policy and procedure.</span> | <span>Well-publicised information about recognition and reward for open research in research assessment policies and procedures is supplemented by strategic, consistent communications targeting key stakeholders and the wider community to raise awareness and promote good practice.</span> |
+| There is no communication about the recognition of open research in research assessment. | Some information about recognition and reward for open research in research assessment has been communicated, but with little or no guidance, or active engagement. | Strategic communications about recognition and reward for open research are part of an open research communication plan. Key stakeholders have been identified and engaged. Stakeholders have been able to learn about and contribute to changes in policy and procedure. | Well-publicised information about recognition and reward for open research in research assessment policies and procedures is supplemented by strategic, consistent communications targeting key stakeholders and the wider community to raise awareness and promote good practice. |
+
+: {.sm .responsive .framework-table .framework-item}
+
+:::
 
 ## Progress actions 
 

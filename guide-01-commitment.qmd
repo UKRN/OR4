@@ -12,7 +12,7 @@ format:
 
 # Institutional commitment
 
-<!-- last pare of research assessment reform section, link to guide intro should go to subsection Open research and research assessment reform -->
+<!-- last para of research assessment reform section, link to guide intro should go to subsection Open research and research assessment reform -->
 
 ::: {.callout .feature}
 Does your institution make public commitments to the principles and aims of open research and responsible research assessment, which are aligned to the direction of travel in the sector and supported by effective action? 
@@ -30,13 +30,15 @@ Does your institution make public commitments to the principles and aims of open
 
 ## Maturity scale 
 
-<!--Add row of maturity framework as table-->
+:::{.column-page}
 
 | No Action | Emerging | Evolving | Sustained |
 |---------|---------|---------|---------|
-| <span>There are no public institutional commitments to open research and responsible research assessment.</span> | <span>There are public institutional commitments to open research and responsible research assessment but little or no recognition of open research in research assessment practice.</span> | <span>There are public institutional commitments to open research and responsible research assessment. There is an explicit commitment to recognise and reward open research in research assessment practice.</span> | <span>Public open research and responsible research assessment commitments are well-integrated into recognition and reward policies and procedures. There is a strong shared understanding of how open research and responsible research assessment contribute to institutional research strategy and overall mission.</span> |
+| There are no public institutional commitments to open research and responsible research assessment. | There are public institutional commitments to open research and responsible research assessment but little or no recognition of open research in research assessment practice. | There are public institutional commitments to open research and responsible research assessment. There is an explicit commitment to recognise and reward open research in research assessment practice. | Public open research and responsible research assessment commitments are well-integrated into recognition and reward policies and procedures. There is a strong shared understanding of how open research and responsible research assessment contribute to institutional research strategy and overall mission. |
 
 : {.sm .responsive .framework-table .framework-item}
+
+:::
 
 ## Progress actions 
 

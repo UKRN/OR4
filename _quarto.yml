@@ -40,18 +40,15 @@ website:
       - guide-contents.qmd
       - guide-summary.qmd
       - guide-intro.qmd
-      - guide-01.qmd
-      - guide-02.qmd
-      - guide-03.qmd
-      - guide-04.qmd
-      - guide-05.qmd
-        - section: "Case study"
-          contents:
-          - case-study-bristol.qmd
-      - guide-06.qmd
-      - guide-07.qmd
-      - guide-08.qmd
-      - guide-09.qmd
+      - guide-01-commitment.qmd
+      - guide-02-leadership.qmd
+      - guide-03-strategy.qmd
+      - guide-04-communication.qmd
+      - guide-05-policy.qmd
+      - guide-06-support.qmd
+      - guide-07-training.qmd
+      - guide-08-monitoring.qmd
+      - guide-09-planning.qmd
     - title: "Maturity framework"
       contents:
       - maturity-framework.qmd
@@ -69,3 +66,5 @@ format:
   html:
     theme: [simplex, www/style.scss]
     mainfont: Roboto
+  # pdf:
+  #   toc: true
