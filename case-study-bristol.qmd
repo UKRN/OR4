@@ -10,7 +10,7 @@ format:
 
 # Including open research in the University of Bristol's Academic Promotions Framework
 
-See Implementation guide section(s): (Policy and procedure)[guide-05-policy.qmd]
+See Implementation guide section(s): [Policy and procedure](guide-05-policy.qmd)
 
 ## About the University of Bristol
 
