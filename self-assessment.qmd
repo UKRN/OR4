@@ -12,7 +12,7 @@ format:
         icon: file-earmark-word # https://icons.getbootstrap.com/
 ---
 
-# The OR4 self-assessment tool
+# Self-assessment tool
 
 An assessment undertaken using the maturity framework and the self-assessment tool will generate an overall picture of institutional maturity across all nine action areas at a given point in time. It can enable a group of stakeholders to establish a baseline, identify and focus on the target level of maturity in each action area, plan the means by which this target can be attained, and in due course to measure progress.
 
