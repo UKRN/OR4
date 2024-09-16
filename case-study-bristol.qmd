@@ -10,6 +10,8 @@ format:
 
 # Including open research in the University of Bristol's Academic Promotions Framework
 
+See Implementation guide section(s): (Policy and procedure)[guide-05-policy.qmd]
+
 ## About the University of Bristol
 
 The University of Bristol is a research-intensive University, with over 29,000 students and employing approximately 9,000 staff. The University has a reputation for academic excellence and delivering world-leading research.
