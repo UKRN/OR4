@@ -33,8 +33,6 @@ website:
         href: guide-contents.qmd
       - text: "Case studies"
         href: case-studies.qmd
-      - text: "Glossary"
-        href: glossary.qmd
   sidebar:
     - title: "Case studies"
       style: "docked"
@@ -57,6 +55,7 @@ website:
       - guide-07-training.qmd
       - guide-08-monitoring.qmd
       - guide-09-planning.qmd
+      - glossary.qmd
     - title: "Maturity framework"
       contents:
       - maturity-framework.qmd
