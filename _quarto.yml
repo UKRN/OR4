@@ -29,7 +29,7 @@ website:
         href: overview.qmd
       - text: "Maturity framework"
         href: maturity-framework.qmd
-      - text: "Implementation guide"
+      - text: "Guide"
         href: guide-contents.qmd
       - text: "Case studies"
         href: case-studies.qmd
