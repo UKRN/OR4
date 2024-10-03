@@ -14,10 +14,10 @@ website:
   repo-url: https://github.com/UKRN/OR4-demo
   image: images/logo.png
   favicon: images/favicon.ico
-  # google-analytics:
-  #   tracking-id: "UA-XXXXXXXXX"
-  #   storage: cookies
-  #   anonymize-ip: true
+  google-analytics:
+    tracking-id: "G-V1TY9TS7J1"
+    storage: cookies
+    anonymize-ip: true
   navbar:
     logo: /images/logos/logo.png
     logo-alt: "Globe with UKRN and big green UK"
