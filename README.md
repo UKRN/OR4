@@ -1,3 +1,6 @@
-# OR4 Demo
+# OR4 
 
-This is a website demo written in quarto. You can edit the .qmd files to update the website. For now, Lisa will have to manually run quaarto to render the website after updates, but when she has time, will ad in automatic github actions to re-render the site after each update.
+The OR4 **Recognising and rewarding open research toolkit** is designed to help universities and other research-performing organisations implement effective recognition and reward for open research through researcher assessment practices. It can support institutions to develop researcher assessment policies and practices that incentivise, enable and increase the use of open research practices by their researchers. 
+
+The toolkit has been produced by the Open and Responsible Researcher Reward and Recognition Project (OR4). OR4 is part of the UK Reproducibility Network’s [Open Research Programme](https://www.ukrn.org/open-research-programme/), which aims to accelerate the uptake of open research practices across the UK Higher Education sector.  
+
