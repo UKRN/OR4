@@ -13,7 +13,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-# Institutional commitment
+# 1. Institutional commitment
 
 <!-- last para of research assessment reform section, link to guide intro should go to subsection Open research and research assessment reform -->
 
