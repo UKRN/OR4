@@ -4,10 +4,7 @@
 \PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
-  letterpaper,
-  DIV=11,
-  numbers=noendperiod,
-  oneside]{scrartcl}
+]{report}
 
 \usepackage{amsmath,amssymb}
 \usepackage{iftex}
@@ -41,18 +38,31 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\usepackage[left=1in,marginparwidth=2.0666666666667in,textwidth=4.1333333333333in,marginparsep=0.3in]{geometry}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 % Make \paragraph and \subparagraph free-standing
+\makeatletter
 \ifx\paragraph\undefined\else
   \let\oldparagraph\paragraph
-  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
 \fi
 \ifx\subparagraph\undefined\else
   \let\oldsubparagraph\subparagraph
-  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
+\makeatother
 
 
 \providecommand{\tightlist}{%
@@ -80,7 +90,6 @@
 \def\fps@figure{htbp}
 \makeatother
 
-\KOMAoption{captions}{tableheading}
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -126,6 +135,7 @@
 \@ifpackageloaded{sidenotes}{}{\usepackage{sidenotes}}
 \@ifpackageloaded{marginnote}{}{\usepackage{marginnote}}
 \makeatother
+
 \ifLuaTeX
 \usepackage[bidi=basic]{babel}
 \else
@@ -151,20 +161,17 @@
   urlcolor={Blue},
   pdfcreator={LaTeX via pandoc}}
 
+
 \author{}
 \date{}
 
 \begin{document}
 
-\renewcommand*\contentsname{Table of contents}
-{
-\hypersetup{linkcolor=}
-\setcounter{tocdepth}{3}
-\tableofcontents
-}
-\section{OR4 toolkit overview}\label{or4-toolkit-overview}
 
-The OR4 toolkit consists of two main components:
+\chapter{OR4 toolkit overview}\label{or4-toolkit-overview}
+
+The Recognising and rewarding open research toolkit consists of two main
+components:
 
 \begin{itemize}
 \item
@@ -176,15 +183,16 @@ The OR4 toolkit consists of two main components:
   an \href{guide-contents.qmd}{implementation guide} consisting of an
   introduction and sections linked to corresponding action areas in the
   maturity framework, providing detailed practical guidance to support
-  assessment, planning and progress. The guide is illustrated with case
-  studies from institutions that have participated in the OR4 project. A
-  \href{glossary.qmd}{Glossary of key terms} is included.
+  assessment, planning and progress. The guide is illustrated with
+  \href{case-studies.qmd}{case studies} from institutions that have
+  participated in the OR4 project. A \href{glossary.qmd}{Glossary of key
+  terms} is included.
 \end{itemize}
 
 The maturity framework and the linked guide are organised in nine action
 areas under three themes, as follows:
 
-\paragraph{Strategy and leadership}\label{strategy-and-leadership}
+\subsubsection{Strategy and leadership}\label{strategy-and-leadership}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -197,7 +205,7 @@ areas under three themes, as follows:
   Strategy and planning
 \end{enumerate}
 
-\paragraph{Implementation}\label{implementation}
+\subsubsection{Implementation}\label{implementation}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -213,7 +221,7 @@ areas under three themes, as follows:
   Guidance and training
 \end{enumerate}
 
-\paragraph{Managing progress}\label{managing-progress}
+\subsubsection{Managing progress}\label{managing-progress}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -225,7 +233,7 @@ areas under three themes, as follows:
   Research planning
 \end{enumerate}
 
-\subsection{How to use the toolkit}\label{how-to-use-the-toolkit}
+\section{How to use the toolkit}\label{how-to-use-the-toolkit}
 
 Each of the nine action areas represents an aspect of institutional
 activity through which recognition and reward for open research can be
@@ -257,6 +265,7 @@ sequences. Institutions will have different starting points and
 different objectives. The framework is not meant to prescribe a single
 route to a fixed destination, but to facilitate planning and
 implementation adapted to the needs of the institution.
+
 
 
 

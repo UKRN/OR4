@@ -1,10 +1,8 @@
 project:
-  type: book
   output-dir: pdf
 
 book:
   chapters:
-  - index.qmd
   - guide-intro.qmd
   - guide-01-commitment.qmd
   - guide-02-leadership.qmd

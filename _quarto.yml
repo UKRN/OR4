@@ -3,15 +3,15 @@ engine: knitr
 project:
   type: website
   output-dir: docs
-  resources: resources
+  resources: [resources, CNAME]
 
 execute:
   freeze: auto
 
 website:
   title: "Recognising and rewarding open research toolkit"
-  site-url: https://UKRN.github.io/OR4-demo
-  repo-url: https://github.com/UKRN/OR4-demo
+  site-url: https://recognition.ukrn-openresearch.ac.uk
+  repo-url: https://github.com/UKRN/OR4
   image: images/logo.png
   favicon: images/favicon.ico
   google-analytics:
@@ -73,5 +73,5 @@ format:
   html:
     theme: [simplex, www/style.scss]
     mainfont: Roboto
-  # pdf:
-  #   toc: true
+  pdf:
+    documentclass: report
