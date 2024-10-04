@@ -2,8 +2,6 @@
 page-navigation: true
 format:
   html:
-    number-sections: true
-    number-offset: 8
     toc: true
     toc-depth: 3
     toc-expand: 3
@@ -15,7 +13,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-# Research planning
+# 9. Research planning
 
 ::: {.callout .feature}
 Are institutional research planning policies and procedures effectively aligned with open research criteria in research assessment? 
