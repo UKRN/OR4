@@ -10,6 +10,10 @@ format:
         href: resources/ukrn-selfassessment.docx
         target: _blank # opens in a new tab
         icon: file-earmark-word # https://icons.getbootstrap.com/
+      - text: Workshop slides
+        href: resources/ukrn-selfassessment-slides.pptx
+        target: _blank # opens in a new tab
+        icon: filetype-pptx # https://icons.getbootstrap.com/
 ---
 
 # Self-assessment tool
@@ -39,7 +43,7 @@ We recommend the workshop is no longer than 2 hours. The workshop can be used to
 
 The workshop could follow a four-stage format:
 
-1. Introduction.  A set of slides is provided which can be used to set the scene and explain to the group why incorporating recognition and reward for open research into researcher assessment is important. The slides can be freely adapted. 
+1. Introduction.  A [set of slides](resources/ukrn-selfassessment-slides.pptx) is provided which can be used to set the scene and explain to the group why incorporating recognition and reward for open research into researcher assessment is important. The slides can be freely adapted. 
 2. Breakout groups/discussion 1: 
     a. discuss individual institutional assessments for each of the nine areas
     b. compare notes
