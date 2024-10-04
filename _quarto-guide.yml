@@ -3,6 +3,8 @@ project:
 
 book:
   chapters:
+  - guide-contents.qmd
+  - guide-summary.qmd
   - guide-intro.qmd
   - guide-01-commitment.qmd
   - guide-02-leadership.qmd
@@ -13,5 +15,6 @@ book:
   - guide-07-training.qmd
   - guide-08-monitoring.qmd
   - guide-09-planning.qmd
+  - glossary.qmd
 
 format: pdf
