@@ -2,8 +2,6 @@
 page-navigation: true
 format:
   html:
-    number-sections: true
-    number-offset: 0
     toc: true
     toc-depth: 3
     toc-expand: 3
