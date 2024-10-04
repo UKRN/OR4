@@ -2,8 +2,6 @@
 page-navigation: true
 format:
   html:
-    number-sections: true
-    number-offset: 7
     toc: true
     toc-depth: 3
     toc-expand: 3
@@ -15,7 +13,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-# Monitoring and evaluation 
+# 8. Monitoring and evaluation 
 
 ::: {.callout .feature}
 Have you established priorities in implementing responsible research assessment, including recognition and reward for open research, and have processes to monitor and report on compliance with implemented processes been established? 
