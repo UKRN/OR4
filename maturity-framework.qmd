@@ -8,7 +8,7 @@ format:
     toc-title: Page Contents
     other-links:
       - text: Maturity framework
-        href: resources/or4-maturityframework.pdf
+        href: resources/ukrn-maturityframework.pdf
         target: _blank # opens in a new tab
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
