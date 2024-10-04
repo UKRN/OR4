@@ -1,5 +1,4 @@
 ---
-page-navigation: true
 format:
   html:
     toc: true
