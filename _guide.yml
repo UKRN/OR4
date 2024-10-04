@@ -1,0 +1,19 @@
+project:
+  type: book
+  output-dir: pdf
+
+book:
+  chapters:
+  - index.qmd
+  - guide-intro.qmd
+  - guide-01-commitment.qmd
+  - guide-02-leadership.qmd
+  - guide-03-strategy.qmd
+  - guide-04-communication.qmd
+  - guide-05-policy.qmd
+  - guide-06-support.qmd
+  - guide-07-training.qmd
+  - guide-08-monitoring.qmd
+  - guide-09-planning.qmd
+
+format: pdf

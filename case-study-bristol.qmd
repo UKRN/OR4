@@ -6,6 +6,11 @@ format:
     toc-depth: 3
     toc-expand: 3
     toc-title: Page Contents
+    other-links:
+      - text: This page as PDF
+        href: resources/case-study-bristol.pdf
+        target: _blank
+        icon: file-earmark-pdf
 ---
 
 # Including open research in the University of Bristol's Academic Promotions Framework

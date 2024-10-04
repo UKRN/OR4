@@ -8,6 +8,11 @@ format:
     toc-depth: 3
     toc-expand: 3
     toc-title: Page Contents
+    other-links:
+      - text: This page as PDF
+        href: resources/guide-08-monitoring.pdf
+        target: _blank
+        icon: file-earmark-pdf
 ---
 
 # Monitoring and evaluation 
