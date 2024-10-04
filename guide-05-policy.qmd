@@ -2,8 +2,6 @@
 page-navigation: true
 format:
   html:
-    number-sections: true
-    number-offset: 4
     toc: true
     toc-depth: 3
     toc-expand: 3
@@ -15,7 +13,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-# Policy and procedure
+# 5. Policy and procedure
 
 <!-- In Formulating expectations relating to open research section, link to guide intro should go to subsection Open research and research assessment reform -->
 
