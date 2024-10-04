@@ -1,11 +1,5 @@
 ---
 page-navigation: true
-format:
-  html:
-    toc: true
-    toc-depth: 3
-    toc-expand: 3
-    toc-title: Page Contents
 ---
 
 # Executive summary
