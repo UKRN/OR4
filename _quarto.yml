@@ -67,11 +67,9 @@ website:
     right:
       - icon: github
         aria-label: GitHub
-        href: https://github.com/UKRN/OR4-demo
+        href: https://github.com/UKRN/OR4
 
 format:
   html:
     theme: [simplex, www/style.scss]
     mainfont: Roboto
-  pdf:
-    documentclass: report
