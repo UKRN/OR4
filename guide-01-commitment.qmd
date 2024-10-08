@@ -8,7 +8,7 @@ format:
     toc-title: Page Contents
     other-links:
       - text: This page as PDF
-        href: resources/guide-01-committment.pdf
+        href: resources/guide-01-commitment.pdf
         target: _blank
         icon: file-earmark-pdf
 ---
@@ -88,7 +88,7 @@ Whether or not institutions are DORA signatories, there is a case for signing th
 
 Institutions that receive funding from the [Wellcome Trust](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research) are also required to publish on their website a commitment to the use of responsible research assessment aligned with the DORA and CoARA principles. They are expected to have a plan in place for implementing the principles, and for monitoring and reporting on implementation. 
 
-A statement of institutional commitment to research assessment reform should include an undertaking to integrate open research criteria into systems of reward and recognition, in line with the emphasis placed on open research/open science in the Agreement and [more recent discussions of responsible research assessment](guide-intro.qmd). It should also reference the statement of institutional commitment to open research, where this exists. 
+A statement of institutional commitment to research assessment reform should include an undertaking to integrate open research criteria into systems of reward and recognition, in line with the emphasis placed on open research/open science in the Agreement and [more recent discussions of responsible research assessment](guide-intro.qmd#open-research-and-research-assessment-reform). It should also reference the statement of institutional commitment to open research, where this exists. 
 
 ### Supporting commitments 
 
