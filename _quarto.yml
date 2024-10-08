@@ -3,7 +3,7 @@ engine: knitr
 project:
   type: website
   output-dir: docs
-  resources: [resources, CNAME]
+  resources: [resources, CNAME, .nojekyll]
 
 execute:
   freeze: auto
