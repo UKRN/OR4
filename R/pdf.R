@@ -1,11 +1,12 @@
-guides <- list.files(pattern = "guide-\\d+.*\\.qmd")
+pages <- list.files(pattern = "(case-study|guide)-\\d+.*\\.qmd") |>
+  setdiff("guide-contents.qmd")
 
-for (guide in guides) {
-  #guide <- "case-study-bristol.qmd"
-  quarto::quarto_render(guide, output_format="pdf");
+for (page in pages) {
+  quarto::quarto_render(page, output_format = "pdf")
+  pdf <- sub("\\.qmd", "\\.pdf", page)
   file.rename(
-    paste0("docs/", sub("\\.qmd", "\\.pdf", guide)),
-    paste0("resources/", sub("\\.qmd", "\\.pdf", guide))
+    file.path("docs", pdf),
+    file.path("resources", pdf)
   )
 }
 

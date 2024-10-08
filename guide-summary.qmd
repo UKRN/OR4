@@ -1,5 +1,12 @@
 ---
 page-navigation: true
+format:
+  html:
+    other-links:
+      - text: This page as PDF
+        href: resources/guide-summary.pdf
+        target: _blank
+        icon: file-earmark-pdf
 ---
 
 # Executive summary
