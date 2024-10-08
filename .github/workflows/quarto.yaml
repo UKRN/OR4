@@ -4,6 +4,11 @@ on:
     branches:
       - master  # changes pushed to this branch will trigger a build.
 
+
+# configure manual trigger
+# on:
+#   workflow_dispatch:
+
 jobs:
   build-deploy:
       runs-on: ubuntu-latest
