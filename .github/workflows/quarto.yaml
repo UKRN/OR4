@@ -5,7 +5,7 @@ name: Render and Publish
 #       - master  # changes pushed to this branch will trigger a build.
 
 
-configure manual trigger
+#configure manual trigger
 on:
   workflow_dispatch:
 
