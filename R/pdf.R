@@ -1,4 +1,4 @@
-pages <- list.files(pattern = "(case-study|guide)-\\d+.*\\.qmd") |>
+pages <- list.files(pattern = "(case-study|guide)-.*\\.qmd") |>
   setdiff("guide-contents.qmd")
 
 for (page in pages) {
