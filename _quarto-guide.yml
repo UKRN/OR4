@@ -1,5 +1,5 @@
 project:
-  output-dir: pdf
+  output-dir: resources
 
 book:
   chapters:
@@ -17,4 +17,14 @@ book:
   - guide-09-planning.qmd
   - glossary.qmd
 
-format: pdf
+format:
+  pdf:
+    documentclass: report
+    toc: false
+    number-sections: false
+    colorlinks: true
+    include-in-header: pdf-header.tex
+    margin-left: 20mm
+    margin-right: 20mm
+    margin-top: 20mm
+    margin-bottom: 20mm
