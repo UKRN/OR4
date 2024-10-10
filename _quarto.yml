@@ -73,3 +73,13 @@ format:
   html:
     theme: [simplex, www/style.scss]
     mainfont: Roboto
+  pdf:
+    documentclass: report
+    toc: false
+    number-sections: false
+    colorlinks: true
+    include-in-header: pdf-header.tex
+    margin-left: 20mm
+    margin-right: 20mm
+    margin-top: 20mm
+    margin-bottom: 20mm
