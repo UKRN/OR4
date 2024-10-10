@@ -1,9 +1,3 @@
-```{r, include = FALSE}
-# adds glossary capacity
-#devtools::install_github("debruine/glossary")
-library(glossary)
-glossary_path("glossary.yml")
-```
 
 :::{.column-body-outset}
 # Introducing the Recognising and rewarding open research toolkit 
