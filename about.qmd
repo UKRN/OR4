@@ -1,5 +1,3 @@
-<!-- add URL in ORP domain for citation -->
-
 :::{.column-body-outset}
 # About OR4
 
