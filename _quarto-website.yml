@@ -20,7 +20,7 @@ website:
     right:
       - href: index.qmd
       - icon: house-door-fill # https://icons.getbootstrap.com/
-      - text: 
+      - text: ""
       - text: "About"
         href: about.qmd
       - text: "Overview"
