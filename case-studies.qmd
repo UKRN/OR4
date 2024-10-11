@@ -19,10 +19,10 @@ We also welcome proposals for case studies from the institutions in the wider hi
 
 If you are interested in providing a case study for the toolkit, please follow these steps:
 
-- Review the case study brief provided here to check your case study will be a fit for this resource. 
-- Send us a proposed title and brief description of the case study, indicating which section(s) of the [implementation guide](guide-contents.qmd) it would primarily illustrate.
-- We will discuss the case study with you and check that it will meet our criteria.
-- Further to consideration we will invite you to submit a full draft of the case study using the template provided in the case study brief.
+1. Review the case study brief provided here to check your case study will be a fit for this resource. 
+2. Send us a proposed title and brief description of the case study, indicating which section(s) of the [implementation guide](guide-contents.qmd) it would primarily illustrate.
+3. We will discuss the case study with you and check that it will meet our criteria.
+4. Further to consideration we will invite you to submit a full draft of the case study using the template provided in the case study brief.
 
 To submit a case study proposal and for all other enquiries please contact [Robert Darby](mailto:r.m.darby@reading.ac.uk).
 
