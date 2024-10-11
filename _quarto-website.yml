@@ -18,9 +18,8 @@ website:
     logo-alt: "Globe with UKRN and big green UK"
     toggle-position: "right"
     right:
-      - href: index.qmd
       - icon: house-door-fill # https://icons.getbootstrap.com/
-      - text: ""
+        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Overview"
