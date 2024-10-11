@@ -20,7 +20,6 @@ website:
     right:
       - href: index.qmd
       - icon: house-door-fill
-      - text: " "
       - text: "About"
         href: about.qmd
       - text: "Overview"
