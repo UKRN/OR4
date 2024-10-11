@@ -19,7 +19,8 @@ website:
     toggle-position: "right"
     right:
       - href: index.qmd
-      - icon: house-door-fill
+      - icon: house-door-fill # https://icons.getbootstrap.com/
+      - text: 
       - text: "About"
         href: about.qmd
       - text: "Overview"
