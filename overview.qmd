@@ -19,17 +19,20 @@ The Recognising and rewarding open research toolkit consists of two main compone
 The maturity framework and  guide are organised in nine action areas under three themes, as follows: 
 
 **Strategy and leadership**
+
 1. Institutional commitment
 2. Leadership
 3. Strategy and planning
 
 **Implementation**
+
 4. Communication and engagement
 5. Policy and procedure
 6. Support, systems and processes 
 7. Guidance and training
 
 **Managing progress**
+
 8. Monitoring and evaluation
 9. Research planning
 
