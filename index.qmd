@@ -28,5 +28,5 @@ The main components of the toolkit are:
 
 The toolkit will continue to evolve throughout the OR4 project (until 2027), as guidance is updated and new case studies are published. 
 
-Visit the [Toolkit overview](overview.qmd) to find out more. 
+Visit the [toolkit overview](overview.qmd) to find out more. 
 :::
