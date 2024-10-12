@@ -4,7 +4,7 @@ project:
   resources: [resources, CNAME, .nojekyll]
 
 website:
-  title: "Recognising and rewarding open research toolkit"
+  title: "Recognising and rewarding open research"
   site-url: https://recognition.ukrn-openresearch.ac.uk
   repo-url: https://github.com/UKRN/OR4
   image: images/logo.png
