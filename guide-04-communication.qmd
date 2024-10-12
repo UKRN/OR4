@@ -68,7 +68,7 @@ Here are suggestions for key actions that can be taken to progress from one leve
 
 It is imperative that any actions, policies or support specifically relating to reward and recognition of open practices are widely communicated to all relevant stakeholders. Many institutions have already developed communication and engagement activities to support strategic activity related to open research. Examples of such activities include: 
 
-- the publication of an open research statement
+- the publication of an open research statement;
 - the provision of information, guidance and case studies of open research practice; 
 - the organisation of conference and workshop events themed around open research topics; 
 - open research award competitions; 
