@@ -13,7 +13,7 @@ We thank colleagues in the OR4 team and the wider Open Resarch Programme for the
 
 Unless otherwise specified, material contained in the toolkit is published under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) licence and may be freely re-used with attribution. Please cite this resource as:
 
-UK Reproducibility Network. 2024. Recognising and rewarding open research toolkit. <https://recognition.ukrn-openresearch.ac.uk/>
+UK Reproducibility Network. 2024. Recognising and rewarding open research. <https://recognition.ukrn-openresearch.ac.uk/>
 
 ## Contact us
 
