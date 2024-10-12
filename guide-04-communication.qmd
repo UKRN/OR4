@@ -66,7 +66,16 @@ Here are suggestions for key actions that can be taken to progress from one leve
 
 ### Open research communication and engagement plan 
 
-It is imperative that any actions, policies or support specifically relating to reward and recognition of open practices are widely communicated to all relevant stakeholders. Many institutions have already developed communication and engagement activities to support strategic activity related to open research. Examples of such activities include: the publication of open research statements, with supporting web pages providing information, guidance and case studies of open research practice; the organisation of conference and workshop events themed around open research topics; open research award competitions; the appointment of open research champions; and communications related to significant open research developments, such as the adoption of a rights retention policy for publications by the institution. Such activities may not always sit within a single strategic communications plan; they may be undertaken by different stakeholders within the organisation and may not be explicitly organised around an open research theme. However, to progress through to maturity, institutions would be expected to have a structured plan for communication related to reward and recognition for open research. 
+It is imperative that any actions, policies or support specifically relating to reward and recognition of open practices are widely communicated to all relevant stakeholders. Many institutions have already developed communication and engagement activities to support strategic activity related to open research. Examples of such activities include: 
+
+- the publication of an open research statement
+- the provision of information, guidance and case studies of open research practice; 
+- the organisation of conference and workshop events themed around open research topics; 
+- open research award competitions; 
+- the appointment of open research champions; 
+- communications related to significant open research developments, such as the adoption of a rights retention policy for publications by the institution. 
+
+These activities may not always sit within a single strategic communications plan; they may be undertaken by different stakeholders within the organisation and may not be explicitly organised around an open research theme. However, to progress through to maturity, institutions would be expected to have a structured plan for communication related to reward and recognition for open research. 
 
 By developing an open research communication and engagement plan, the open research stakeholder group can facilitate a strategic and co-ordinated approach to communications, in order to target these effectively and communicate key messages. A stakeholder analysis can help with this. It will largely overlap with the stakeholder analysis for research assessment reform, although there may be those with specific interests and expertise in open research who will need to be engaged, including:  
 
