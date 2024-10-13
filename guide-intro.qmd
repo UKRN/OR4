@@ -42,7 +42,7 @@ UKRI [describes open research](https://www.ukri.org/what-we-do/supporting-health
 >
 > Open research also helps to support collaboration within and across disciplines. It is integral to a healthy research culture and environment. 
 
-Open research can be situated in the context of a global discourse about open knowledge and openness in academic practice (which  often uses the term 'open science'). In the open knowledge paradigm, 'openness' is integral to the practices by which research is conducted, communicated, evaluated, validated and instrumentalised. Open research practice is held to have a direct relationship to research integrity (through transparency of methods and outputs), research quality (through the use of evidentiary and reproducible practices), sustainability (through use of appropriate standards and formats, preservation infrastructure, and persistent identifiers), and reach and impact (through the accessibility and re-usability of outputs). 
+[Open research[(glossary.qmd#open-research) can be situated in the context of a global discourse about open knowledge and openness in academic practice (which often uses the term [open science](glossary.qmd#open-science)). In the open knowledge paradigm, 'openness' is integral to the practices by which research is conducted, communicated, evaluated, validated and instrumentalised. Open research practice is held to have a direct relationship to research integrity (through transparency of methods and outputs), research quality (through the use of evidentiary and reproducible practices), sustainability (through use of appropriate standards and formats, preservation infrastructure, and persistent identifiers), and reach and impact (through the accessibility and re-usability of outputs). 
 :::
 
 ## Open research principles are widely accepted but not fully integrated into research practice
@@ -59,7 +59,7 @@ With momentum for research assessment reform building globally, there is an oppo
 
 ## Open research and research assessment reform
 
-The history of research assessment reform can be characterised in terms of an evolution from an agenda focused almost exclusively on the use of publication-based metrics towards a broader framework of responsible research assessment (@fig-milestones). This broader, more instrumental agenda considers research assessment as a means of enabling the best researchers to flourish, promoting diversity and inclusion, and supporting the production of high-quality research – in short, as a means to engineer research culture. Within this agenda, there has been growing attention to the role of open research practices in relation to research assessment. 
+The history of research assessment reform can be characterised in terms of an evolution from an agenda focused almost exclusively on the use of publication-based metrics towards a broader framework of [responsible research assessment](glossary.qmd#responsible-research-assessment) (@fig-milestones). This broader, more instrumental agenda considers research assessment as a means of enabling the best researchers to flourish, promoting diversity and inclusion, and supporting the production of high-quality research – in short, as a means to engineer research culture. Within this agenda, there has been growing attention to the role of open research practices in relation to research assessment. 
 
 ![Milestones in the history of research assessment reform](images/figures/researchassessment-timeline.jpg){#fig-milestones}
 
@@ -107,7 +107,7 @@ As the national research assessment framework progressively assimilates open res
 - The Irish National Action Plan for Open Research published in 2022 calls for an alignment of research assessment with the principles of open research at both national and institutional level as part of action to establish a culture of open research, and proposes among other actions adoption of a modified OS-CAM model to the national context.^[NORF (2022). National Action Plan for Open Research. <https://doi.org/10.7486/DRI.ff36jz222>.]   
 :::
 
-## Challenges of including open research in institutional research(er) assessment 
+## Challenges of including open research in researcher assessment 
 
 Ensuring the meaningful inclusion of open research objectives in institutional researcher assessment and aligned research planning activities at all levels in an institution is a long-term challenge requiring a sustained effort of leadership and co-ordinated activity. Challenges can be summarised as political, cultural, practical and operational.
 
