@@ -50,7 +50,7 @@ Research assessment that is aligned to the principles of the San Francisco Decla
 
 Published in 2013, the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) was the first substantial initiative to articulate the case for research assessment reform. Many institutions and individuals have signed up to the Declaration and initiated reform activities based on its recommendations. It has become a worldwide initiative covering all scholarly disciplines and all key stakeholders including funders, publishers, professional societies, institutions, and researchers.
 
-## Stakeholders
+## Stakeholder group
 
 A group of stakeholders representing relevant areas of interest and knowledge within the institution convened to undertake action related to a defined strategic objective, such as development of open research culture and practice, or the implementation of responsible research assessment policy and practice.
 
