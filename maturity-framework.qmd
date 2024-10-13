@@ -13,7 +13,7 @@ format:
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
 
-The **Recognising and rewarding open research** maturity framework and self-assessment tool can be used by a group of stakeholders in an institution to assess maturity in the implementation of recognition and reward for open research, to support internal discussion and planning, and to measure ongoing progress. 
+The **Recognising and rewarding open research** maturity framework and [self-assessment tool](self-assessment.qmd) can be used by a group of stakeholders in an institution to assess maturity in the implementation of recognition and reward for open research, to support internal discussion and planning, and to measure ongoing progress. 
 
 The maturity framework describes four levels of maturity across nine action areas:
 
