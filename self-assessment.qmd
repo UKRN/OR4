@@ -26,37 +26,37 @@ The materials can be adapted and used according to need. We recommend a self-ass
 
 ### Before the workshop
 
-Identify the group of stakeholders who will participate in the exercise, and the person who will facilitate the session. It may help all members of the group participate on an equal footing if the facilitator is someone independent from the group.
+Identify the group of stakeholders who will participate in the exercise, and the person who will facilitate the session. It may help all members of the group to participate on an equal footing if the facilitator is someone independent from the group.
 
 Ask each member of the stakeholder group to:
 
-1. Read the [executive summary](guide-summary.qmd) and/or the section,  [Why recognise and reward open research practice?](guide-intro.qmd) and, optionally, spend some time browsing the [implementation guide](guide-contents.qmd). This is to ensure all members of the group have a shared understanding and sense of purpose around recognition and reward for open research.  
+1. Read the [executive summary](guide-summary.qmd) and/or [Why recognise and reward open research practice?](guide-intro.qmd) and, optionally, spend some time browsing the [implementation guide](guide-contents.qmd). This is to ensure all members of the group have a shared understanding and sense of purpose around recognition and reward for open research.  
 2. Undertake an independent assessment of institutional maturity using the maturity framework as a reference. The related sections of the guide can be used to explore each action area in greater depth and identify relevant progress actions. The self-assessment tool can be used to document maturity assessments for each of the nine action areas, along with comments and notes on the progress actions the institution should take.
 
 ### The workshop
 
 We recommend the workshop is no longer than 2 hours. The workshop can be used to:
 
--	agree on the current level of maturity in each of the action areas
--	identify the level of maturity you would like to reach over a given timescale (e.g. 2-3 years later)
+-	agree on the current level of maturity in each of the action areas;
+-	identify the level of maturity you would like to reach over a given timescale (e.g. 2-3 years later);
 -	identify progress actions necessary to attain the target maturity level, and organise these into the framework for a strategic plan.
 
 The workshop could follow a four-stage format:
 
 1. Introduction.  A [set of slides](resources/ukrn-selfassessment-slides.pptx) is provided which can be used to set the scene and explain to the group why incorporating recognition and reward for open research into researcher assessment is important. The slides can be freely adapted. 
 2. Breakout groups/discussion 1: 
-    a. discuss individual institutional assessments for each of the nine areas
-    b. compare notes
-    c. agree current and target maturity levels for each of the nine areas
+    a. discuss individual institutional assessments for each of the nine areas;
+    b. compare notes;
+    c. agree current and target maturity levels for each of the nine areas.
 3.	Breakout groups/discussion 2:
-    a. identify priorities and areas for change
-    b. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections
+    a. identify priorities and areas for change;
+    b. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections.
 4.	Wrap-up: 
-    a. summarise the discussions
-    b. set next steps and allocate actions 
+    a. summarise the discussions;
+    b. set next steps and allocate actions. 
 
 ### After the workshop
 
-1. Write up the summary of the exercise
-2. Develop a draft action plan 
+1. Write up the summary of the exercise.
+2. Develop a draft action plan. 
 3. Schedule a date to re-run the assessment, e.g. at project conclusion or a milestone stage identified in the plan, in order that progress can be measured and celebrated, and a plan for further action agreed if required.
