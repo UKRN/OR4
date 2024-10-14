@@ -29,6 +29,6 @@ format:
     margin-right: 20mm
     margin-top: 30mm
     margin-bottom: 30mm
-#    mainfont: Roboto
+    mainfont: Roboto
     output-file: "or4-guide"
     output-ext:  "pdf"
