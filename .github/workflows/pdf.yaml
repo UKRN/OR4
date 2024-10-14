@@ -22,7 +22,6 @@ jobs:
           uses: quarto-dev/quarto-actions/render@v2
           with:
             to: pdf
-            target: gh-pages
           env:
             QUARTO_PROFILE: guide
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -31,8 +30,6 @@ jobs:
           uses: quarto-dev/quarto-actions/render@v2
           with:
             to: pdf
-            target: gh-pages
-            output: or4-guide.pdf
           env:
             QUARTO_PROFILE: pages
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
