@@ -1,8 +1,15 @@
-# pages <- list.files(pattern = "(case-study|guide)-.*\\.qmd") |>
-#   setdiff("guide-contents.qmd")
-#
-# for (page in pages) {
-#   quarto::quarto_render(page, output_format = "pdf", profile = "guide")
-# }
+# individual pages
+pages <- list.files(pattern = "(case-study|guide)-.*\\.qmd") |>
+  setdiff("guide-contents.qmd")
 
-quarto::quarto_render(output_format = "pdf", profile = "guide")
+for (page in pages) {
+  quarto::quarto_render(page, output_format = "pdf", profile = "pages")
+}
+
+
+# full guide
+file.rename("guide/index.md", "index.md")
+quarto::quarto_render(output_format = "pdf",
+                      profile = "guide",
+                      output_file = "or4-guide.pdf")
+file.rename("index.md", "guide/index.md")

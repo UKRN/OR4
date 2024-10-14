@@ -1,9 +1,11 @@
 project:
-  output-dir: resources
+  output-dir: guide
+  type: book
+  title: A toolkit for recognising and rewarding open research
 
 book:
   chapters:
-  - guide-contents.qmd
+  - index.md
   - guide-summary.qmd
   - guide-intro.qmd
   - guide-01-commitment.qmd
@@ -19,8 +21,7 @@ book:
 
 format:
   pdf:
-    documentclass: article
-    toc: false
+    toc: true
     number-sections: false
     colorlinks: true
     include-in-header: pdf-header.tex
@@ -28,4 +29,6 @@ format:
     margin-right: 20mm
     margin-top: 30mm
     margin-bottom: 30mm
-    mainfont: Roboto
+#    mainfont: Roboto
+    output-file: "or4-guide"
+    output-ext:  "pdf"

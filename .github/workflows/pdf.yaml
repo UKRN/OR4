@@ -1,0 +1,38 @@
+name: Render PDFs
+# manual trigger
+on:
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - name: Check out repository
+          uses: actions/checkout@v4
+
+        - name: Set up Quarto
+          uses: quarto-dev/quarto-actions/setup@v2
+          with:
+            version: 1.5.57
+            tinytex: true
+
+        - name: Render individual PDFs
+          uses: quarto-dev/quarto-actions/render@v2
+          with:
+            to: pdf
+            target: gh-pages
+          env:
+            QUARTO_PROFILE: guide
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        - name: Render Guide PDF
+          uses: quarto-dev/quarto-actions/render@v2
+          with:
+            to: pdf
+            target: gh-pages
+            output: or4-guide.pdf
+          env:
+            QUARTO_PROFILE: pages
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
