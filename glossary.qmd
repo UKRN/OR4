@@ -34,13 +34,13 @@ HR frameworks frequently discuss 'reward and recognition' together, as a unitary
 
 Those with senior level responsibility for research strategy and performance, such as PVCs for Research or Deans, and those with management responsibility for researchers and research activity within organisational units of the institution, such as heads of faculties, schools, departments or research divisions.
 
+## Researcher
+
+Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of researchers employed by research-performing organisations, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including research professionals, such as data scientists and research software engineers, and research students.
+
 ## Researcher assessment
 
 Practices used by institutions for the assessment of individual researchers, in their bearing on the granting of recognition and rewards, for example by appointment to a role, completion of probation, promotion, and the allocation of funding. Research assessment used for other purposes, such as selection of outputs for submission to the REF, and the assessment of those outputs by REF panels, is not the focus of this toolkit. But discussion of researcher assessment often takes place in the context of and with reference to the wider framework of research assessment and the research agenda for research assessment reform.
-
-## Researchers
-
-Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of researchers employed by research-performing organisations, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including research professionals, such as data scientists and research software engineers, and research students.
 
 ## Responsible research assessment
 
@@ -50,7 +50,7 @@ Research assessment that is aligned to the principles of the San Francisco Decla
 
 Published in 2013, the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) was the first substantial initiative to articulate the case for research assessment reform. Many institutions and individuals have signed up to the Declaration and initiated reform activities based on its recommendations. It has become a worldwide initiative covering all scholarly disciplines and all key stakeholders including funders, publishers, professional societies, institutions, and researchers.
 
-## Stakeholders
+## Stakeholder group
 
 A group of stakeholders representing relevant areas of interest and knowledge within the institution convened to undertake action related to a defined strategic objective, such as development of open research culture and practice, or the implementation of responsible research assessment policy and practice.
 

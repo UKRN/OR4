@@ -21,7 +21,7 @@ format:
 ```
 
 ::: {.callout .feature}
-Do you provide guidance and training on recognition and reward for open research for the benefit of colleagues involved in activities that require the assessment of researchers, such as recruitment, probation and line management, and career progression processes, and for researchers subject to institutional assessment, some of whom will be external? 
+Do you provide guidance and training on recognition and reward for open research for the benefit of colleagues involved in activities that require the assessment of researchers, such as recruitment, probation, promotion and performance and development review, and for researchers subject to assessment, some of whom will be external? 
 :::
 
 ## Why is this important? 
@@ -69,29 +69,29 @@ Here are suggestions for key actions that can be taken to progress from one leve
 
 ### Guidance  
 
-Guidance on recognition and reward for open research will be provided in the context of guidance developed to support responsible research assessment in accordance with institutional policy. Employees involved in assessment activities will need to be sufficiently informed to be able to undertake assessment following the required processes and using appropriate assessment criteria and methods. Guidance will need to be linked to policy and integrated into systems and processes, so that it is signposted at relevant stages. It will need to explain the principles of research assessment, and the criteria and methods by which assessment is to be undertaken.  
+Guidance on recognition and reward for open research will need to be provided in the context of guidance to support responsible research assessment in accordance with institutional policy. Employees involved in assessment activities will need to be sufficiently informed to be able to undertake assessment following the required processes and using appropriate assessment criteria and methods. Guidance will need to be linked to policy and integrated into systems and processes, so that it is signposted at relevant stages. It will need to explain the principles of research assessment, and the criteria and methods by which assessment is to be undertaken.  
 
-Transparency about assessment criteria and methods is essential. Candidates for assessment, whether applicants for jobs from outside the institution, colleagues undergoing probation or annual performance review, or those applying for promotion, will need to be sufficiently informed about assessment criteria and methods to be able to present their track records appropriately and effectively. Guidance would need to be publicly accessible online, so that it can be referred to by job applicants.  
+Transparency about assessment criteria and methods is essential. Candidates for assessment, whether applicants for jobs from outside the institution, colleagues undergoing probation or annual performance review, or those applying for promotion, will need to be sufficiently informed about assessment criteria and methods to be able to present their track records appropriately and effectively. Guidance will need to be publicly accessible online, so that it can be referred to by job applicants.  
 
 This guidance will need to include appropriate discussion of the recognition of open research in assessment, and to link to any open research statement, supporting information, and sources of support. Given that awareness and understanding of open research and appropriate practices for presenting, identifying and assessing evidence of open research practice are likely to be relatively undeveloped, guidance will need to be supportive in these respects, and to provide relevant illustrations. This might cover, for example: 
 
-- the definition and scope of open research, and types of practices and outputs that could be cited as evidence; 
+- defining open research, in terms of types of practices and outputs that could be cited as evidence, and characteristics of good practice, e.g. sharing of outputs using open and standard licences, use of sustainable infrastructure such as repositories and persistent identifiers, conformity to FAIR Principles;
 
-- defining characteristics of open research and best practice, e.g. sharing of outputs using of open licences, use of sustainable infrastructure such as repositories and persistent identifiers, conformity to FAIR Principles; 
+- publishing and/or linking to case studies of open research practice across different fields, so that researchers can identify practices relevant to their discipline and type of research. The UK Reproducibility Network provides an extensive compendium of [open research across disciplines](https://www.ukrn.org/disciplines/). A number of institutions have also published open research case studies, in some cases genereated through open research award initiatives.^[See e.g. Keele: <https://www.keele.ac.uk/research/raise/governanceintegrityandethics/researchintegrity/openresearch/openresearchcasestudies/>; Leeds: <https://leedsunilibrary.wordpress.com/2022/12/09/open-research-case-studies-by-faculty/>; Manchester: <https://www.openresearch.manchester.ac.uk/resources/case-studies/>; Newcastle: <https://www.ncl.ac.uk/library/academics-and-researchers/research/open-research/case-studies/>; Reading: <https://www.reading.ac.uk/research/research-environment/open-research/open-research-case-studies>; Sheffield: <https://www.sheffield.ac.uk/openresearch/casestudies>; Surrey: <https://www.surrey.ac.uk/library/open-research/case-studies>; UCL: <https://www.ucl.ac.uk/library/open-science-research-support/open-science/about-office-open-science-scholarship/open-science-case>.] 
 
-- the criteria by which evidence of open research will be assessed, and its role within the overall assessment, in alignment with the institution's research assessment policy; 
+- specifying the criteria by which evidence of open research will be assessed, and its role within the overall assessment, in alignment with the institution's research assessment policy; 
 
-- how to cite a variety of open research outputs across a range of disciplines and types of research, with examples of good citation practice; 
+- providing guidance on how to cite a variety of open research outputs across a range of disciplines and types of research, with examples of good citation practice; 
 
-- how to demonstrate the value of open research activities and outputs, through evidence of use, reach and impact; 
+- illustrating how a narrative presentation of track record might demonstrate the value of open research activities and outputs, through evidence of use, reach and impact, provided in accordance with responsible research assessment principles; 
 
-- where to find further information and support. 
+- signposting further information and support. 
 
 ### Training  
 
 Training in responsible research assessment including consideration of recognition and reward for open research should be provided for staff undertaking assessment and for those preparing to go through a formal assessment process. This should cover the same ground as the guidance, and should be integrated into procedures, for example, so that recruitment and promotion committee members and candidates for promotion are directed to the training at appropriate points.  
 
-Training should be available for all staff involved in assessment activities and could be made mandatory in some cases: for example, it could be required for all line managers of researchers and for all members of recruitment and promotion committees. Training may be delivered as an e-learning course to provide a basic level of understanding at scale, and as online or face-to-face sessions to develop more in-depth knowledge and skill. Records of completion of training maintained in institutional training systems can be used to monitor compliance. Where staff are involved in assessment activity and fail to complete required training this can be followed up with appropriate action. Training logs can also provide an indicator of the degree to which policy and understanding of responsible research assessment have been disseminated across the institution, and so provide one of the measures for ongoing monitoring. 
+Training should be available for all staff involved in assessment activities and could be made mandatory in some cases: for example, it could be required for all line managers of researchers, for all members of academic recruitment and promotion committees, and for all candidates for academic promotion. Training may be delivered as an e-learning course to provide a basic level of understanding at scale, and as online or face-to-face sessions to develop more in-depth knowledge and skill. Records of completion of training maintained in institutional training systems can be used to monitor compliance. Where staff are involved in assessment activity and fail to complete required training this can be followed up with appropriate action. Training logs can also provide an indicator of the degree to which policy and understanding of responsible research assessment have been disseminated across the institution, and so provide one of the measures for ongoing monitoring. 
 
 Training in responsible research assessment and presentation of open research track record could also be incorporated into institutional professional development frameworks, for example for early career researchers. 
 

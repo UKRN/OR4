@@ -4,7 +4,7 @@ project:
   resources: [resources, CNAME, .nojekyll]
 
 website:
-  title: "Recognising and rewarding open research toolkit"
+  title: "Recognising and rewarding open research"
   site-url: https://recognition.ukrn-openresearch.ac.uk
   repo-url: https://github.com/UKRN/OR4
   image: images/logo.png
@@ -18,6 +18,9 @@ website:
     logo-alt: "Globe with UKRN and big green UK"
     toggle-position: "right"
     right:
+      - text: " "
+        icon: house-door-fill # https://icons.getbootstrap.com/
+        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Overview"

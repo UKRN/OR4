@@ -1,7 +1,7 @@
 :::{.column-body-outset}
 # About OR4
 
-The **Recognising and rewarding open research toolkit** is produced by the [Open and Responsible Researcher Reward and Recognition project](https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/) (OR4). OR4 is a project of the [Open Research Programme](https://www.ukrn.org/open-research-programme/), a national initiative to accelerate the uptake of open research practices, supported by Research England and led by the UK Reproducibility Network. The aim of OR4 is to support the implementation of recognition and reward for open research through institutional researcher assessment practices. The project runs from 2021 to 2027. 
+The **Recognising and rewarding open research** toolkit is produced by the [Open and Responsible Researcher Reward and Recognition project](https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/) (OR4). OR4 is a project of the [Open Research Programme](https://www.ukrn.org/open-research-programme/), a national initiative to accelerate the uptake of open research practices, supported by Research England and led by the UK Reproducibility Network. The aim of OR4 is to support the implementation of recognition and reward for open research through institutional researcher assessment practices. The project runs from 2021 to 2027. 
 
 ## Acknowledgements
 
@@ -13,11 +13,11 @@ We thank colleagues in the OR4 team and the wider Open Resarch Programme for the
 
 Unless otherwise specified, material contained in the toolkit is published under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) licence and may be freely re-used with attribution. Please cite this resource as:
 
-UK Reproducibility Network. 2024. Recognising and rewarding open research toolkit. <https://recognition.ukrn-openresearch.ac.uk/>
+UK Reproducibility Network. 2024. Recognising and rewarding open research. <https://recognition.ukrn-openresearch.ac.uk/>
 
 ## Contact us
 
-The toolkit will continue to evolve during the lifetime of the OR4 project. We would love to hear from you if you have made use of the toolkit, if you have feedback that will help us improve the toolkit, if you are interested in conributing a case study, or if you have any questions. 
+The toolkit will continue to evolve during the lifetime of the OR4 project. We would love to hear from you if you have made use of the toolkit, if you have feedback that will help us improve the toolkit, if you are interested in contributing a [case study](case-studies.qmd), or if you have any questions. 
 
 Contact [Dr Robert Darby](mailto:r.m.darby@reading.ac.uk) at the University of Reading. 
 :::
