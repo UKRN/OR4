@@ -15,6 +15,11 @@ format:
 
 # 3. Strategy and planning
 
+```{=html}
+<a href="resources/guide-03-strategy.pdf"
+   class="pdf-download"></a>
+```
+
 ::: {.callout .feature}
 Do you have a strategic plan owned by a stakeholder group for developing open research culture and practice, and is recognition and reward for open research addressed in this plan and any related policies/plans concerning the assessment of researchers? 
 :::

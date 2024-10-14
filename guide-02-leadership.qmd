@@ -15,6 +15,11 @@ format:
 
 # 2. Leadership 
 
+```{=html}
+<a href="resources/guide-02-leadership.pdf"
+   class="pdf-download"></a>
+```
+
 ::: {.callout .feature}
 Does your institution provide leadership at a senior level for strategic action on open research and responsible research assessment, including recognition and reward for open research, and is open research leadership fostered at all levels in the institution? 
 :::

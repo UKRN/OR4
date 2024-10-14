@@ -15,6 +15,11 @@ format:
 
 # Including open research in the University of Bristol's Academic Promotions Framework
 
+```{=html}
+<a href="resources/case-study-bristol.pdf"
+   class="pdf-download"></a>
+```
+
 See Implementation guide section: [Policy and procedure](guide-05-policy.qmd)
 
 ## About the University of Bristol

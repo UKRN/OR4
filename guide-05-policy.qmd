@@ -15,6 +15,11 @@ format:
 
 # 5. Policy and procedure
 
+```{=html}
+<a href="resources/guide-05-policy.pdf"
+   class="pdf-download"></a>
+```
+
 <!-- In Formulating expectations relating to open research section, link to guide intro should go to subsection Open research and research assessment reform -->
 
 ::: {.callout .feature}

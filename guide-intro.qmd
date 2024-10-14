@@ -15,6 +15,11 @@ format:
 
 # Why recognise and reward open research practice?
 
+```{=html}
+<a href="resources/guide-intro.pdf"
+   class="pdf-download"></a>
+```
+
 This introductory section explains the rationale for recognising and rewarding open research in the assessment of researchers, with reference to the open research and responsible research assessment agendas that have evolved in recent years. It can be used as a reference text for a group of stakeholders undertaking a self-assessment exercise using the OR4 [maturity framework](maturity-framework.qmd), and to inform engagement in support of planned action, such as the development of business cases, consultation with key stakeholders, and communications with the wider research community. It can serve to establish a shared understanding of open research and responsible research assessment, and an awareness of the drivers for strategic action in these areas in the higher education and research sector. 
 
 ## Why should open research be part of research assessment?

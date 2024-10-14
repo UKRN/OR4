@@ -15,6 +15,11 @@ format:
 
 # 6. Support, systems and processes 
 
+```{=html}
+<a href="resources/guide-06-support.pdf"
+   class="pdf-download"></a>
+```
+
 ::: {.callout .feature}
 Has support for open research recognition and reward been effectively operationalised in responsibilities of support staff, and administrative systems and processes?
 :::

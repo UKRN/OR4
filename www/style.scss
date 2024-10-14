@@ -191,3 +191,13 @@ a[target="_blank"]::after {
   background-color: #E2EFD9;
 }
 
+
+.pdf-download {
+  display: inline-block;
+  float: right;
+  width: 50px;
+  height: 50px;
+  background: center / contain no-repeat url("images/pdf.png");
+  position: relative;
+  top: -4em;
+}

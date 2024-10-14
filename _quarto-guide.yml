@@ -19,7 +19,7 @@ book:
 
 format:
   pdf:
-    documentclass: report
+    documentclass: article
     toc: false
     number-sections: false
     colorlinks: true
@@ -27,4 +27,5 @@ format:
     margin-left: 20mm
     margin-right: 20mm
     margin-top: 30mm
-    margin-bottom: 20mm
+    margin-bottom: 30mm
+    mainfont: Roboto
