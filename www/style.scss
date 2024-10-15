@@ -201,3 +201,7 @@ a[target="_blank"]::after {
   position: relative;
   top: -4em;
 }
+
+a.pdf-download::after {
+  content:"";
+}
