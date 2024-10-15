@@ -20,7 +20,7 @@ format:
    class="pdf-download" target="_blank"></a>
 ```
 
-See Implementation guide section: [Policy and procedure](guide-05-policy.qmd)
+See Implementation guide section: [Policy and procedure](guide-05-policy.html)
 
 ## About the University of Bristol
 

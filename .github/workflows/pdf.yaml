@@ -12,6 +12,13 @@ jobs:
         - name: Check out repository
           uses: actions/checkout@v4
 
+        - name: Install Google Fonts
+          run: |
+            wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
+            unzip -d roboto/ Roboto.zip
+            mv roboto /usr/share/fonts/
+            fc-cache -fv
+
         - name: Set up Quarto
           uses: quarto-dev/quarto-actions/setup@v2
           with:
