@@ -17,7 +17,7 @@ format:
 
 ```{=html}
 <a href="resources/guide-02-leadership.pdf"
-   class="pdf-download"></a>
+   class="pdf-download" target="_blank"></a>
 ```
 
 ::: {.callout .feature}

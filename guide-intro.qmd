@@ -17,7 +17,7 @@ format:
 
 ```{=html}
 <a href="resources/guide-intro.pdf"
-   class="pdf-download"></a>
+   class="pdf-download" target="_blank"></a>
 ```
 
 This introductory section explains the rationale for [recognising and rewarding](glossary.qmd#recognition-and-reward) open research in the [assessment of researchers](glossary.qmd#researcher-assessment), with reference to the open research and responsible research assessment agendas that have evolved in recent years. It can be used as a reference text for a group of stakeholders undertaking a self-assessment exercise using the OR4 [maturity framework](maturity-framework.qmd), and to inform engagement in support of planned action, such as the development of business cases, consultation or co-development with stakeholders, and communications with the wider research community. It can serve to establish a shared understanding of open research and responsible research assessment, and an awareness of the drivers for strategic action in these areas in the higher education and research sector. 

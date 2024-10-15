@@ -13,7 +13,7 @@ format:
 
 ```{=html}
 <a href="resources/guide-summary.pdf"
-   class="pdf-download"></a>
+   class="pdf-download" target="_blank"></a>
 ```
 
 The importance and benefits of open research are widely accepted. Many institutions explicitly subscribe to open research principles in support of greater transparency and reproducibility. Institutional policies for open access to publications and research data management and sharing are standard and reflect expectations across the sector. Policy drivers and compliance requirements related to open research are set to increase. But institutional commitments and open research policies are relatively unintegrated into research strategy, planning and management, and currently have limited influence on the behaviour of individual researchers. Systems of recognition and reward that operate in the recruitment, probation, promotion and appraisal of researchers can be powerful engines of behavioural change, but at present they do not effectively incentivise or reward open research practice. 

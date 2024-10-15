@@ -17,7 +17,7 @@ format:
 
 ```{=html}
 <a href="resources/case-study-bristol.pdf"
-   class="pdf-download"></a>
+   class="pdf-download" target="_blank"></a>
 ```
 
 See Implementation guide section: [Policy and procedure](guide-05-policy.qmd)
