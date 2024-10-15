@@ -108,3 +108,5 @@ These issues are particularly salient in the context of open research practices,
 ## Resources
 
 University of Bristol [Academic Promotions Framework](https://www.bristol.ac.uk/hr/policies/promotion/) 
+
+© University of Bristol. Licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en).
