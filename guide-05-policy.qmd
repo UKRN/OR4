@@ -15,16 +15,11 @@ format:
 
 # 5. Policy and procedure
 
-<<<<<<< HEAD
 ```{=html}
 <a href="resources/guide-05-policy.pdf"
    class="pdf-download"></a>
 ```
 
-<!-- In Formulating expectations relating to open research section, link to guide intro should go to subsection Open research and research assessment reform -->
-
-=======
->>>>>>> 40187cea5f5af013351171f0ca4b28647b5c6931
 ::: {.callout .feature}
 Is recognition and reward for open research adopted as institutional policy, and included in all relevant policies and procedures, e.g. those related to recruitment, probation, promotion, performance and development review, and other activities involving the appraisal of researchers? 
 :::
