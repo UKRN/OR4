@@ -1,17 +1,11 @@
-# individual guide pages
-pages <- list.files(pattern = "guide-.*\\.qmd") |>
+# individual guideand case study pages
+pages <- list.files(pattern = "(case-study|guide)-.*\\.qmd") |>
   setdiff("guide-contents.qmd")
 
 for (page in pages) {
   quarto::quarto_render(page, output_format = "pdf", profile = "guide")
 }
 
-# individual case study pages
-pages <- list.files(pattern = "case-study-.*\\.qmd")
-
-for (page in pages) {
-  quarto::quarto_render(page, output_format = "pdf", profile = "cs")
-}
 
 
 # full guide

@@ -1,9 +1,15 @@
 project:
   output-dir: guide
   type: book
-  title: A toolkit for recognising and rewarding open research
 
 book:
+  title: |
+      ![](images/logos/logo.png){height='150px'}
+      Recognising and rewarding open research:
+      implementation guide
+  author: "Copyright and license notice: \\href{https://creativecommons.org/licenses/by/4.0/}{CC-BY} © 2024 University of Bristol"
+  site-url: https://recognition.ukrn-openresearch.ac.uk
+  license: "CC-BY © 2024 University of Bristol"
   chapters:
   - index.md
   - guide-summary.qmd
@@ -22,13 +28,24 @@ book:
 format:
   pdf:
     toc: true
+    keep-tex: false
     number-sections: false
     colorlinks: true
-    include-in-header: pdf-header-guide.tex
     margin-left: 20mm
     margin-right: 20mm
     margin-top: 30mm
     margin-bottom: 30mm
     mainfont: Roboto
+    sansfont: Roboto
     output-file: "or4-guide"
     output-ext:  "pdf"
+    include-in-header:
+    - text: |
+        \usepackage{fancyhdr}
+
+        \fancyhf{}
+        \fancyhead[R]{\href{https://recognition.ukrn-openresearch.ac.uk/}{Recognising and rewarding open research}}
+        \cfoot{\thepage}
+        \renewcommand\headrulewidth{0pt}
+        \pagestyle{fancy}
+

@@ -12,13 +12,14 @@ format:
     margin-top: 30mm
     margin-bottom: 30mm
     mainfont: Roboto
+    sansfont: Roboto
     include-in-header:
     - text: |
         \usepackage{fancyhdr}
         \fancyhf{}
         \fancyhead[L]{\includegraphics[height=1cm]{images/logos/logo.png}}
-        \fancyhead[R]{\href{https://recognition.ukrn-openresearch.ac.uk/}{Recognising and rewarding open research: Case Studies}}
-        \fancyfoot[R]{Licensed \href{https://creativecommons.org/licenses/by/4.0/}{CC-BY}}
-        \fancyfoot[L]{}
+        \fancyhead[R]{\href{https://recognition.ukrn-openresearch.ac.uk/}{Recognising and rewarding open research}}
+        \fancyfoot[R]{© University of Bristol. Licensed \href{https://creativecommons.org/licenses/by/4.0/}{CC-BY}}
+        \fancyfoot[L]{\thepage}
         \renewcommand\headrulewidth{0pt}
         \pagestyle{fancy}
