@@ -191,6 +191,12 @@ a[target="_blank"]::after {
   background-color: #E2EFD9;
 }
 
+.pdf-full-download {
+  display: inline-block;
+  height: 50px;
+  background: 0% 0% / contain no-repeat url("images/pdf.png");
+  padding-left: 40px;
+}
 
 .pdf-download {
   display: inline-block;

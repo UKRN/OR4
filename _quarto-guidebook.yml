@@ -24,7 +24,7 @@ format:
     toc: true
     number-sections: false
     colorlinks: true
-    include-in-header: pdf-header.tex
+    include-in-header: pdf-header-guide.tex
     margin-left: 20mm
     margin-right: 20mm
     margin-top: 30mm
