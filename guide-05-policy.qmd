@@ -85,15 +85,15 @@ There is also the challenge of articulating open research expectations and requi
 
 Institutions will approach the development of policy, and the inclusion of open research within it, in different ways, but it will be important to ensure the process of policy development is inclusive and the end result embodies the values of the institution. The [SCOPE Framework for Research Evaluation](https://inorms.net/scope-framework-for-research-evaluation/) developed by the Institutional Network of Research Management Societies (INORMS) is an excellent practical model that can be used to support the an inclusive process of policy co-development and implementation. It includes a number of case studies that demonstrate how different institutions have used the Framework to develop research assessment policies.  
 
+::: {.callout .feature}
+'There was a need to make allowances for adjustments in Schools to support individual and discipline-specific requirements and approaches. This was particularly true for open research practices, which are currently adopted to different degrees across disciplines. Similarly, career stage was a consideration, as earlier-career researchers tend to be more familiar with open research practices than senior researchers.' [University of Bristol]([case-study-bristol.qmd)
+:::
+
 ### Integrating open research criteria in relevant policies and procedures 
 
 Policies and procedures that would need to take account of open research criteria include those relating to recruitment, probation, promotion, and professorial review, performance and development review, and other forms of reward and recognition, e.g. awards of institutional funding and other prizes. 
 
 The process of updating policies and procedures is likely to require a substantive collaborative development and consultation phase and could be driven by a research assessment reform group, an existing group with authority in these areas, or an empowered institutional lead. There may be discussion with policy owners over the precise nature of the changes, how and by whom any support requirements will be met, and the provision of additional resources to support implementation. It will be important to reach agreement on these matters if the policy is to be implemented effectively. It will also be necessary to ensure there is appropriate reference to open research expectations/requirements in any update of related policy and procedure documents, and guidance and support are signposted. For example, an academic promotion framework may need to update its criteria to include specification of open research, with information for both promotion panels and candidates providing links to any relevant policy information, guidance and training. 
-
-::: {.callout .feature}
-There was a need to make allowances for adjustments in Schools to support individual and discipline-specific requirements and approaches. This was particularly true for open research practices, which are currently adopted to different degrees across disciplines. Similarly, career stage was a consideration, as earlier-career researchers tend to be more familiar with open research practices than senior researchers. (University of Bristol)[case-study-bristol.qmd]
-:::
 
 ### Academic assessment frameworks and open science approaches 
 
