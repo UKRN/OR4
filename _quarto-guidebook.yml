@@ -4,12 +4,12 @@ project:
 
 book:
   title: |
-      ![](images/logos/logo.png){height='150px'}
+      ![](images/logos/logo.png){height='120px'}
       Recognising and rewarding open research:
       implementation guide
-  author: "Copyright and license notice: \\href{https://creativecommons.org/licenses/by/4.0/}{CC-BY} © 2024 University of Bristol"
+  author: "© 2024 University of Bristol. Licensed \\href{https://creativecommons.org/licenses/by/4.0/}{CC-BY} "
   site-url: https://recognition.ukrn-openresearch.ac.uk
-  license: "CC-BY © 2024 University of Bristol"
+  license: "© 2024 University of Bristol. Licensed CC-BY"
   chapters:
   - index.md
   - guide-summary.qmd
