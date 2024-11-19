@@ -41,7 +41,7 @@ website:
     - title: "Implementation guide"
       style: "docked"
       contents:
-      - text: "<span class='pdf-full-download'>Download Guide</span>"
+      - text: "<span class='pdf-full-download'>Download guide</span>"
         href: guide/or4-guide.pdf
       - guide-contents.qmd
       - guide-summary.qmd

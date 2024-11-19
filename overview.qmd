@@ -11,9 +11,9 @@ format:
 
 The **Recognising and rewarding open research** toolkit consists of two main components:
 
-- a [maturity framework and self-assessment tool](maturity-framework.html) that institutions can use to assess their maturity in the implementation of relevant policies and procedures, to support internal discussion and planning, and to measure ongoing progress; 
+- a [maturity framework and self-assessment tool](maturity-framework.qmd) that institutions can use to assess their maturity in the implementation of relevant policies and procedures, to support internal discussion and planning, and to measure ongoing progress; 
 
-- an [implementation guide](guide-contents.html) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment, planning and progress. The guide is illustrated with [case studies](case-studies.html) from institutions that have participated in the OR4 project. A [glossary of key terms](glossary.html) is included.
+- an [implementation guide](guide-contents.qmd) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment, planning and progress. The guide is illustrated with [case studies](case-studies.qmd) from institutions that have participated in the OR4 project. A [glossary of key terms](glossary.qmd) is included.
 
 The maturity framework and  guide are organised in nine action areas under three themes, as follows: 
 
@@ -39,7 +39,7 @@ The maturity framework and  guide are organised in nine action areas under three
 
 Each of the nine action areas represents an aspect of institutional activity through which recognition and reward for open research can be operationalised. These different aspects are interrelated, and must all be addressed to some degree if recognition and reward for open research is to be effectively implemented. 
 
-An assessment undertaken using the maturity framework and the self-assessment tool will generate an overall picture of institutional maturity across all nine action areas at a given point in time. It can enable a [group of stakeholders](glossary.html#stakeholder-group) to establish a baseline, identify and focus on the target level of maturity in each action area, plan the means by which this target can be attained, and in due course measure progress.
+An assessment undertaken using the maturity framework and the self-assessment tool will generate an overall picture of institutional maturity across all nine action areas at a given point in time. It can enable a [group of stakeholders](glossary.qmd#stakeholder-group) to establish a baseline, identify and focus on the target level of maturity in each action area, plan the means by which this target can be attained, and in due course measure progress.
 
 The implementation guide can be used to develop a shared understanding of the rationale for recognising and rewarding open research practice and to explore different aspects of implementation in greater depth, in order to support informed planning and implementation.
 

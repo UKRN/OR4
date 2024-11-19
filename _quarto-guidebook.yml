@@ -4,7 +4,7 @@ project:
 
 book:
   title: |
-      ![](images/logos/logo.png){height='120px'}
+      ![](images/logos/logo.png){height='80px'}
       Recognising and rewarding open research:
       implementation guide
   author: "© 2024 University of Bristol. Licensed \\href{https://creativecommons.org/licenses/by/4.0/}{CC-BY} "
