@@ -24,7 +24,7 @@ See Implementation guide section: [Policy and procedure](https://recognition.ukr
 
 ## About the University of Bristol
 
-The University of Bristol is a research-intensive University, with over 29,000 students and employing approximately 9,000 staff. The University has a reputation for academic excellence and delivering world-leading research.
+The University of Bristol is a research-intensive University, with over 29,000 students and employing approximately 9,000 staff. The University has a reputation for academic excellence and delivering world-leading research. See the [University of Bristol's OR4 project profile](https://www.ukrn.org/bristol-case-study-profile/).
 
 ## What has changed? 
 
