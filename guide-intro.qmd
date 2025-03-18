@@ -98,7 +98,7 @@ But the landscape is beginning to change, and institutions will need to develop 
 
 ## Assessment should recognise all contributions to research
 
-Contribution to open research should be recognised and rewarded wherever and by whomever it is made, and institutional policies and practices should be designed inclusively and should recognise the collaborative nature of much research. 
+Contribution to open research should be recognised and rewarded wherever and by whomever it is made. Institutional policies and practices should be designed inclusively and should recognise the collaborative nature of much research. 
 
 As the Hidden REF campaign has highlighted, much research is collaborative in nature and is contributed to and enabled by people in research-performing organisations who are not defined as academic researchers: data scientists, technicians, research software engineers, librarians and others. These contributory and enabling roles are often obscured in the reporting and assessment of research, given the prevailing focus on the publication as the representative research output, and on the academic researcher as the 'author' of the research. 
 
