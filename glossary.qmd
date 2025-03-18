@@ -36,7 +36,7 @@ Those with senior level responsibility for research strategy and performance, su
 
 ## Researcher
 
-Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of researchers employed by research-performing organisations, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including professionals such as technicians, data scientists and research software engineers, and research students. We support an inclusive research culture that recognises and rewards all contributions to research.
+Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of academic researchers, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including professionals such as technicians, data scientists and research software engineers, and research students. We support an inclusive research culture that acknowledges the collaborative nature of much research and that recognises and rewards all contributions to research.
 
 ## Researcher assessment
 
