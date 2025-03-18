@@ -99,6 +99,17 @@
     ]
   },
   {
+    "objectID": "glossary.html#contributor",
+    "href": "glossary.html#contributor",
+    "title": "Glossary",
+    "section": "Contributor",
+    "text": "Contributor\nAnyone who contributes to or enables a research activity or output; the term may refer more specifically to non-academic research contributors as distinct from academic researchers. Such contributors might include technicians, data scientists and research software engineers, among others. We support an inclusive research culture that acknowledges the collaborative nature of much research and that recognises and rewards all contributions to research.",
+    "crumbs": [
+      "Guide",
+      "Glossary"
+    ]
+  },
+  {
     "objectID": "glossary.html#open-research",
     "href": "glossary.html#open-research",
     "title": "Glossary",
@@ -147,7 +158,7 @@
     "href": "glossary.html#researcher",
     "title": "Glossary",
     "section": "Researcher",
-    "text": "Researcher\nAnyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of academic researchers, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including professionals such as technicians, data scientists and research software engineers, and research students. We support an inclusive research culture that acknowledges the collaborative nature of much research and that recognises and rewards all contributions to research.",
+    "text": "Researcher\nAnyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of academic researchers, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including professionals such as technicians, data scientists and research software engineers.",
     "crumbs": [
       "Guide",
       "Glossary"
