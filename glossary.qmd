@@ -18,6 +18,9 @@ Published in 2022 by the Coalition for Advancing Research Assessment, the [Agree
 
 Signatories to the Agreement on Reforming Research Assessment can apply to become members of the [CoARA](https://coara.eu/coalition/membership/). Membership of the international Coalition provides access to tools, networks and working groups to facilitate sharing of good practice and rapid capability-building. Members may also join a [National Chapter](https://coara.eu/coalition/national-chapters/) where this has been established.
 
+## Contributor
+Anyone who contributes to or enables a research activity or output; the term may refer more specifically to non-academic research contributors as distinct from academic researchers. Such contributors might include technicians, data scientists and research software engineers, among others. We support an inclusive research culture that acknowledges the collaborative nature of much research and that recognises and rewards all contributions to research.
+
 ## Open research
 
 By this term we mean research and research outputs that are accessible, transparent, reproducible (where relevant) and re-usable. Open research practices include open access publication of research, and sharing other research and research-related outputs as openly as possible using standard licences that facilitate re-use. Relevant outputs may include research data, code, software, digital resources, preregistered study designs, methods and protocols, preprints, peer reviews and hardware designs. Open research may also include citizen science that involves members of the public in the design and execution of research. The principles of open research are affirmed in the UNESCO Recommendation on Open Science adopted by member states (see entry below), and are widely recognised by funders^[For example: UKRI, 'Open research'. <https://www.ukri.org/what-we-do/good-research-resource-hub/open-research/>; European Commission, 'Open Science'. <https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en>.] and research-performing organisations^[Sheppard, N. (2020, since updated), 'Open access is not enough: reproducible science, research and scholarship'. UKCORR. <https://www.ukcorr.org/2020/12/02/open-access-is-not-enough-reproducible-science-research-and-scholarship/>]. Our definition of open research is intended to recognise common understanding without attempting to be definitive; we recognise that institutions will define open research in different ways and will highlight different aspects of the concept to reflect local circumstances and requirements.     
@@ -36,7 +39,7 @@ Those with senior level responsibility for research strategy and performance, su
 
 ## Researcher
 
-Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of academic researchers, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including professionals such as technicians, data scientists and research software engineers, and research students. We support an inclusive research culture that acknowledges the collaborative nature of much research and that recognises and rewards all contributions to research.
+Anyone engaged in undertaking research and producing research outputs. While the focus of this resource is on practices for the assessment of academic researchers, it may also be relevant to others who make contributions to research which may be recognised and rewarded by organisations, including professionals such as technicians, data scientists and research software engineers. 
 
 ## Researcher assessment
 
