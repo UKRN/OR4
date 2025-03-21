@@ -19,7 +19,7 @@ format:
 <a href="resources/case-study-bristol.pdf"
    class="pdf-download" target="_blank"></a>
 ```
-**Marcus Munafò** (Associate Pro Vice Chancellor of Research Culture) and **Jon Gausden** (Senior People Development Partner)
+**Marcus Munafò** (Associate Pro Vice Chancellor for Research Culture) and **Jon Gausden** (Senior People Development Partner)
 
 See Implementation guide section: [Policy and procedure](https://recognition.ukrn-openresearch.ac.uk/guide-05-policy.html)
 
