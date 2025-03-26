@@ -23,9 +23,27 @@ format:
 
 See Implementation guide section: [Strategy and planning](https://recognition.ukrn-openresearch.ac.uk/guide-03-strategy.html)
 
-## About the University of Bristol
+## About the University of Reading
+
+The University of Reading is a broad-based research-intensive university, with over 19,000 students and almost 4,000 members of staff. See the ]University of Reading’s OR4 project profile](https://www.ukrn.org/reading-case-study-profile/).
 
 ## What has changed? 
+
+In the period 2017-21 members of the University Library and a core group of senior research stakeholders began to develop a shared understanding of drivers related to responsible research assessment and open research and started to articulate strategic objectives. During this time the University published statements on [the responsible use of metrics](https://www.reading.ac.uk/research/research-environment/integrity) (2018) and [open research](https://www.reading.ac.uk/research/research-environment/open-research) (2019), established a Committee on Open research and Research Integrity (CORRI, 2019), and sought to develop the conversation about open research within our research community by various means, including conference-style events and Open Research Award competitions. At this stage strategic direction was still maturing, and actions did not necessarily entail significant operational change. There was evidence of continuing uncritical use of metrics such as the Journal Impact Factor and the H-index in promotion and recruitment activities. Open research culture was still in a very early stage of evolution.
+
+From 2021 the University instigated more organised strategic activity under the sponsorship of CORRI to develop open research culture and practice and to align the University to the principles of responsible research assessment. Open Research Action Plans (ORAP) were created and adopted for the periods 2021-23 and 2024-2029, and an Implementation Group was formed to undertake delivery. (The current ORAP is published on the University’s [Open Research](https://www.reading.ac.uk/research/research-environment/open-research) web pages.)
+
+The first ORAP identified implementation of recognition and reward for open research as an objective. To address both this requirement and the need for broader research assessment reform, CORRI established a Research Assessment Working Group (2021). The Working Group led the University to become an early member of the [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA) and has set out a five-year plan of work in its [CoARA Action Plan](https://doi.org/10.5281/zenodo.14501206). It has built stakeholder engagement, drafted a Research Assessment Policy, and laid the foundations for policy adoption and implementation over the period to 2028. Implementing recognition and reward for open research is one of the primary objectives of policy development.
+
+## Why was the change undertaken?
+
+We recognise that the integration of open research into research practice requires long-term cultural and behavioural change. Many researchers do not currently use relevant open research methods, even where they are required by University policy, as in the case of [data sharing](https://www.reading.ac.uk/research-services/research-data-management/about-research-data-management/research-data-management-policy). We believe that researcher assessment policies can be powerful enablers of desirable behaviours and can contribute to changes in practice and culture over the long term. 
+
+We have developed and championed this view in the University with reference to discussions in the sector, including the EU’s [Open Science Career Assessment Matrix](https://op.europa.eu/en/publication-detail/-/publication/47a3a330-c9cb-11e7-8e69-01aa75ed71a1) (OS-CAM, 2017), the LERU white paper, [Open Science and its role in universities: a roadmap for cultural change](https://www.leru.org/publications/open-science-and-its-role-in-universities-a-roadmap-for-cultural-change) (2018), and the [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about) (2021). The last of these states: 'Assessment of scientific contribution and career progression rewarding good open science practices is needed for operationalization of open science'. 
+
+The gathering momentum for research assessment reform, marked by publication of the [Agreement on Reforming Research Assessment](https://coara.eu/agreement/the-agreement-full-text/) and the formation of CoARA in 2022, provided a timely stimulus. The Agreement highlights in its ‘Diversity, inclusiveness and collaboration’ principle the importance of considering open research activities and outputs within the framework of responsible research assessment. 
+
+The REF has also focused institutional attention. Principles of responsible research assessment and recognition of the growing importance of open research informed REF 2021; guidance on the [REF 2029 People, Culture and Environment](https://2029.ref.ac.uk/people-culture-and-environment-pce/) element indicates that institutional support for open research and responsible research assessment will feature more strongly still. This provides a compelling narrative within which stakeholders can understand and support the work being undertaken. 
 
 ## How was the change carried out?
 
