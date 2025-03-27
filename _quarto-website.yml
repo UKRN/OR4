@@ -38,6 +38,8 @@ website:
       - case-studies.qmd
       - text: "University of Bristol"
         href: case-study-bristol.qmd
+      - text: "University of Reading"
+        href: case-study-reading.qmd
     - title: "Implementation guide"
       style: "docked"
       contents:
