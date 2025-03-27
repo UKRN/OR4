@@ -25,7 +25,7 @@ See Implementation guide section: [Strategy and planning](https://recognition.uk
 
 ## About the University of Reading
 
-The University of Reading is a broad-based research-intensive university, with over 19,000 students and almost 4,000 members of staff. See the ]University of Reading’s OR4 project profile](https://www.ukrn.org/reading-case-study-profile/).
+The University of Reading is a broad-based research-intensive university, with over 19,000 students and almost 4,000 members of staff. See the [University of Reading’s OR4 project profile](https://www.ukrn.org/reading-case-study-profile/).
 
 ## What has changed? 
 
