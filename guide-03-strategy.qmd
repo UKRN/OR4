@@ -71,6 +71,10 @@ Here are suggestions for key actions that can be taken to progress from one leve
 
 ## Main areas of activity 
 
+::: {.callout .feature}
+'Open Research Action Plans (ORAP) were created and adopted for the periods 2021-23 and 2024-2029, and an Implementation Group was formed to undertake delivery. [...] The first ORAP identified implementation of recognition and reward for open research as an objective. To address both this requirement and the need for broader research assessment reform, [the Committee on Open Research and Research Integrity] established a Research Assessment Working Group (2021). The Working Group [...] has built stakeholder engagement, drafted a Research Assessment Policy, and laid the foundations for policy adoption and implementation over the period to 2028. One of the key principles of the proposed policy is that "Assessment should recognise openness and reproducibility in research".' [University of Reading](https://recognition.ukrn-openresearch.ac.uk/case-study-reading.html)
+:::
+
 ### Open research action plan 
 
 A strategic action plan to develop open research culture and practice may be created and implemented. The plan is likely to identify objectives, deliverables, timelines, responsibilities and measures of attainment, and will require a commitment of staff time and other resources required for effective implementation. The plan will need to be managed on an ongoing basis, and able to demonstrate and report progress against specified milestones to a relevant committee.^[UKRN provides a 'Checklist for an Open Research Action Plan': <https://www.ukrn.org/primers/>. Examples of plans developed by different institutions include: Keele, <https://tinyurl.com/2wehf9xr>; Reading, <https://tinyurl.com/murfjnf2>; Surrey, <https://tinyurl.com/5n7mtbe2>.] It should include as one of its objectives to promote and support the implementation of recognition and reward for open research. 
@@ -78,10 +82,6 @@ A strategic action plan to develop open research culture and practice may be cre
 Implementation of recognition and reward for open research may not be directly owned by an open research stakeholder group, as it may sit within wider activity related to research(er) assessment. An open research lead should ensure that relevant open research objectives are within the scope of research assessment reform activity and are appropriately defined and represented in this group.  
 
 Recognition and reward for open research will be one primary objective of the open research strategic plan, which will be enabled by more general progress in developing the culture and practice of open research in the institution. As open research is progressively established in the mainstream of institutional research activities, and as open research practice increases, it will become more usual for researchers to evidence the use of open research practices when presenting their work, and for this to be expected and recognised by those involved in the assessment of researchers.  
-
-::: {.callout .feature}
-'Open Research Action Plans (ORAP) were created and adopted for the periods 2021-23 and 2024-2029, and an Implementation Group was formed to undertake delivery. [...] The first ORAP identified implementation of recognition and reward for open research as an objective. To address both this requirement and the need for broader research assessment reform, [the Committee on Open Research and Research Integrity] established a Research Assessment Working Group (2021). The Working Group led the University to become an early member of the Coalition for Advancing Research Assessment (CoARA) and has set out a five-year plan of work in its CoARA Action Plan. It has built stakeholder engagement, drafted a Research Assessment Policy, and laid the foundations for policy adoption and implementation over the period to 2028. Implementing recognition and reward for open research is one of the primary objectives of policy development.' [University of Reading](https://recognition.ukrn-openresearch.ac.uk/case-study-reading.html)
-:::
 
 ### Implementing recognition and reward for open research in research assessment reform 
 
