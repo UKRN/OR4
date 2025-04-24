@@ -40,6 +40,8 @@ website:
         href: case-study-bristol.qmd
       - text: "University of Reading"
         href: case-study-reading.qmd
+      - text: "University of Sunderland"
+        href: case-study-sunderland.qmd
     - title: "Implementation guide"
       style: "docked"
       contents:
