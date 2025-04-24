@@ -26,7 +26,7 @@ See Implementation guide section: [Institutional Committment](https://recognitio
 
 ## About the University of Sunderland
 
-The University of Sunderland is a teaching intensive institution; however, our research activity is growing and embracing the principles of open research.  This aligns with the aim set out in our Strategic Plan 2020-2025 of being society-shaping and producing impactful research. 
+The University of Sunderland is a teaching intensive institution; however, our research activity is growing and embracing the principles of open research.  This aligns with the aim set out in our [Strategic Plan 2020-2025](https://www.sunderland.ac.uk/about/about-the-university/how-university-managed/strategic-plan-supporting-statements/strategic-plan/) of being society-shaping and producing impactful research. 
 
 ## Objective
 
@@ -44,7 +44,7 @@ The funds were used to employ four PhD students to create training materials abo
 
 The four students created a range of materials to help advocate for open research (see resources below).
 
-The materials were released in September 2024 via a Research Network meeting. The response was positive and staff who attended the meeting were keen to engage with the resources. In October 2024 we used International Open Access Week as another opportunity to promote the resources through the University Library Research and Scholarly Communications Blog , linking these clearly to our Open Research Statement. The four blog posts have been viewed regularly since they were posted with c.200 views between October 2024 and March 2025, and an increase in conversations with staff for the Research and Scholarly Communication Team (Libraries and Learner Development). 
+The materials were released in September 2024 via a Research Network meeting. The response was positive and staff who attended the meeting were keen to engage with the resources. In October 2024 we used International Open Access Week as another opportunity to promote the resources through the [University Library Research and Scholarly Communications Blog](https://libraryguides.sunderland.ac.uk/blogs/research-scholarly-communications/Blog), linking these clearly to our Open Research Statement. The four blog posts have been viewed regularly since they were posted with c.200 views between October 2024 and March 2025, and an increase in conversations with staff for the Research and Scholarly Communication Team (Libraries and Learner Development). 
 
 In January 2025, a series of internal releases about the two statements were published with an offer of support and training  delivered by the Research and Scholarly Communication Team (Libraries and Learner Development). Each communication aimed to highlight specific elements of open research practices and link it with responsible metrics. Together they gathered c. 370 views. 
 
@@ -57,9 +57,9 @@ In January 2025, a series of internal releases about the two statements were pub
 - Open Research and open software 
 - Responsible Metrics and assessing your research 
 
-Contributing to our work of awareness raising, we co-organised  with the universities of Durham, Newcatle, Northumbria and Teesside an Open Research Week under the banner of the Universities for North East England. 
+Contributing to our work of awareness raising, we co-organised  with the universities of Durham, Newcatle, Northumbria and Teesside an Open Research Week under the banner of the [Universities for North East England](https://blogs.ncl.ac.uk/opening-research/2025/02/universities-for-north-east-england-open-research-week-24-to-28-march-2025/). 
 
-Further work will follow in April/May 2025 with the release of a survey on open research (inspired by a survey of open research practices led at the University of Bristol) to understand training requirements for our staff. The survey was developed by one of our student interns. 
+Further work will follow shortly with the release of a survey on open research (inspired by a survey of open research practices led at the University of Bristol) to understand training requirements for our staff. The survey was developed by one of our student interns. 
 
 In the context of the current challenging financial situation for the HE sector and the demands placed on members of the University, it is certainly harder to communicate the importance of open research because it is just one of many completing pressures. The counterbalance is the REF and the opportunity to use PCE statements as a lever for research culture change. Activity is starting in this area. In particular, newly-appointed faculty research leads and unit of assessment leads will be key contacts and champions in supporting the adoption of open research practices. 
 
