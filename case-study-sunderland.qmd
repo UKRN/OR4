@@ -14,7 +14,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-# Institutional commitment for open research: building awareness and buy-in to move towards reward and recognition at The University of Sunderland
+# Institutional commitment for open research: building awareness and buy-in to move towards reward and recognition at the University of Sunderland
 
 ```{=html}
 <a href="resources/case-study-sunderland.pdf"
