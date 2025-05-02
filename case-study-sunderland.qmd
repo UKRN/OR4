@@ -16,10 +16,6 @@ format:
 
 # Institutional commitment for open research: building awareness and buy-in to move towards reward and recognition at the University of Sunderland
 
-```{=html}
-<a href="resources/case-study-sunderland.pdf"
-   class="pdf-download" target="_blank"></a>
-```
 **Delphine Doucet** (Research and Scholarly Communications Librarian)
 
 See Implementation guide section: [Institutional Committment](https://recognition.ukrn-openresearch.ac.uk/guide-01-commitment.html)
