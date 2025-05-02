@@ -30,11 +30,11 @@ As with many institutions, these are early days for building an open research cu
 
 ## Why was change undertaken?
 
-The University has been a signatory of DORA since the academic year 2020/21 and has had an Open Access mandate since 2016. However, it was recognised that more was needed to embed open research practices in the University and that a stronger institutional commitment was necessary.
+The University has been a signatory of [DORA](https://sfdora.org/read/) since the academic year 2020/21 and has had an Open Access mandate since 2016. However, it was recognised that more was needed to embed open research practices in the University and that a stronger institutional commitment was necessary.
 
 ## How was the change carried out?
 
-The first step the University undertook as part of its engagement with OR4 was to develop an Open Research Statement and a Responsible Use of Metrics Statement.  The two statements were drafted by the Research and Scholarly Communication Librarian. These drafts were developed by consulting similar statements available via other institutions’ websites such as Glasgow, Edge Hill, Sheffield Hallam, and Leeds universities. These drafts were then reviewed and amended by members of the academic community and staff in the Research and Graduate School team. The two statements were presented at our Research and Innovation Committee in June 2024 and after further amendments were adopted in September 2024.  
+The first step the University undertook as part of its engagement with OR4 was to develop an [Open Research Statement](https://www.sunderland.ac.uk/more/research/research-services/academic-publishing-open-access-compliance/) and a [Responsible Use of Metrics Statement](https://www.sunderland.ac.uk/more/research/research-services/academic-publishing-open-access-compliance/). The two statements were drafted by the Research and Scholarly Communication Librarian. These drafts were developed by consulting similar statements available via other institutions’ websites such as Glasgow, Edge Hill, Sheffield Hallam, and Leeds universities. The drafts were then reviewed and amended by members of the academic community and staff in the Research and Graduate School team. The two statements were presented at our Research and Innovation Committee in June 2024 and after further amendments were adopted in September 2024.  
 
 In addition to these statements of intent, we wanted to support and develop an understanding of open research in the institution. Using some funding from UKRI’s Enhancing Research Culture grant, the Research and Scholarly Communication Team (Libraries and Learner Development) led a small project to create training material to support staff and PGR understanding of open research. Our aim was to raise awareness, develop open research knowledge and skills in our research community, and align these with the University’s Open Research and Responsible Metrics statements. 
 
@@ -66,7 +66,7 @@ In the context of the current challenging financial situation for the HE sector 
 ## Recommendations
 
 - Context is everything - every institution is on a different path to open research and every step it takes to build understanding of open research practices is a step in the right direction
-- Changing reward and recognition practices for open research is not something that can be done in silo, institutions must prioritise its benefits and advocate its importance to ensure institutional understanding and engagement.  However, by focusing on what you can change, it is possible to do interesting things that can ripple out and build momentum over time.
+- Changing reward and recognition practices for open research is not something that can be done in silo, institutions must prioritise its benefits and advocate its importance to ensure institutional understanding and engagement. However, by focusing on what you can change, it is possible to do interesting things that can ripple out and build momentum over time.
 
 ## Resources
 
