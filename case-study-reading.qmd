@@ -15,10 +15,6 @@ format:
 
 # Open research and research assessment reform at the University of Reading
 
-```{=html}
-<a href="resources/case-study-reading.pdf"
-   class="pdf-download" target="_blank"></a>
-```
 **Adrian Bell** (Associate Pro-Vice-Chancellor Research), **Robert Darby** (Research Data Manager), **Wanda** Tejada (Research Excellence Framework and Research Planning Manager)
 
 See Implementation guide section: [Strategy and planning](https://recognition.ukrn-openresearch.ac.uk/guide-03-strategy.html)
