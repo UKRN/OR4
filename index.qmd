@@ -24,7 +24,7 @@ The main components of the toolkit are:
 
 * a [maturity framework and self-assessment tool](maturity-framework.html) that institutions can use to assess their maturity in the implementation of relevant policies and practices, to support internal discussion and planning, and to measure ongoing progress; 
 
-* an [implementation guide](guide-contents.html) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment of institutional maturity, planning and progress. The guide is illustrated with [case studies](case-studies.html) from institutions that have participated in the OR4 project. 
+* an [implementation guide](guide-contents.html) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment of institutional maturity, planning and progress. The guide is illustrated with [case studies](case-studies.html) that exemplify different aspects of institutional practice. 
 
 The toolkit will continue to evolve throughout the OR4 project (until 2027), as guidance is updated and new case studies are published. 
 
