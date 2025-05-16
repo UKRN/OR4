@@ -54,7 +54,7 @@ The workshop could follow a four-stage format:
     c. agree current and target maturity levels for each of the nine areas.
 3.	Breakout groups/discussion 2:
     a. identify priorities and areas for change;
-    b. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections.
+    b. identify and organise progress actions to achieve previously agreed target maturity levels for each of the sections. Workshop participants may find the [Table of progress actions](resources/ukrn-recognition-progressactions.pdf) a useful reference document for this discussion.
 4.	Wrap-up: 
     a. summarise the discussions;
     b. set next steps and allocate actions. 
