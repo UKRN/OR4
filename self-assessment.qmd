@@ -14,6 +14,10 @@ format:
         href: resources/ukrn-selfassessment-slides.pptx
         target: _blank # opens in a new tab
         icon: filetype-pptx # https://icons.getbootstrap.com/
+      - text: Table of progress actions
+        href: resources/ukrn-recognition-progressactions.pdf
+        target: _blank # opens in a new tab
+        icon: file-earmark-pdf
 ---
 
 # Self-assessment tool
