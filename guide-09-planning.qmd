@@ -34,6 +34,8 @@ Are institutional research planning policies and procedures effectively aligned 
 
 - Including open research objectives in research planning policies and processes will encourage researchers to integrate open research practices in their research planning and to plan for the production of open research outputs.  
 
+{{< pagebreak >}}
+
 ## Maturity scale 
 
 | No Action | Emerging | Evolving | Sustained |
