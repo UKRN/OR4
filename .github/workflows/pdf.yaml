@@ -31,10 +31,9 @@ jobs:
         - name: Install packages
           uses: r-lib/actions/setup-r-dependencies@v2
           with:
-            packages: |
-              any::quarto
+            packages: any::quarto
 
-        - name:
+        - name: Run PDF script
            run: Rscript -e 'source("R/pdf.R")'
 
         # - name: Render individual PDFs
