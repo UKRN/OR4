@@ -44,5 +44,5 @@ jobs:
             QUARTO_PROFILE: guidebook
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Rename index->guide
+        - name: Rename index->guide
           run: mv index.md guide/index.md
