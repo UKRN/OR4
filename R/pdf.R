@@ -1,4 +1,4 @@
-# individual guideand case study pages
+# individual guide and case study pages
 pages <- list.files(pattern = "(case-study|guide)-.*\\.qmd") |>
   setdiff("guide-contents.qmd")
 

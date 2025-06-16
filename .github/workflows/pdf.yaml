@@ -12,12 +12,12 @@ jobs:
         - name: Check out repository
           uses: actions/checkout@v4
 
-        - name: Install Google Fonts
-          run: |
-            wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
-            unzip -d roboto/ Roboto.zip
-            mv roboto /usr/share/fonts/
-            fc-cache -fv
+        # - name: Install Google Fonts
+        #   run: |
+        #     wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
+        #     unzip -d roboto/ Roboto.zip
+        #     mv roboto /usr/share/fonts/
+        #     fc-cache -fv
 
         - name: Set up Quarto
           uses: quarto-dev/quarto-actions/setup@v2
@@ -33,10 +33,16 @@ jobs:
             QUARTO_PROFILE: guide
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+        - name: Rename guide->index
+          run: mv guide/index.md index.md
+
         - name: Render Guide PDF
           uses: quarto-dev/quarto-actions/render@v2
           with:
             to: pdf
           env:
-            QUARTO_PROFILE: pages
+            QUARTO_PROFILE: guidebook
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Rename index->guide
+          run: mv index.md guide/index.md
