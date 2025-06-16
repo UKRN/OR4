@@ -34,7 +34,7 @@ jobs:
             packages: any::quarto
 
         - name: Run PDF script
-           run: Rscript -e 'source("R/pdf.R")'
+          run: Rscript -e 'source("R/pdf.R")'
 
         # - name: Render individual PDFs
         #   uses: quarto-dev/quarto-actions/render@v2
