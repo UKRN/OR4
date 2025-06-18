@@ -8,7 +8,7 @@ format:
     toc-title: Page Contents
     other-links:
       - text: This page as PDF
-        href: resources/case-study-bristol.pdf
+        href: resources/case-study-loughborough.pdf
         target: _blank
         icon: file-earmark-pdf
 ---
