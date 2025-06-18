@@ -13,7 +13,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-## Open research and research assessment reform at the University of Reading
+# Open research and research assessment reform at the University of Reading
 
 **Adrian Bell** (Associate Pro-Vice-Chancellor Research), **Robert Darby** (Research Data Manager), **Wanda** Tejada (Research Excellence Framework and Research Planning Manager)
 
