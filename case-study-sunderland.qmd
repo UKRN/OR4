@@ -14,7 +14,7 @@ format:
         icon: file-earmark-pdf
 ---
 
-## Institutional commitment for open research: building awareness and buy-in to move towards reward and recognition at the University of Sunderland
+# Institutional commitment for open research: building awareness and buy-in to move towards reward and recognition at the University of Sunderland
 
 **Delphine Doucet** (Research and Scholarly Communications Librarian)
 
