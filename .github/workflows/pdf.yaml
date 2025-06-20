@@ -60,11 +60,6 @@ jobs:
         # - name: Rename index->guide
         #   run: mv index.md guide/index.md
 
-        - name: Move PDFs to /resources
-          run: |
-            mkdir -p resources
-            mv *.pdf resources/ || true  # move if any PDFs exist
-
         - name: Commit and push changes
           run: |
             git config user.name "github-actions[bot]"
