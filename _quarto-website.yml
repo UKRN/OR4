@@ -44,6 +44,8 @@ website:
         href: case-study-reading.qmd
       - text: "University of Sunderland"
         href: case-study-sunderland.qmd
+      - text: "How have Institutions used the Maturity Framework?"
+        href: use-cases.qmd
     - title: "Implementation guide"
       style: "docked"
       contents:
