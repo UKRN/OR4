@@ -15,7 +15,7 @@ jobs:
         - name: Install Google Fonts
           run: |
             wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
-            unzip -d roboto/ Roboto.zip
+            unzip -d roboto/ Roboto
             mv roboto /usr/share/fonts/
             fc-cache -fv
 
