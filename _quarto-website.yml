@@ -51,7 +51,6 @@ website:
       contents:
       - text: "<span class='pdf-full-download'>Download guide</span>"
         href: guide/or4-guide.pdf
-        target: _blank
       - guide-contents.qmd
       - guide-summary.qmd
       - guide-intro.qmd
