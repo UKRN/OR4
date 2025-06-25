@@ -90,10 +90,12 @@ Early co-design helped build trust and ensured the framework was relevant across
 
 [Evidencing the quality and visibility of your research](https://www.lboro.ac.uk/research/support/publishing/responsible-research-assessment/evidence-informed-output-narratives/) – Explains how to prepare a narrative statement for internal research assessment.
 
-[Template for weighted menu of evidence](https://recognition.ukrn-openresearch.ac.uk/resources/case-study-loughborough.pdf target="_blank") – Lists and scores types of evidence for others to use 
+[Template for weighted menu of evidence](https://recognition.ukrn-openresearch.ac.uk/resources/EON-weightedmenutemplate.xlsx) (xlsx) – Lists and scores types of evidence for others to use 
 
 [SCOPE Framework for Research Evaluation](https://inorms.net/scope-framework-for-research-evaluation/) – Summary of the INORMS framework used to guide development.
 
-Pilot Feedback Survey – Used to gather participant views on the draft guidance and evidence menu.
+[Pilot Feedback Survey](https://forms.office.com/Pages/DesignPageV2.aspx?origin=ShareFormPage&subpage=design&m2=1&id=xDv6T_zswEiQgPXkP_kOX2AR4He8fG5KniSSJC9eBTFUOU84RVIyVUFGMzlTMVhNVzU1WUkyTkxOVC4u) (Forms)– Used to gather participant views on the draft guidance and evidence menu.
+
+[Pilot Feedback Survey](https://recognition.ukrn-openresearch.ac.uk/resources/EON-feedbackform.pdf){:target="_blank"} (PDF)
 
 © Loughborough University. Licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en).
