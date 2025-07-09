@@ -15,6 +15,12 @@ The University of Suffolk created a task and finish group to complete the self-a
 :::
 
 ::: {.callout-note .feature collapse="true"}
+## Nottingham Trent University - A Small-Scale Application
+
+An assessment team of three people completed the self-assessment independently to one another and then met to agree a position on each of the institutional commitments. Realistic targets were agreed for each commitment and actions agreed to get the institution to where it wanted to be. The team also used the activity to collect Open Research actions from the various related action plans across the University into one plan so that no actions were missed or duplicated.
+:::
+
+::: {.callout-note .feature collapse="true"}
 ## University of Bristol - Agreeing on Priorities
 
 The University of Bristol’s Research Culture Committee held a dedicated workshop to conduct the self-assessment. Ahead of the workshop, committee members received the self-assessment tool from the Associate PVC and the REF People, Culture & Environment Manager. During the workshop, Mentimeter was used to collect input in real time, helping to visualize areas of agreement and divergence. Sections were then ranked by significance based on participant responses, assisting attendees to agree on areas of focus.
