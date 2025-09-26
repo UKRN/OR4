@@ -21,7 +21,7 @@ See Implementation guide section: [Policy and procedure](https://recognition.ukr
 
 ## About the University of Bristol
 
-The University of Bristol is a research-intensive University, with over 29,000 students and employing approximately 9,000 staff. The University has a reputation for academic excellence and delivering world-leading research. See the [University of Bristol's OR4 project profile](https://www.ukrn.org/bristol-case-study-profile/).
+The University of Bristol is a research-intensive University, with over 29,000 students and employing approximately 9,000 staff. The University has a reputation for academic excellence and delivering world-leading research. 
 
 ## What has changed? 
 
@@ -39,8 +39,7 @@ As a founding member of UKRN, and lead organisation on the UKRN Open Research Pr
 
 The aim of the Academic Promotions Framework programme was to create an academic career path that is challenging, rewarding and inclusive, and which enables all academic staff to have the opportunity to reach their full potential.
 
-In order to achieve this, the University needed to recognise and reward the full range of contributions and achievements that are valued by the institution in ways that are transparent, accessible and sustainable. 
-At the same time, our role in UKRN and our long history of sectoral leadership on open research practices meant that the Academic Promotion Framework programme presented an opportunity to embed incentives to promote uptake of these practices.
+In order to achieve this, the University needed to recognise and reward the full range of contributions and achievements that are valued by the institution in ways that are transparent, accessible and sustainable. At the same time, our role in UKRN and our long history of sectoral leadership on open research practices meant that the Academic Promotion Framework programme presented an opportunity to embed incentives to promote uptake of these practices.
 
 ## How was the change carried out?
 

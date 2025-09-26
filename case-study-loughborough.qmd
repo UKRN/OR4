@@ -1,0 +1,101 @@
+---
+page-navigation: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+    other-links:
+      - text: This page as PDF
+        href: resources/case-study-loughborough.pdf
+        target: _blank
+        icon: file-earmark-pdf
+---
+
+# Evidence-informed Output Narratives
+
+**Dr Stuart RF King** (Research Quality and Culture Manager) and **Dr Elizabeth Gadd** (Head of Research Culture and Assessment)
+ 
+See Implementation guide sections: [Policy and procedure](https://recognition.ukrn-openresearch.ac.uk/guide-05-policy.html), [Support, systems and processes](https://recognition.ukrn-openresearch.ac.uk/guide-06-support.html), [Guidance and training](https://recognition.ukrn-openresearch.ac.uk/guide-07-training.html)
+
+## About Loughborough University
+
+Loughborough University is a UK research-intensive institution with around 20,000 students and nearly 4,000 staff, including over 1,000 in research-active or research-enabling roles. It has a strong tradition in engineering and sport, alongside recognised strengths in science, business, social sciences, design, and the creative arts. With nine Schools across two campuses, Loughborough fosters a collegial community and prioritises responsible research. 
+
+## What has changed? 
+
+We have introduced new internal guidance for research assessment at Loughborough called Evidence-Informed Output Narratives (EONs). Initially applied to academic promotions, there are plans to extend other research-active and research-enabling job families and assessment activities, such as appraisals.
+When preparing narrative statements as part of internal assessments, researchers can now draw on a weighted menu of evidence types, organised into three categories:
+
+- **Evidence of Contribution** – to clarify the individual's role where outputs have multiple authors or contributors;
+- **Evidence of Quality or Peer Validation** – such as peer-review comments, external evaluations, or prizes;
+-	**Evidence of Reach or Visibility** – including citation counts, download statistics, audience numbers, and open-access links.
+
+Openness is explicitly emphasised within the Reach or Visibility category: open access availability, data sharing, and code repositories are all included as valid forms of evidence.
+
+Each School has scored the menu of evidence to reflect its own disciplinary practices, assigning weightings to indicate how each type of evidence is valued. Importantly, all Schools have classified open access to research outputs as 'important' or 'very important', reinforcing the University's shared commitment to making research outputs discoverable, reusable, and accessible to diverse audiences.
+
+## Why was the change undertaken?
+
+As a signatory of both DORA and CoARA, Loughborough is committed to the responsible use of metrics across research and innovation. However, we recognised that traditional metrics were insufficient for capturing the full diversity of scholarly contributions—particularly in the Arts, Humanities, and some Social Sciences, where non-textual or practice-based outputs are more common. Early feedback from colleagues highlighted two persistent challenges:
+
+- Promotion panel assessors were often required to assess applications outside their area of expertise, making it difficult for them to evaluate outputs fairly across disciplines.
+- Researchers struggled to evidence the quality, visibility and impact of ‘non-textual’ or ‘practise-based’ outputs within existing assessment frameworks.
+
+We began developing the Evidence-Informed Output Narratives (EONs) format in response. In parallel, broader changes to the promotion process were undertaken, and candidates started to be asked to provide narrative statements that their research profile was 'clearly advancing' using 'a range of evidence'. However, there was still no clear guidance on what forms of evidence could be included or how they would be assessed.
+Evidence-informed Output Narratives evolved to fill this gap. The guidance offers a structured yet flexible framework to support disciplinary diversity and enable fairer, more informed decision-making.
+
+## How was the change carried out?
+
+The EONs approach was initially led on by Loughborough’s Head of Research Culture and Assessment, and later led by the Research Quality and Culture Manager. It was co-created with the research community to ensure disciplinary credibility and relevance, including significant input from Professor Stephen Rice and Professor Victoria Haines.
+
+Work began in 2021, using the [SCOPE Framework for Research Evaluation](https://inorms.net/scope-framework-for-research-evaluation/) (developed by INORMS) to shape the process. Following this five-stage model’s principle of 'evaluating with the evaluated', we worked closely with colleagues from the Schools of Social Sciences and Humanities, and Design and Creative Arts, as well as the Associate Deans for Research and Innovation across all nine Schools. Their input informed the structure of the guidance and the weighted menu of evidence.
+
+A small pilot was carried out in Autumn 2024 with ten recently promoted academics, identified through an open call from HR and with support from Associate Deans to ensure disciplinary breadth. Participants drafted an Evidence-Informed Output Narrative (EON) for one of their research outputs and completed a short survey. The pilot also enabled us to assess the potential impact of the approach and ensure that the guidance was fair, equitable and did not inadvertently disadvantage any group.
+
+Feedback was positive - especially from those working with non-traditional outputs, who found the guidance clearer and more supportive than previous approaches. The weighted evidence menu helped identify appropriate indicators. Researchers with conventional outputs also found the format, on average, at least as effective as the current process. Suggestions from participants led to the addition of clearer instructions and examples.
+
+We also consulted a former Dean with promotion panel experience, who found the EONs suitable for review without needing major changes to the process or timelines.
+
+Following the pilot, the guidance was refined and officially incorporated into the 2025 promotion round as optional support. We are taking a phased approach, continuing to monitor use and gather feedback. Future use in appraisals is being explored.
+
+The guidance is linked from HR's academic promotions pages, and Associate Deans have been briefed. With the move to an annual promotions cycle, further communications are planned to support both candidates and assessors ahead of the next round.
+
+## Challenges and lessons learnt
+
+Coordinating with other changes to the promotions process was challenging. Working to integrate EONs into the promotion process was more complex than expected, likely due to the perceived high-stakes nature of changes to promotions and the additional scrutiny involved.
+
+Securing participants for the pilot was difficult; while we would have liked a larger group, we are grateful to those who took part and provided valuable feedback. Achieving adequate representation across disciplines required persistent follow-up.
+
+Some pilot participants found the early guidance too abstract and requested clearer, discipline-specific examples. To address this, we incorporated practical examples such as EONs for a creative arts portfolio and a journal article into the guidance.
+
+We maintained close communication with Associate Deans for Research and Innovation, using their local knowledge to support engagement. More regular communication with services like HR was needed to keep aligned and respond to shifting priorities.
+
+Early co-design helped build trust and ensured the framework was relevant across disciplines. Piloting with near-real promotion cases provided reassurance and revealed practical, addressable issues that might otherwise have been overlooked.
+
+## Recommendations
+
+- **Engage broadly and early**: Involve academic colleagues from all disciplines—especially those with non-textual or practice-based outputs—through co-design workshops or focus groups to ensure the approach meets diverse needs.
+
+- **Use the SCOPE Framework**: Apply the SCOPE framework when developing new assessment approaches to help identify values, explore options and mitigate potential unintended consequences.
+
+- **Pilot the approach**: Test new frameworks with a small, representative cohort before full implementation, gathering feedback from both applicants and reviewers.
+
+- **Provide concrete examples**: Offer sample narratives for each discipline to illustrate how different evidence types can be selected and contextualised.
+
+- **Communicate throughout**: Maintain regular dialogue with Departments and Schools, HR, and senior leadership to secure buy-in and keep the process on track.
+
+## Resources
+
+[Evidencing the quality and visibility of your research](https://www.lboro.ac.uk/research/support/publishing/responsible-research-assessment/evidence-informed-output-narratives/) – Explains how to prepare a narrative statement for internal research assessment
+
+[Template for weighted menu of evidence](https://recognition.ukrn-openresearch.ac.uk/resources/EON-weightedmenutemplate.xlsx) (xlsx) – Lists and scores types of evidence for others to use 
+
+[SCOPE Framework for Research Evaluation](https://inorms.net/scope-framework-for-research-evaluation/) – Summary of the INORMS framework used to guide development
+
+[Pilot Feedback Survey](https://forms.office.com/Pages/DesignPageV2.aspx?origin=ShareFormPage&subpage=design&m2=1&id=xDv6T_zswEiQgPXkP_kOX2AR4He8fG5KniSSJC9eBTFUOU84RVIyVUFGMzlTMVhNVzU1WUkyTkxOVC4u) (Forms)– Used to gather participant views on the draft guidance and evidence menu
+
+[Pilot Feedback Survey](https://recognition.ukrn-openresearch.ac.uk/resources/EON-feedbackform.pdf) (PDF)
+
+© Loughborough University. Licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en).

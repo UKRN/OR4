@@ -36,6 +36,8 @@ website:
       style: "docked"
       contents:
       - case-studies.qmd
+      - text: "Loughborough University"
+        href: case-study-loughborough.qmd
       - text: "University of Bristol"
         href: case-study-bristol.qmd
       - text: "University of Reading"
@@ -64,6 +66,8 @@ website:
       contents:
       - maturity-framework.qmd
       - self-assessment.qmd
+      - text: "How have institutions used the maturity framework?"
+        href: use-cases.qmd
 
   page-footer:
     background: primary

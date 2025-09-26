@@ -12,12 +12,13 @@ jobs:
         - name: Check out repository
           uses: actions/checkout@v4
 
-        # - name: Install Google Fonts
-        #   run: |
-        #     wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
-        #     unzip -d roboto/ Roboto.zip
-        #     mv roboto /usr/share/fonts/
-        #     fc-cache -fv
+        - name: Install Google Fonts
+          run: |
+            #Does not work: wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
+            #Works but not needed: curl -L -o Roboto.zip "https://fonts.google.com/download?family=Roboto"
+            unzip Roboto -d roboto
+            mv roboto /usr/share/fonts/
+            fc-cache -fv
 
         - name: Set up Quarto
           uses: quarto-dev/quarto-actions/setup@v2
@@ -59,3 +60,12 @@ jobs:
         #
         # - name: Rename index->guide
         #   run: mv index.md guide/index.md
+
+        - name: Commit and push changes
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add resources/*.pdf
+            git add guide/*.pdf
+            git commit -m "Update rendered PDFs" || echo "No changes to commit"
+            git push origin master

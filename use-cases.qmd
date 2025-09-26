@@ -1,0 +1,43 @@
+## How have institutions used the maturity framework?
+
+The maturity framework and self-assessment tool are designed to be flexible across universities. Below are some examples of how institutions have adapted the toolkit to their institutional context, and to the resource level they have available for the exercise.
+
+::: {.callout-note .feature collapse="true"}
+## University of Greenwich - The Toolkit as a Survey
+
+A briefing email and link to the toolkit was sent to a diverse selection of colleagues representing the people team, research support staff, all faculties, and senior research leaders. 10 completed a brief version of the maturity framework in the form of a survey. The group then met online to review a visualisation of the results, agreeing that a vision statement and action plan, subsumed under a pre-existing research board, could start to explore the implications for key domains of activity and policy (e.g., data sharing, rights retention, monitoring, and recognition). See the survey Greenwich created <a href="https://oercommons.org/courseware/lesson/132124?__hub_id=179">here</a>.
+:::
+
+::: {.callout-note .feature collapse="true"}
+## University of Suffolk - Task-and-Finish Group
+
+The University of Suffolk created a task and finish group to complete the self-assessment. The group consisted of a mix of professional and school staff, including three early career researchers. They completed the self-assessment in person, during three several hour meetings. Most of the group stayed on as champions for the resulting projects, but it was made clear that the initial commitment was only to the self-assessment task.
+:::
+
+::: {.callout-note .feature collapse="true"}
+## Nottingham Trent University - A Small-Scale Application
+
+An assessment team of three people completed the self-assessment independently to one another and then met to agree a position on each of the institutional commitments. Realistic targets were agreed for each commitment and actions agreed to get the institution to where it wanted to be. The team also used the activity to collect Open Research actions from the various related action plans across the University into one plan so that no actions were missed or duplicated.
+:::
+
+::: {.callout-note .feature collapse="true"}
+## University of Bristol - Agreeing on Priorities
+
+The University of Bristol’s Research Culture Committee held a dedicated workshop to conduct the self-assessment. Ahead of the workshop, committee members received the self-assessment tool from the Associate PVC and the REF People, Culture & Environment Manager. During the workshop, Mentimeter was used to collect input in real time, helping to visualize areas of agreement and divergence. Sections were then ranked by significance based on participant responses, assisting attendees to agree on areas of focus.
+:::
+
+::: {.callout-note .feature collapse="true"}
+## University of Derby - Survey and Workshop
+
+The self-assessment was led by the Open Research Working Group—a sub-group of the University Innovation and Research Committee. This is important due to the group’s connection to the university’s research deliberative structure, which allows it to influence institutional policy and practice.
+
+Instead of relying solely on workshop discussion, the group began with a pre-workshop survey. They targeted a broad cross-section of the university community, including senior leaders, academic colleagues across disciplines and career stages, as well as staff from Innovation & Research and the Library. The survey responses served as a foundation for more in-depth conversations. During the workshop, participants were assigned to one of three breakout groups—Strategy and Leadership, Implementation, and Managing Progress—to ensure focused discussion. Refreshments were provided to encourage in-person attendance.
+
+Notes from each breakout group were compiled and circulated shortly after the session, with attendees invited to contribute any additional comments. This rapid feedback loop ensured that all voices were captured and that the outputs reflected a shared understanding.
+:::
+
+::: {.callout-note .feature collapse="true"}
+## University of Sunderland - Bringing Collegues up to Speed
+
+The self-assessment was conducted with a small group of stakeholders, with the intention of helping the new PVC Research understand the institutional context.
+:::
