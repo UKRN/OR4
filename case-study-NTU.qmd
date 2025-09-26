@@ -1,0 +1,67 @@
+---
+page-navigation: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+    other-links:
+      - text: This page as PDF
+        href: resources/case-study-NTU.pdf
+        target: _blank
+        icon: file-earmark-pdf
+---
+
+# Nottingham Trent University: Developing a proportionate response to an evolving open research culture 
+
+*“We were reasonably early in our journey. And that's okay . . . you’ve got to start from somewhere. And that forces you to be realistic about what can be achieved.”*
+
+*“Just to emphasise that point around proportionality and speed of movement - you don't have to go from no action to sustained in record time. And indeed, you might never get to sustained, depending on the size, mission focus of your institution and available resources.”*
+
+Nottingham Trent University (NTU) is a post 92 institution, sometimes described as ‘research inclusive’. This case study was written by the OR4 team, based on a talk given by NTU to the Community of Practice. 
+
+## Objective
+
+The objective of NTU’s engagement with OR4 was to support its research aspirations.  It also offered the possibility of contributing to a sector wide initiative that would help other institutions to develop in this space. 
+
+## Self-assessment against the maturity framework 
+
+An assessment team of three people completed the self-assessment independently to one another and then met to agree a position on each of the institutional commitments. Realistic targets were agreed for each commitment and actions agreed to get the institution to where it wanted to be. 
+
+At the time that the self-assessment was carried out, around 30% of our 1500 academic staff had significant responsibility for research, so proportionality was central to NTU’s approach.  This is both in terms of how many people were asked to complete the self-assessment tool and also in managing expectations around making progress in each area.   
+
+Features of the approach: 
+
+- Three people completed the self-assessment independently, and each of those people had the relevant institutional knowledge to complete it accurately.   
+
+- Its focus was on institutional understanding and development – not as a PR exercise – which emphasised honesty as the only way to establish a useful baseline of activity. 
+
+- After completing the self-assessment, the assessors met in person to discuss where they scored the institution on the nine indicators.   
+
+## Outcome
+
+Overall, the University assessed itself to be in the evolving stage for two indicators, the emerging quadrant for four and no action for three.  Based on that, they created an action plan which mapped onto the maturity framework. 
+
+They set themselves an objective to move from the current position to having three indicators in the emerging stage and six in the evolving.  This seemed a proportionate challenge.  
+
+Recognising that the action plan does not exist in isolation, NTU’s existing priorities and involvement in other initiatives like the Coalition for Advancing Research Assessment meant that they were already making progress in several areas. NTU joined CoARA in 2023, and is in the process of   developing an action plan. 
+
+Actions coming out of the assessment included: 
+
+- Training for assessment panels to include reward and recognition for open research practices. 
+- Incorporating open research in the criteria for relevant researcher assessment processes. 
+
+- Producing a focused objective relating to open research for the lecturer/senior lecturer objective bank.  
+
+This last action was relatively straightforward, and entailed a discussion with HR accompanied by the rationale for the proposal.  As open research is particularly high on the institutional change agenda, this was quickly adopted.  
+
+The team also used the activity to collect Open Research actions from the various related action plans across the University into one plan so that no actions were missed or duplicated.  
+
+## Learning points
+
+- It is important to adopt an approach that is proportionate to the starting place and aspirations, where context is paramount. 
+
+- Senior support for Open Research is essential when it comes to rapid adoption of recommended actions. 
+
+- It made sense to situate the maturity assessment within the wider context of other initiatives, and collate actions into a single plan. 
