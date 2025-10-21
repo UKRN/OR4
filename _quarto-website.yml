@@ -44,6 +44,8 @@ website:
         href: case-study-reading.qmd
       - text: "University of Sunderland"
         href: case-study-sunderland.qmd
+      - text: "Nottingham Trent University"
+        href: case-study-NTU.qmd
     - title: "Implementation guide"
       style: "docked"
       contents:
