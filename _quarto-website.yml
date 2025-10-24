@@ -38,6 +38,8 @@ website:
       - case-studies.qmd
       - text: "Loughborough University"
         href: case-study-loughborough.qmd
+         text: "University of Suffolk"
+        href: case-study-suffolk.qmd
       - text: "University of Bristol"
         href: case-study-bristol.qmd
       - text: "University of Reading"
