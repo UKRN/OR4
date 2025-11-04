@@ -72,6 +72,8 @@ website:
       - self-assessment.qmd
       - text: "How have institutions used the maturity framework?"
         href: use-cases.qmd
+      - text: "Suggested action table"
+        href: suggested-action-table.qmd
 
   page-footer:
     background: primary
