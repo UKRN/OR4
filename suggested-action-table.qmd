@@ -1,6 +1,6 @@
 
 ---
-title: Suggested Action Table 
+title:
 format:
   html:
     toc: true
@@ -13,6 +13,7 @@ format:
         target: _blank # opens in a new tab
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
+#Suggested Action Table
 
 This table summarises all the actions we are aware of our Community of Practice members have taken in each of the domains. Our thanks to everyone who has contributed.
 
