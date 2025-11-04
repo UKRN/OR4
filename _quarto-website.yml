@@ -70,6 +70,7 @@ website:
       contents:
       - maturity-framework.qmd
       - self-assessment.qmd
+      - suggested-action-table.qmd
       - text: "How have institutions used the maturity framework?"
         href: use-cases.qmd
       - text: "Suggested action table"
