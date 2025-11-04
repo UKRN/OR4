@@ -14,7 +14,7 @@ format:
         icon: file-earmark-pdf # https://icons.getbootstrap.com/
 ---
 
-This table summarises all the actions our Community of Practice members have taken in each of the domains. Our thanks to everyone who has contributed.
+This table summarises all the actions we are aware of our Community of Practice members have taken in each of the domains. Our thanks to everyone who has contributed.
 
 If you would like to suggest an action, or contribute to an existing action, please contact Evangeline at **e.gowie@reading.ac.uk**.
 
