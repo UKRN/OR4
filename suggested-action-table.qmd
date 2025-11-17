@@ -25,62 +25,75 @@ If you would like to suggest an action, or contribute to an existing action, ple
 <table>
   <thead>
     <tr>
-     <th colspan="3" style="border-right: 1.5px solid black;"> (1) Does your institution make public commitments to the principles and aims of open research and responsible research assessment?</th>
-    <th colspan="2" valign="top"> (2) Are these commitments supported by action?</th>
+      <th colspan="3" style="border-right: 1.5px solid black;"> (1) Does your institution make public commitments to the principles and aims of open research and responsible research assessment?</th>
+      <th colspan="2" valign="top"> (2) Are these commitments supported by action?</th>
     </tr>
   </thead>
   <tbody>
-     <tr>
+    <tr>
       <td valign="top" style="background-color: #F1B9D8;">Produce an open Research Statement:</td>
       <td valign="top" style="background-color: #B0D8D4;">Produce a statement clarifying expectations around research assessment:</td>
-      <td valign="top" style="background-color: #F1B9D8; border-right: 1.5px solid black";>
-      Sign the <a href="https://inorms.net/more-than-our-rank/"  target="_blank" style="color: inherit; text-decoration: underline;">More Than Our Rank </a> initiative:</td>
+      <td valign="top" style="background-color: #F1B9D8; border-right: 1.5px solid black;">
+        Sign the <a href="https://inorms.net/more-than-our-rank/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">More Than Our Rank</a> initiative:
+      </td>
       <td valign="top" style="background-color: #B0D8D4;">Appoint a working group on 
-       <a href="https://sfdora.org/"  target="_blank" style="color: inherit; text-decoration: underline;">DoRA</a> compliance:</td>
+        <a href="https://sfdora.org/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">DoRA</a> compliance:
+      </td>
       <td valign="top" style="background-color: #F1B9D8;">
-      Sign and develop an action plan based on
-      <a href="https://coara.eu/agreement/action-plan/"  target="_blank" style="color: inherit; text-decoration: underline;">CoARA</a>:
+        Sign and develop an action plan based on
+        <a href="https://coara.eu/agreement/action-plan/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">CoARA</a>:
+      </td>
     </tr>
-       <td valign="top">
-      <div style="font-size: 0.75em;">
-      <a href="https://www.reading.ac.uk/research/-/media/discover/files/pdfs/a0cd20a0f1864bf5bfa523be98e09b9f.pdf">Reading</a><br>
-<a href="https://www.surrey.ac.uk/sites/default/files/2022-03/open-research-university-of-surrey-position-statement.pdf">Surrey</a><br>
-Leeds<br>
-<a href="https://ora.ox.ac.uk/objects/uuid:f381d99a-e117-42b8-a134-4cdbfb82a3f9/files/rsf268620n">Oxford</a><br>
-<a href="https://www.sussex.ac.uk/library/open-research/open-sussex/statement">Sussex</a><br>
-<a href="https://www.wlv.ac.uk/media/departments/research/documents/Open-Research-Statement-2023.pdf">Wolverhampton</a><br>
-<a href="https://www.openresearch.cam.ac.uk/cambridge/policies-frameworks/open-research-position-statement">Cambridge</a><br>
-<a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Open-Research-Statement.pdf">Sunderland</a></td>
-<td>  
-<div style="font-size: 0.75em;">
-Leeds<br>
-<a href="https://www.bristol.ac.uk/research/environment/responsible-research-assessment/">Bristol</a><br>
-<a href="https://www.cardiff.ac.uk/documents/2522792-cardiff-university-statement-on-responsible-research-assessment">Cardiff</a><br>
-<a href="https://www.keele.ac.uk/research/raise/responsibleuseofresearchmetrics/#keele-university-policy-statement-on-responsible-use-of-research-metrics">Keele</a><br>
-<a href="https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/responsible_research_metrics_statement.pdf">Edingburgh</a><br>
-<a href="https://www.brookes.ac.uk/getmedia/c496694b-b2af-468f-b18e-327d9c22e62b/responsible-metrics-position-statement-revised-4th-may-2022.pdf">Oxford Brookes</a><br>
-<a href="https://www.surrey.ac.uk/library/open-research/research-metrics">Surrey</a><br>
-<a href="https://www.reading.ac.uk/research/-/media/discover/files/pdfs/8a75584ea8e84c63a0d4c21a34958811.pdf">Reading</a><br>
-<a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Responsible-metrics-statement.pdf">Sunderland</a><br>
-<a href="https://www.durham.ac.uk/research/ethics--governance/responsible-use-of-metrics-statement/#:~:text=We%20recognise%20the%20potentially%20important,publish%20in%20high%20quality%20journals.">Durham</a><br>
-<a href="https://www.bath.ac.uk/legal-information/principles-of-research-assessment-and-management/">Bath</a><br>
-<a href="https://www.mmu.ac.uk/research/research-integrity/responsible-metrics">Manchester</a><br>
-<a href="https://warwick.ac.uk/services/library/research-support/responsible-metrics/evaluation-of-research">Warwick</a><br>
-<a href="https://www.mmu.ac.uk/research/research-integrity/responsible-metrics">Manchester Metropolitan</a><br>
-<a href="https://www.kcl.ac.uk/assets/research/pdf/kings-commitment-to-fair-and-responsible-assessment.pdf">KCL</a><br>
-<a href="https://www.ncl.ac.uk/research/research-governance/research-metrics/">Newcastle</a><br>
-<a href="https://www.research-strategy.admin.cam.ac.uk/research-policy/DORA/guidance-responsible-use-metrics-research-assessment">Cambridge</a><br>
-<td valign="top" style="border-right: 1.5px solid black;">
-<div style="font-size: 0.75em;">
-<a href="https://www.lboro.ac.uk/about/more-than-rank/">Loughborough</a><br>
-<a href="https://www.derby.ac.uk/research/how-research-is-managed/more-than-our-rank/">Derby</a><br>
-<a href="https://www.uea.ac.uk/about/university-information/more-than-our-rank">East Anglia</a><br>
-    <td valign="top"> <div style="font-size: 0.75em;"></td>
-    <td valign="top"> <div style="font-size: 0.75em;">
-     <a href="https://zenodo.org/records/14501207">Reading</a><br>
-     <a href="https://zenodo.org/records/13142971">Warwick</a><br>
-     <a href="https://zenodo.org/records/12734220">Swansea</a><br>
-    <a href="https://zenodo.org/records/10911057">Lancashire</a><br>
+    <tr>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          <a href="https://www.reading.ac.uk/research/-/media/discover/files/pdfs/a0cd20a0f1864bf5bfa523be98e09b9f.pdf">Reading</a><br>
+          <a href="https://www.surrey.ac.uk/sites/default/files/2022-03/open-research-university-of-surrey-position-statement.pdf">Surrey</a><br>
+          Leeds<br>
+          <a href="https://ora.ox.ac.uk/objects/uuid:f381d99a-e117-42b8-a134-4cdbfb82a3f9/files/rsf268620n">Oxford</a><br>
+          <a href="https://www.sussex.ac.uk/library/open-research/open-sussex/statement">Sussex</a><br>
+          <a href="https://www.wlv.ac.uk/media/departments/research/documents/Open-Research-Statement-2023.pdf">Wolverhampton</a><br>
+          <a href="https://www.openresearch.cam.ac.uk/cambridge/policies-frameworks/open-research-position-statement">Cambridge</a><br>
+          <a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Open-Research-Statement.pdf">Sunderland</a>
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          Leeds<br>
+          <a href="https://www.bristol.ac.uk/research/environment/responsible-research-assessment/">Bristol</a><br>
+          <a href="https://www.cardiff.ac.uk/documents/2522792-cardiff-university-statement-on-responsible-research-assessment">Cardiff</a><br>
+          <a href="https://www.keele.ac.uk/research/raise/responsibleuseofresearchmetrics/#keele-university-policy-statement-on-responsible-use-of-research-metrics">Keele</a><br>
+          <a href="https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/responsible_research_metrics_statement.pdf">Edinburgh</a><br>
+          <a href="https://www.brookes.ac.uk/getmedia/c496694b-b2af-468f-b18e-327d9c22e62b/responsible-metrics-position-statement-revised-4th-may-2022.pdf">Oxford Brookes</a><br>
+          <a href="https://www.surrey.ac.uk/library/open-research/research-metrics">Surrey</a><br>
+          <a href="https://www.reading.ac.uk/research/-/media/discover/files/pdfs/8a75584ea8e84c63a0d4c21a34958811.pdf">Reading</a><br>
+          <a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Responsible-metrics-statement.pdf">Sunderland</a><br>
+          <a href="https://www.durham.ac.uk/research/ethics--governance/responsible-use-of-metrics-statement/#:~:text=We%20recognise%20the%20potentially%20important,publish%20in%20high%20quality%20journals.">Durham</a><br>
+          <a href="https://www.bath.ac.uk/legal-information/principles-of-research-assessment-and-management/">Bath</a><br>
+          <a href="https://www.mmu.ac.uk/research/research-integrity/responsible-metrics">Manchester</a><br>
+          <a href="https://warwick.ac.uk/services/library/research-support/responsible-metrics/evaluation-of-research">Warwick</a><br>
+          <a href="https://www.mmu.ac.uk/research/research-integrity/responsible-metrics">Manchester Metropolitan</a><br>
+          <a href="https://www.kcl.ac.uk/assets/research/pdf/kings-commitment-to-fair-and-responsible-assessment.pdf">KCL</a><br>
+          <a href="https://www.ncl.ac.uk/research/research-governance/research-metrics/">Newcastle</a><br>
+          <a href="https://www.research-strategy.admin.cam.ac.uk/research-policy/DORA/guidance-responsible-use-metrics-research-assessment">Cambridge</a><br>
+        </div>
+      </td>
+      <td valign="top" style="border-right: 1.5px solid black;">
+        <div style="font-size: 0.75em;">
+          <a href="https://www.lboro.ac.uk/about/more-than-rank/">Loughborough</a><br>
+          <a href="https://www.derby.ac.uk/research/how-research-is-managed/more-than-our-rank/">Derby</a><br>
+          <a href="https://www.uea.ac.uk/about/university-information/more-than-our-rank">East Anglia</a><br>
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          <a href="https://zenodo.org/records/14501207">Reading</a><br>
+          <a href="https://zenodo.org/records/13142971">Warwick</a><br>
+          <a href="https://zenodo.org/records/12734220">Swansea</a><br>
+          <a href="https://zenodo.org/records/10911057">Lancashire</a><br>
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
