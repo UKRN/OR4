@@ -440,24 +440,3 @@ Bristol
   </tbody>
 </table>
 
-
-
-
-
-
-<h1 style="font-weight: bold; font-size: 2em;">
-  <a href="https://recognition.ukrn-openresearch.ac.uk/guide-09-planning.html" style="text-decoration: none; color: inherit;">
-   Research Planning
-  </a>
-</h1>
-<table>
-  <thead>
-    <tr>
-     <th> (1) Are institutional research planning policies and procedures effectively aligned with open research criteria in research assessment?</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td style="background-color: #F1B9D8;" valign="top">Develop some open research objectives for use in research planning activities:</td>
-    </tr>
-```
