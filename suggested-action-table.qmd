@@ -170,4 +170,49 @@ If you would like to suggest an action, or contribute to an existing action, ple
     </tbody>
 </table>
 
+
+
+<h1 style="font-weight: bold; font-size: 2em;">
+  <a href="https://recognition.ukrn-openresearch.ac.uk/guide-03-strategy.html" style="text-decoration: none; color: inherit;">
+    Strategy and Planning
+  </a>
+</h1>
+<table>
+  <thead>
+    <tr>
+     <th colspan="4"> (1) Do you have a strategic plan for recognition and reward for open research, or is the topic addressed within a wider open research plan?</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td scope="col" valign="top">
+        <div style="font-size: 0.75em;">
+          <a href="https://www.bath.ac.uk/corporate-information/open-research-action-plan/">Bath</a>: “Working with the Academic Staff Committee to introduce Open Research criteria into recruitment and promotion.” <br><br>
+          <a href="https://www.keele.ac.uk/research/raise/governanceintegrityandethics/researchintegrity/openresearch/openresearchactionplan/Open%20Research%20Action%20Plan%20(Approved%20Nov%2021).pdf">Keele</a>: “Implementation of embedding Open Research criteria into recruitment, reward, promotion, and performance assessment.”<br><br>
+          <a href="https://www.surrey.ac.uk/sites/default/files/2022-02/open-research-strategic-goals-and-action-plan-2019-2024.pdf">Surrey</a>: “Launch responsible metrics and research assessment implementation plan.”<br><br>
+          <a href="https://static.reading.ac.uk/content/PDFs/files/Research/Open-Research-Action-Plan-2024-29.pdf">Reading</a>: “Publish Research Assessment Policy setting out expectations and requirements in alignment with principles of responsible research assessment and recognition and rewards for Open Research. Implement changes to recruitment, promotion, probation and other assessment-based processes to align with Research Assessment Policy.”
+        </div>
+      </td>
+      <td scope="col" valign="top">
+        <div style="font-size: 0.75em;">
+          Reading: ‘Enhancing Research Culture' funding from Research England was used to hire a PhD student to compare relevant action plans across the university for areas of overlap/duplication/complimentary actions, areas of conflict/tension/misalignment, and approaches taken to evaluating the success of actions.
+        </div>
+      </td>
+      <td scope="col" valign="top">
+        <div style="font-size: 0.75em;">
+          <!-- Add content here if available -->
+        </div>
+      </td>
+      <td scope="col" valign="top">
+        <div style="font-size: 0.75em;">
+          Newcastle
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ```
