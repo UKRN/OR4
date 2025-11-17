@@ -31,15 +31,15 @@ If you would like to suggest an action, or contribute to an existing action, ple
   </thead>
   <tbody>
     <tr>
-      <td valign="top" style="background-color: #F1B9D8;">Produce an open Research Statement:</td>
-      <td valign="top" style="background-color: #B0D8D4;">Produce a statement clarifying expectations around research assessment:</td>
-      <td valign="top" style="background-color: #F1B9D8; border-right: 1.5px solid black;">
+      <td scope="col" valign="top" style="background-color: #F1B9D8;">Produce an open Research Statement:</td>
+      <td scope="col" valign="top" style="background-color: #B0D8D4;">Produce a statement clarifying expectations around research assessment:</td>
+      <td scope="col" valign="top" style="background-color: #F1B9D8; border-right: 1.5px solid black;">
         Sign the <a href="https://inorms.net/more-than-our-rank/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">More Than Our Rank</a> initiative:
       </td>
-      <td valign="top" style="background-color: #B0D8D4;">Appoint a working group on 
+      <td scope="col" valign="top" style="background-color: #B0D8D4;">Appoint a working group on 
         <a href="https://sfdora.org/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">DoRA</a> compliance:
       </td>
-      <td valign="top" style="background-color: #F1B9D8;">
+      <td scope="col" valign="top" style="background-color: #F1B9D8;">
         Sign and develop an action plan based on
         <a href="https://coara.eu/agreement/action-plan/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">CoARA</a>:
       </td>
@@ -115,17 +115,17 @@ If you would like to suggest an action, or contribute to an existing action, ple
     </thead>
     <tbody>
         <tr>
-            <td style="background-color: #F1B9D8;" valign="top">Explicitly assign a senior leader responsibility for
+            <td scope="col" style="background-color: #F1B9D8;" valign="top">Explicitly assign a senior leader responsibility for
                 open research:</td>
-            <td style="background-color: #B0D8D4;" valign="top">Introduce a standing item on senior leadership meeting
+            <td scope="col" style="background-color: #B0D8D4;" valign="top">Introduce a standing item on senior leadership meeting
                 agendas for RRA:</td>
-            <td style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">
+            <td scope="col" style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">
                 Appoint a <a href="https://www.ukrn.org/institutional-leads/" target="_blank"
                     style="color: inherit; text-decoration: underline;" rel="noopener noreferrer">UKRN institutional lead.</a>
             </td>
-            <td style="background-color: #B0D8D4;" valign="top">Include leading open research efforts as a criterion of
+            <td scope="col" style="background-color: #B0D8D4;" valign="top">Include leading open research efforts as a criterion of
                 job descriptions, or development reviews for management. This may include leading by example:</td>
-            <td style="background-color: #F1B9D8;" valign="top">Where work is done regarding researcher assessment,
+            <td scope="col" style="background-color: #F1B9D8;" valign="top">Where work is done regarding researcher assessment,
                 include representatives from varied levels:</td>
         </tr>
         <tr>
@@ -167,4 +167,5 @@ If you would like to suggest an action, or contribute to an existing action, ple
         </tr>
     </tbody>
 </table>
+
 
