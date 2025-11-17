@@ -341,5 +341,50 @@ If you would like to suggest an action, or contribute to an existing action, ple
 
 
 
+<h1 style="font-weight: bold; font-size: 2em;">
+  <a href="https://recognition.ukrn-openresearch.ac.uk/guide-06-support.html" style="text-decoration: none; color: inherit;">
+   Support, systems and processes
+  </a>
+</h1>
+<table>
+  <thead>
+    <tr>
+     <th style= "border-right: 1.5px solid black;"> (1) Is there sufficient support for recognising and rewarding open research from  support staff?</th>
+     <th colspan="3" valign="top"> (2) Are the relevant administrative systems and processes adapted to support responsible researcher assessment?</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+     <td style="background-color: #B0D8D4; border-right: 1.5px solid black;" valign="top"></td>
+      <td style="background-color: #F1B9D8;" valign="top">Produce standard texts for responsible research assessment and open research expectations for use in job advertisements:</td>
+      <td style="background-color: #B0D8D4;" valign="top">Update application/promotion forms to include guidance on referencing non-traditional outputs:</td>
+      <td style="background-color: #F1B9D8;" valign="top">Develop an open research tracker for reporting open research outputs:</td>
+    </tr>
+    <tr>
+      <td style="border-right: 1.5px solid black;" valign="top">
+        <div style="font-size: 0.75em;">
+          <!-- Add supporting-staff examples here if available -->
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          <!-- Examples of standard texts for job adverts could be listed here -->
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          <!-- Notes about updated application/promotion forms -->
+        </div>
+      </td>
+      <td valign="top" style="font-size: 0.75em;">
+        <a href="https://www.openresearch.manchester.ac.uk/research-systems/">Manchester</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 ```
