@@ -17,6 +17,8 @@ This table summarises all the actions we are aware of our Community of Practice 
 
 If you would like to suggest an action, or contribute to an existing action, please contact Evangeline at **e.gowie@reading.ac.uk**.
 
+```{=html}
+
 <h1 style="font-weight: bold; font-size: 2em;">
   <a href="https://recognition.ukrn-openresearch.ac.uk/guide-01-commitment.html" style="text-decoration: none; color: inherit;">
     Institutional Commitment
@@ -168,4 +170,4 @@ If you would like to suggest an action, or contribute to an existing action, ple
     </tbody>
 </table>
 
-
+```
