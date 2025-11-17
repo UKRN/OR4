@@ -215,4 +215,65 @@ If you would like to suggest an action, or contribute to an existing action, ple
 
 
 
+
+
+<h1 style="font-weight: bold; font-size: 2em;">
+  <a href="https://recognition.ukrn-openresearch.ac.uk/guide-04-communication.html" style="text-decoration: none; color: inherit;">
+   Communication and Engagement 
+  </a>
+</h1>
+<table>
+  <thead>
+    <tr>
+     <th valign="top" style= "border-right: 1.5px solid black;"> (1) Are you undertaking strategic communication to:</th>
+     <th valign="top" style="border-right: 1.5px solid black;"> (2) engage key stakeholders required to implement recognition and reward for open research, </th>
+     <th valign="top" style="border-right: 1.5px solid black;"> (3) inform members of the research community of changes to policies,  procedures and institutional  values, and </th>
+     <th colspan="3" valign="top"> (4) seek researchers’ perspectives and experiences?</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">Develop an open research communication and engagement plan, which includes communications around recognition and reward for open research:</td>
+      <td style="background-color: #B0D8D4; border-right: 1.5px solid black;"> </td>
+      <td style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">Introduce open research awards:</td>
+      <td style="background-color: #B0D8D4;" valign="top">Present the self-assessment findings and seek feedback at meetings accessing a range of staff:</td>
+      <td style="background-color: #F1B9D8;" valign="top">Consult staff on proposals for inclusion of open research recognition and reward in research assessment reform:</td>
+      <td style="background-color: #B0D8D4;" valign="top">When implementing changes, conduct an initial trial to collect feedback from candidates and assessors:</td>
+</tr>
+    <tr>
+      <td style="border-right: 1.5px solid black;"></td>
+      <td style="border-right: 1.5px solid black;"></td>
+      <td valign="top" style="border-right: 1.5px solid black;">
+        <div style="font-size: 0.75em;">
+          <a href="https://www.ncl.ac.uk/library/academics-and-researchers/lrs/open-research/awards/">Newcastle</a><br>
+          <a href="https://www.ntu.ac.uk/research/research-and-impact/open-research/open-research-awards">Nottingham Trent</a><br>
+          <a href="https://www.manchester.ac.uk/about/news/nominations-open-research-award-2025/">Manchester</a><br>
+          <a href="https://www.surrey.ac.uk/sites/default/files/2023-11/open-research-award-guidelines.pdf">Surrey</a><br>
+          Reading<br>
+          <a href="https://www.bristol.ac.uk/staff/researchers/open-research/previous-events/gw4-open-research-week-2025/">Bristol, Bath, Cardiff and Exeter</a>: Joint awards through GW4 Open Research Week
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          Suffolk: Research Inst meetings and the early career network<br><br>
+          Reading: An event at the university wide open research week.
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          Lancashire: Formally consulted staff attitudes to the new Responsible Research Metrics statement
+        </div>
+      </td>
+      <td valign="top">
+        <div style="font-size: 0.75em;">
+          Cambridge: Narrative CV for post-doc trial<br><br>
+          <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-loughborough.html">Loughborough</a>: Evidence Informed Output Narrative trial with 10 academics from a range of disciplines, and one former promotion panel member.
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ```
