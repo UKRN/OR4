@@ -15,7 +15,7 @@ The **Recognising and rewarding open research** toolkit consists of three main c
 
 - an [implementation guide](guide-contents.qmd) consisting of an introduction and sections linked to corresponding action areas in the maturity framework, providing detailed practical guidance to support assessment, planning and progress. The guide is illustrated with [case studies](case-studies.qmd) that exemplify different aspects of institutional activity. A [glossary of key terms](glossary.qmd) is included.
 
-- a [suggested action table] (suggested-action-table.qmd) summerising, for each section of the framework, the actions that OR4 member institutions have taken to progress to the next level of maturity.
+- a [suggested action table](suggested-action-table.qmd) summerising, for each section of the framework, the actions that OR4 member institutions have taken to progress to the next level of maturity.
 
 The maturity framework and  guide are organised in nine action areas under three themes, as follows: 
 
