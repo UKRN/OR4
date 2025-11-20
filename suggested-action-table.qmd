@@ -184,7 +184,12 @@ If you would like to suggest an action, or contribute to an existing action, ple
     </tr>
   </thead>
   <tbody>
-
+<tr>
+      <td style="background-color: #F1B9D8;" valign="top">Produce an open Research Action Plan featuring RRA:</td>
+      <td style="background-color: #B0D8D4;" valign="top">Collate related action plans to avoid duplication or oversight:</td>
+      <td style="background-color: #F1B9D8;" valign="top">Where research assessment reform work is undertaken by an existing group, formally nominate an open research representative in this group:</td>
+      <td style="background-color: #B0D8D4;" valign="top">Produce a dedicated responsible Research Metrics Action Plan:</td>
+    </tr>
     <tr>
       <td scope="col" valign="top">
         <div style="font-size: 0.75em;">
