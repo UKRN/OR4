@@ -29,6 +29,8 @@ website:
         href: maturity-framework.qmd
       - text: "Guide"
         href: guide-contents.qmd
+      - text: "Suggested action table"
+        href: suggested-action-table.qmd
       - text: "Case studies"
         href: case-studies.qmd
   sidebar:
