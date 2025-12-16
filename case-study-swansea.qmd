@@ -33,6 +33,7 @@ Beginning in September 2024, Swansea University has implemented its reformed [Ac
 4. Contribution to broader society
 
 The reformed ACPs include recognition of Open Research and Collaboration for the first time, promoting practices which support collegiality, transparency, reproducibility, and open access research.
+
 ## Why was the change undertaken?
 
 As part of Swansea University’s promise to advance research assessment and establish an open, effective, and inclusive research culture, Swansea University joined the Coalition for Advancing Research Assessment (CoARA) as a signatory in November 2022. Swansea University holds a long history of commitment to the advancement of research assessment, having been signatories for the Concordat for Researchers since 1996, and the San Francisco Declaration of Research Assessment (DORA) since 2018. As of 2024, Swansea University co-leads the UK National Chapter of CoARA alongside University of Strathclyde and Loughborough University. In June 2024, Swansea University published its [CoARA Action Plan]((https://zenodo.org/records/12734220)) detailing its proposed actions towards from 2023 to 2028.
