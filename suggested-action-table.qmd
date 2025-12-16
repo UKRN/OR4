@@ -327,7 +327,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
         <div style="font-size: 0.75em;">
           Manchester Metropolitan<br>
           <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-loughborough.html">Loughborough</a><br>
-          Swansea
+           <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-swansea.html">Swansea</a>
         </div>
       </td>
       <td valign="top">
@@ -447,9 +447,9 @@ If you would like to suggest an action, or contribute to an existing action, ple
       <td valign="top"><div style="font-size: 0.75em;"><a href="https://recognition.ukrn-openresearch.ac.uk/case-study-bristol.html">Bristol</a>: Narrative CV Writing Workshops and a 'Developing your Narrative Promotion Case' training (both remote and in-person sessions). Anecdotally, the quality of narratives has been reported to have improved, and assessors feel more confident in reviewing them<br><br>
         <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-loughborough.html">Loughborough</a></div>
       </td>
-      <td valign="top"><div style="font-size: 0.75em;">Swansea: Provided a series of central workshops and faculty-specific training sessions following the promotion framework update.</div></td>
+      <td valign="top"><div style="font-size: 0.75em;" <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-swansea.html">Swansea</a>: Provided a series of central workshops and faculty-specific training sessions following the promotion framework update.</div></td>
       <td valign="top"><div style="font-size: 0.75em;"><a href="https://recognition.ukrn-openresearch.ac.uk/case-study-loughborough.html">Loughborough</a></div></td>
-      <td valign="top"><div style="font-size: 0.75em;">Swansea</div></td>
+      <td valign="top"><div style="font-size: 0.75em;"> <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-swansea.html">Swansea</a></div></td>
     </tr>
   </tbody>
 </table>
@@ -476,7 +476,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
         <div style="font-size: 0.75em;">Reading: Analysed a sample of Personal Title Submissions and academic post applications for evidence of Open Research criteria being used.</div>
       </td>
       <td valign="top">
-        <div style="font-size: 0.75em;">Swansea: Used CoARA funding to formally evaluate reforms<br>
+        <div style="font-size: 0.75em;"> <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-swansea.html">Swansea</a>: Used CoARA funding to formally evaluate reforms<br>
         <a href="https://www.arrc.group.cam.ac.uk/narrative-cv">Cambridge</a>: Conducting a research project on the effects of narrative CVs</div>
       </td>
     </tr>
