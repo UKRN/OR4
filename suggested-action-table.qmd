@@ -264,7 +264,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
       <td valign="top">
         <div style="font-size: 0.75em;">
           Suffolk: Research Inst meetings and the early career network<br><br>
-          Reading: An event at the university wide open research week.
+           <a href="https://www.youtube.com/watch?v=l1gHqxdOYo0">Reading</a>: An event at the university wide open research week.
         </div>
       </td>
       <td valign="top">
