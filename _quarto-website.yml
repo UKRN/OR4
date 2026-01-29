@@ -52,6 +52,8 @@ website:
         href: case-study-NTU.qmd
       - text: "Swansea University"
         href: case-study-swansea.qmd
+     - text: "Keele University"
+        href: case-study-keele.qmd
     - title: "Implementation guide"
       style: "docked"
       contents:
