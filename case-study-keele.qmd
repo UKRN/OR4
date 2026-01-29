@@ -1,0 +1,58 @@
+---
+page-navigation: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-title: Page Contents
+    other-links:
+      - text: This page as PDF
+        href: resources/case-study-bristol.pdf
+        target: _blank
+        icon: file-earmark-pdf
+---
+
+# Integrating Open Research Awards into Keele Excellence Awards
+
+**Sophie Martin** (Research Operations Administrator and UKRN Open Research Administrator) and **Jim Grange** (Professor of Cognitive Science & Academic Lead for Research Integrity & Improvement)
+
+See Implementation guide section: [Communication and Engagement](https://recognition.ukrn-openresearch.ac.uk/guide-04-communication.html)
+
+## About Keele University
+
+Keele University combines the best of modern learning with a rich history on a stunning, green campus. Our innovative courses are designed with employability in mind, offering placement opportunities that prepare students for real-world success. Located near both a vibrant university town and a bustling city, Keele is a global community for both academic and personal growth, and our world-class research has impact regionally, nationally and internationally.
+
+## What has changed? 
+
+Keele University has taken a significant step toward embedding Open Research into its institutional culture by including the Open Research Award into its flagship Keele Excellence Awards (KEA), rather than holding it as a standalone award. This change ensures that openness, transparency, and reproducibility in research are  integrated into overall celebrations of staff achievement, reinforcing the university’s commitment to a positive and inclusive research environment.
+
+The Keele Excellence Awards (KEA) form a central part of the annual Celebrating Staff Success event at Keele University. This initiative is designed to publicly recognise and celebrate staff achievements across multiple areas. The event showcases winners of the KEA, honours staff reaching long service milestones (25 and 40 years), and recognises colleagues who have achieved professional qualifications in the past year, such as degrees, HEA fellowships, and accredited certifications.
+
+Including the Open Research award in the KEA has received positive feedback from staff, noting the prestige of being recognized in a high-profile University wide event.
+
+Before these were integrated into the Keele Excellence awards, Professor Jim Grange had this to say surrounding the Open Research Awards during Keele’s Open Research Week in 2023.
+
+*"These Institutional Open Research Awards are designed to recognise and reward colleagues who have made strong contributions to the principles of Open Research in their work. The excellence of the applications submitted by both award recipients (winners of Open Research Awards 2023) was astounding… open research can catalyse not only their own research but also have a rippling effect across the wider research community."*
+ — Prof. Jim Grange
+
+##Why was the change undertaken?
+
+The goal was to elevate the visibility of Open Research practices and position them as a core component of research excellence. By incorporating the Open Research Award into the annual Celebrating Staff Success event, Keele aimed to:
+-	Showcase and reward commitment to open and transparent research.
+-	Promote Open Research as integral to the university’s research culture.
+-	Provide a unified platform for celebrating diverse staff contributions.
+
+## How was the change carried out?
+
+Previously, open research-related awards were celebrated separately from the broader staff recognition event. In 2023, following collaboration between the PVC Research and the Director of Research Innovation and Engagement, Keele decided to merge these awards into the Celebrating Staff Success initiative. Key steps included:
+-	Aligning Open Research Award criteria with Keele Excellence Awards categories.
+-	Featuring shortlisted nominees in the event brochure.
+-	Highlighting winners across university-wide communications.
+-	Showcasing research-focused awards (including Open Research, Research Enablement, and Research Citizenship) alongside other achievements such as long service milestones and professional qualifications.
+
+## Challenges and lessons learnt
+
+We were fortunate to have considerable support from the University Senior Leadership in establishing the Keele Open Research Award, and as such we experienced no challenges in this regard. Now that the awards have been running for a couple of years, an arising challenge is receiving nominations for the award. Speaking informally to potential applicants, there appears a reticence to put themselves forward thinking they "aren't doing enough" in Open Research to warrant an award. Often, though, this couldn't be further from the truth, so we are putting effort into proactively speaking to School Research Directors to consider nominating colleagues from their areas.
+
+© Keele University. Licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en).
