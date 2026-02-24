@@ -250,10 +250,11 @@ Consider the value of becoming a member/signatory to an internationally recognis
       <td style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">Develop an open research communication and engagement plan, which includes communications around recognition and reward for open research:</td>
       <td style="background-color: #B0D8D4; border-right: 1.5px solid black;"> </td>
       <td style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">Introduce open research awards:</td>
-      <td style="background-color: #B0D8D4; border-right: 1.5px solid black;" valign="top">Disseminate via blog posts:</td>
-      <td style="background-color: #F1B9D8;" valign="top">Present the self-assessment findings and seek feedback at meetings accessing a range of staff:</td>
-      <td style="background-color: #B0D8D4;" valign="top">Consult staff on proposals for inclusion of open research recognition and reward in research assessment reform:</td>
-      <td style="background-color: #F1B9D8;" valign="top">When implementing changes, conduct an initial trial to collect feedback from candidates and assessors:</td>
+      <td style="background-color: #B0D8D4; border-right: 1.5px solid black;" valign="top">Create a 'Changes at a Glance' summary of any new or updated policies:</td>
+      <td style="background-color: #F1B9D8; border-right: 1.5px solid black;" valign="top">Disseminate via blog posts:</td>
+      <td style="background-color: #B0D8D4;" valign="top">Present the self-assessment findings and seek feedback at meetings accessing a range of staff:</td>
+      <td style="background-color: #F1B9D8;" valign="top">Consult staff on proposals for inclusion of open research recognition and reward in research assessment reform:</td>
+      <td style="background-color: #B0D8D4;" valign="top">When implementing changes, conduct an initial trial to collect feedback from candidates and assessors:</td>
 </tr>
     <tr>
       <td style="border-right: 1.5px solid black;"></td>
@@ -267,6 +268,10 @@ Consider the value of becoming a member/signatory to an internationally recognis
           Reading<br>
           <a href="https://www.bristol.ac.uk/staff/researchers/open-research/previous-events/gw4-open-research-week-2025/">Bristol, Bath, Cardiff and Exeter</a>: Joint awards through GW4 Open Research Week
           <a href="https://recognition.ukrn-openresearch.ac.uk/case-study-keele.html">Keele</a><br></div>
+      </td>
+      <div style="font-size: 0.75em;"> 
+      <a href="https://www.bath.ac.uk/campaigns/responsible-research-assessment/">Bath</a>
+      <td valign="top">
       </td>
       <div style="font-size: 0.75em;"> 
       <a href="https://blogs.bath.ac.uk/pvc-research/">Bath</a>: PVC Blog<br><br>
@@ -376,7 +381,7 @@ Consider the value of becoming a member/signatory to an internationally recognis
   </thead>
   <tbody>
      <tr>
-     <td style="background-color: #B0D8D4; border-right: 1.5px solid black;" valign="top"></td>
+     <td style="background-color: #B0D8D4; border-right: 1.5px solid black;" valign="top">Develop indicators to recognise the contribution of research support staff:</td>
       <td style="background-color: #F1B9D8;" valign="top">Produce standard texts for responsible research assessment and open research expectations for use in job advertisements:</td>
       <td style="background-color: #B0D8D4;" valign="top">Update application/promotion forms to include guidance on referencing non-traditional outputs:</td>
       <td style="background-color: #F1B9D8;" valign="top">Develop an open research tracker for reporting open research outputs:</td>
