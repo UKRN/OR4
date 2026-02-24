@@ -200,7 +200,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
     <tr>
       <td scope="col" valign="top">
         <div style="font-size: 0.75em;">
-          Bath:<a href="https://www.bath.ac.uk/corporate-information/open-research-action-plan/">Open Research Action Plan</a> - “Working with the Academic Staff Committee to introduce Open Research criteria into recruitment and promotion.” <br><br>
+          Bath: <a href="https://www.bath.ac.uk/corporate-information/open-research-action-plan/">Open Research Action Plan</a> - “Working with the Academic Staff Committee to introduce Open Research criteria into recruitment and promotion.” <br><br>
           <a href="https://www.bath.ac.uk/corporate-information/open-research-action-plan/">Research Culture Action Plan</a> - “Review responsible research assessment (RRA) policies and practices and reward a broader definition of research excellence (to include diverse output types and behaviours), and learning from peer institutions.<br><br>
 Consider the value of becoming a member/signatory to an internationally recognised research assessment standard.”<br><br>
           <a href="https://www.keele.ac.uk/research/raise/governanceintegrityandethics/researchintegrity/openresearch/openresearchactionplan/Open%20Research%20Action%20Plan%20(Approved%20Nov%2021).pdf">Keele</a>: “Implementation of embedding Open Research criteria into recruitment, reward, promotion, and performance assessment.”<br><br>
@@ -271,7 +271,7 @@ Consider the value of becoming a member/signatory to an internationally recognis
       </td>
       <td valign="top">
       <div style="font-size: 0.75em;"> 
-      <a href="https://www.bath.ac.uk/campaigns/responsible-research-assessment/">Bath</a>
+      <a href="https://www.bath.ac.uk/campaigns/responsible-research-assessment/">Bath</a></div>
       </td>
       <div style="font-size: 0.75em;"> 
       <a href="https://blogs.bath.ac.uk/pvc-research/">Bath</a>: PVC Blog<br><br>
