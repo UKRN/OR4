@@ -54,6 +54,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
           Leeds<br>
           <a href="https://ora.ox.ac.uk/objects/uuid:f381d99a-e117-42b8-a134-4cdbfb82a3f9/files/rsf268620n">Oxford</a><br>
           <a href="https://www.sussex.ac.uk/library/open-research/open-sussex/statement">Sussex</a><br>
+          <a href="https://library.ed.ac.uk/research-support/open-research/about">Edinburgh</a><br>
           <a href="https://www.wlv.ac.uk/media/departments/research/documents/Open-Research-Statement-2023.pdf">Wolverhampton</a><br>
           <a href="https://www.openresearch.cam.ac.uk/cambridge/policies-frameworks/open-research-position-statement">Cambridge</a><br>
           <a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Open-Research-Statement.pdf">Sunderland</a>
@@ -68,6 +69,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
           <a href="https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/responsible_research_metrics_statement.pdf">Edinburgh</a><br>
           <a href="https://www.brookes.ac.uk/getmedia/c496694b-b2af-468f-b18e-327d9c22e62b/responsible-metrics-position-statement-revised-4th-may-2022.pdf">Oxford Brookes</a><br>
           <a href="https://www.surrey.ac.uk/library/open-research/research-metrics">Surrey</a><br>
+          <a href="https://www.ed.ac.uk/research-cultures/home/responsible-research-assessment">Edinburgh</a><br>
           <a href="https://www.reading.ac.uk/research/-/media/discover/files/pdfs/8a75584ea8e84c63a0d4c21a34958811.pdf">Reading</a><br>
           <a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Responsible-metrics-statement.pdf">Sunderland</a><br>
           <a href="https://www.durham.ac.uk/research/ethics--governance/responsible-use-of-metrics-statement/#:~:text=We%20recognise%20the%20potentially%20important,publish%20in%20high%20quality%20journals.">Durham</a><br>
@@ -140,6 +142,7 @@ If you would like to suggest an action, or contribute to an existing action, ple
                     committees are chaired by a senior individual such as a PVC for Research or Dean with responsibility
                     for
                     research culture or excellence.<br><br>
+                    York: Open Research Stretegy group chaired by the Assosiate Dean for Research.<br><br>
                     Manchester Metropolitan: University Research and Knowledge Exchange Committee, chaired by PVC for
                     Research. Membership includes Directors of Research from each of our four faculties and Professional
                     Services.<br><br>
