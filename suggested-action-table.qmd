@@ -273,9 +273,11 @@ Consider the value of becoming a member/signatory to an internationally recognis
       <div style="font-size: 0.75em;"> 
       <a href="https://www.bath.ac.uk/campaigns/responsible-research-assessment/">Bath</a></div>
       </td>
+      <td valign="top" style="border-right: 1.5px solid black;">
       <div style="font-size: 0.75em;"> 
       <a href="https://blogs.bath.ac.uk/pvc-research/">Bath</a>: PVC Blog<br><br>
       <a href="https://blogs.ed.ac.uk/edinburgh_open_research/2022/12/07/the-university-of-edinburgh-has-signed-up-to-coara/">Edinburgh</a>: OR Blog<br><br></div>
+      </td>
       <td valign="top">
         <div style="font-size: 0.75em;">
           Suffolk: Research Inst meetings and the early career network<br><br>
