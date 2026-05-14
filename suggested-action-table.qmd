@@ -27,15 +27,16 @@ If you would like to suggest an action, or contribute to an existing action, ple
 <table>
   <thead>
     <tr>
-      <th colspan="3" style="border-right: 1.5px solid black;"> (1) Does your institution make public commitments to the principles and aims of open research and responsible research assessment?</th>
+      <th colspan="4" style="border-right: 1.5px solid black;"> (1) Does your institution make public commitments to the principles and aims of open research and responsible research assessment?</th>
       <th colspan="2" valign="top"> (2) Are these commitments supported by action?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td scope="col" valign="top" style="background-color: #F1B9D8;">Produce an open Research Statement:</td>
-      <td scope="col" valign="top" style="background-color: #B0D8D4;">Produce a statement clarifying expectations around research assessment:</td>
-      <td scope="col" valign="top" style="background-color: #F1B9D8; border-right: 1.5px solid black;">
+      <td scope="col" valign="top" style="background-color: #B0D8D4;">When writing policies or statements, use the CRediT taxonomy to demonstrate commitment to transparent authorship:</td>
+      <td scope="col" valign="top" style="background-color: #F1B9D8;">Produce a statement clarifying expectations around research assessment:</td>
+      <td scope="col" valign="top" style="background-color: #B0D8D4; border-right: 1.5px solid black;">
         Sign the <a href="https://inorms.net/more-than-our-rank/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">More Than Our Rank</a> initiative:
       </td>
       <td scope="col" valign="top" style="background-color: #B0D8D4;">Appoint a working group on 
@@ -58,6 +59,10 @@ If you would like to suggest an action, or contribute to an existing action, ple
           <a href="https://www.wlv.ac.uk/media/departments/research/documents/Open-Research-Statement-2023.pdf">Wolverhampton</a><br>
           <a href="https://www.openresearch.cam.ac.uk/cambridge/policies-frameworks/open-research-position-statement">Cambridge</a><br>
           <a href="https://www.sunderland.ac.uk/images/external-websites/www/research/research-ethics/Open-Research-Statement.pdf">Sunderland</a>
+        </div>
+      </td>
+ <td valign="top">
+        <div style="font-size: 0.75em;">
         </div>
       </td>
       <td valign="top">
